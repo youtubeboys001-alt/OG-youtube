@@ -1,0 +1,920 @@
+STATE 11 — IMAGE PROMPTS (v2)
+"The Terrifying Birth Defect Our Ancestors Feared Most"
+300 prompts | 4.0s average beat | Total runtime 20:12 (1,212s)
+MS Paint cartoon style: flat colors, thick black outlines, stick figures with round heads and dot eyes, no gradients, no shadows.
+
+1. MS Paint cartoon of an ancient Roman birthing room with flat grey-blue stone walls and a flat brown floor, a stick figure midwife in a flat white robe standing calm and experienced at center, round head, dot eyes, two orange torch flame shapes on the walls, thick black outlines, flat colors;
+
+2. MS Paint cartoon of the same stone room, the midwife stick figure leaning over a flat brown bed where a stick figure mother lies, a tiny bundled baby shape just appearing, both round heads with dot eyes, torch shapes glowing, thick black outlines, flat colors;
+
+3. MS Paint cartoon of the stone room gone silent, the midwife and mother stick figures frozen with wide dot eyes and small straight-line mouths, a flat grey hush shown as faint motionless air, brown floor, torch shapes, thick black outlines, flat colors;
+
+4. MS Paint cartoon close-up of the midwife stick figure's round face filling the frame, wide stunned dot eyes, a flat straight-line mouth, a single flat question mark floating above her head, plain pale background, thick black outlines, flat yellow skin;
+
+5. MS Paint cartoon of the midwife stick figure holding a small bundled shape at arm's length, a large flat question mark and a blank flat label tag floating beside it, stone room background, torch shapes, thick black outlines, flat colors;
+
+6. MS Paint cartoon of a flat teal sky with a yellow sun and simple star shapes, a stick figure priest below with arms raised upward, golden sandy ground, flat terracotta buildings, representing a world where everything has a reason, thick black outlines, flat colors;
+
+7. MS Paint cartoon of a stick figure mother seated with a red X floating above her head and two accusing stick figures pointing at her from either side, flat stone wall behind, golden ground, thick black outlines, flat colors;
+
+8. MS Paint cartoon of a flat horizontal banner reading the idea of birth defects as old as humanity, three faded ancient silhouettes — a pyramid, a clay tablet, a Greek vase — lined across a teal-to-cream flat background, thick black outlines, flat colors;
+
+9. MS Paint cartoon of a flat gold Egyptian sarcophagus open on a stone table with a white-bandaged mummy inside, two stick figure archaeologists in khaki leaning over it, grey walls, thick black outlines, flat colors;
+
+10. MS Paint cartoon of a flat brown Mesopotamian clay tablet covered in wedge marks beside a flat orange Greek pottery vase, both on a flat museum shelf, a stick figure scholar pointing between them, blue wall, lime green floor, thick black outlines;
+
+11. MS Paint cartoon of a crowd of stick figures around a flat orange Greek pot, half of them with wide fascinated dot eyes and half recoiling with arms up, a painted unusual figure visible on the pot, blue museum wall, thick black outlines, flat colors;
+
+12. MS Paint cartoon of four flat panels side by side with thick black borders — panel one a lightning bolt labeled CURSE, panel two a glowing scroll labeled PROPHECY, panel three a red X labeled PUNISHMENT, panel four a gold star labeled SACRED SIGN — flat colors, thick black outlines;
+
+13. MS Paint cartoon of a large flat grey stone slab with MONSTRA carved in block letters, a stick figure Roman soldier in a flat red tunic pointing at it, golden sandy ground, teal sky, flat stone arch behind, thick black outlines;
+
+14. MS Paint cartoon of a stick figure Roman herald on stone steps holding up a flat scroll labeled A MESSAGE, a crowd of stick figures below with wide dot eyes, flat terracotta buildings, golden ground, teal sky, thick black outlines, flat colors;
+
+15. MS Paint cartoon of a stick figure Haruspex priest in a flat white robe and gold headband at a stone altar examining a clay tablet, a scribe stick figure writing beside him, flat gold interior, torch shapes, lime green floor, thick black outlines;
+
+16. MS Paint cartoon of a flat teal sky with a white lightning bolt striking a terracotta temple on the left and a yellow comet streaking on the right, a stick figure priest below with arms raised, golden ground, thick black outlines, flat colors;
+
+17. MS Paint cartoon of a stick figure scribe at a low flat desk pressing a stylus into a clay tablet, a stamped seal beside it, shelves of clay tablets on grey stone walls, torch shapes, brown floor, thick black outlines, flat colors;
+
+18. MS Paint cartoon of a flat Roman city square responding — stick figure citizens reacting with wide dot eyes and open mouths as an official stick figure reads from a scroll on a podium, terracotta buildings, golden ground, teal sky, thick black outlines;
+
+19. MS Paint cartoon of a flat microscope shape and a flat clay tablet shape side by side with an equals sign between them, a stick figure with a curious tilted round head, plain white background, thick black outlines, flat colors;
+
+20. MS Paint cartoon of a flat map with ancient Mesopotamia highlighted in bright yellow, a red star at its center, flat blue water and green land around, a label tag reading ANENCEPHALY, white background, thick black outlines;
+
+21. MS Paint cartoon of a large flat brown clay tablet filling the frame, rows of wedge marks and a column of tiny stick figure baby drawings each with a different highlighted feature, dark pressed marks, thick black outlines, flat colors;
+
+22. MS Paint cartoon of a flat wall of stacked clay tablets each marked with a small stick figure baby symbol, a stick figure scribe scanning the rows, grey stone room, torch shapes, brown floor, thick black outlines, flat colors;
+
+23. MS Paint cartoon of a flat clay tablet stamped with an official royal seal shape, held up by a stick figure royal official in blue and gold robes, flat gold throne room walls, lime green floor, thick black outlines, flat colors;
+
+24. MS Paint cartoon of a grand flat royal archive room with floor-to-ceiling shelves of clay tablets, a stick figure scribe on a ladder reaching the high shelves, grey stone walls, brown floor, torch shapes, thick black outlines, flat colors;
+
+25. MS Paint cartoon of a flat clay tablet close-up showing a stick figure baby drawing beside a lightning bolt and a drooping wheat stalk, representing formal predictions, brown clay color, dark marks, plain background, thick black outlines;
+
+26. MS Paint cartoon of a flat clay tablet showing three small icons — a city wall, a falling crown, and a drooping wheat stalk — connected by lines to a central baby drawing, representing city, king, and harvest, brown clay, thick black outlines;
+
+27. MS Paint cartoon of a flat anatomical front-view diagram of a stick figure baby, the top of the round head shown as a flat line with a dotted outline above where the skull should be, eyes open as dots, plain white background, thick black outlines;
+
+28. MS Paint cartoon of a stick figure baby lying on a flat green blanket, round face with two open dot eyes, the top of the head a flat horizontal line with nothing above, a midwife looking down with a flat downward mouth, blue wall, lime green floor, thick black outlines;
+
+29. MS Paint cartoon of the same baby diagram with a red dotted outline marking the absent skull and a small label EXPOSED, plain white educational background, thick black outlines, flat colors;
+
+30. MS Paint cartoon of a stick figure Babylonian priest dropping a clay tablet in shock, both arms up, wide dot eyes and an O-shaped mouth, the tablet hitting the brown floor with flat impact lines, stone room, torch shapes, thick black outlines;
+
+31. MS Paint cartoon of a flat clay tablet ringed with warning symbols — lightning, a falling crown, a skull shape, a drooping stalk — around a central baby drawing, labeled WARNING in block letters, beige clay, thick black outlines;
+
+32. MS Paint cartoon of a flat scroll-like tablet labeled SHEMA'ALU unrolling to reveal rows of tiny stick figure baby drawings with red-circled features, a scholar reading it with a magnifying glass, plain background, thick black outlines, flat colors;
+
+33. MS Paint cartoon of a flat dark purple storm sky with grey clouds and a red lightning bolt over a small flat terracotta city, stick figures fleeing with zigzag motion lines, golden ground, representing disaster coming, thick black outlines;
+
+34. MS Paint cartoon of a stick figure priest holding a clay tablet with a single large flat question mark on it, looking worried with furrowed brow lines, flat stone room, torch shapes, thick black outlines, flat colors;
+
+35. MS Paint cartoon of a flat two-panel split on white — left a stick figure priest under a glowing star labeled OMEN, right a flat orange neural tube diagram labeled NEURAL TUBE DEFECT — thick black dividing line, block letters, thick black outlines;
+
+36. MS Paint cartoon of a flat calendar shape with the first four weeks highlighted in bright yellow beside a small flat oval embryo, a sleeping stick figure mother unaware, labeled WEEK 1-4, plain white background, thick black outlines, flat colors;
+
+37. MS Paint cartoon of a flat embryo cross-section with an orange neural tube shape curving through the center, simple arrows showing it forming, plain white educational background, thick black outlines, flat colors;
+
+38. MS Paint cartoon of a flat diagram of an orange neural tube splitting into a pink brain squiggle at the top and a spine line at the bottom, labeled BRAIN and SPINAL CORD in block letters, plain white background, thick black outlines;
+
+39. MS Paint cartoon of a flat head cross-section diagram where the top of the neural tube shows a red open gap and no brain squiggle forms above it, two red X marks beside the opening, labeled FAILS TO CLOSE, white background, thick black outlines;
+
+40. MS Paint cartoon of a flat split image — a flat DNA helix labeled GENETIC on the left and a yellow folic acid pill with a red X labeled DEFICIENCY on the right — joined by a plus sign, plain white background, thick black outlines, flat colors;
+
+41. MS Paint cartoon of a single large flat yellow oval pill labeled B VITAMIN, surrounded by empty dotted circles showing its absence, plain white background, thick black outlines, flat colors;
+
+42. MS Paint cartoon of a flat brain outline shown faint and unformed with a dotted incomplete edge, a small grey grave marker beside it, plain white background, representing infants who rarely survived, thick black outlines;
+
+43. MS Paint cartoon of a stick figure ancient priest pointing at a small bundle on a stone altar with one hand and at the teal sky with the other, understanding the outcome but not the cause, golden ground, terracotta buildings, thick black outlines;
+
+44. MS Paint cartoon of stick figure ancients building a flat temple of meaning — stacking flat stone blocks each carved with a star, an eye, a god symbol — around a small central baby drawing, golden ground, teal sky, thick black outlines;
+
+45. MS Paint cartoon of a stick figure scribe carefully filing clay tablets into labeled wall niches, each tablet documented and catalogued, grey stone archive, torch shapes, brown floor, thick black outlines, flat colors;
+
+46. MS Paint cartoon of a flat stone archive building exterior at night, warm yellow light in the window shapes, stick figure scribes visible inside still working, dark teal sky, golden ground, a flat sign on the wall, thick black outlines;
+
+47. MS Paint cartoon of a stick figure scribe comparing two clay tablets held side by side with a connecting dotted line between matching marks, like early epidemiology, grey stone room, torch shapes, thick black outlines, flat colors;
+
+48. MS Paint cartoon of a flat simple line graph on white with clay tablet shapes along the bottom as time markers and a rising-falling line above, a stick figure pointing at a pattern with a pointer stick, thick black outlines, flat colors;
+
+49. MS Paint cartoon of a stick figure scribe pointing at a star in the sky while the real cause — a flat DNA helix — appears behind him in a thought bubble, interpreting patterns as divine, flat stone room, thick black outlines, flat colors;
+
+50. MS Paint cartoon of a flat balance scale with a glowing star labeled MEANING on one side and a flat gear labeled MECHANISM with a red X on the other, a stick figure observing, white background, thick black outlines, flat colors;
+
+51. MS Paint cartoon of a flat title card with SPINA BIFIDA in block letters and a small flat lower-spine diagram beside it, a stick figure standing alive and upright next to it, plain pale background, thick black outlines, flat colors;
+
+52. MS Paint cartoon of a stick figure child smiling with an upward curved mouth, round head, dot eyes, walking on golden ground under a teal sky, flat green hills behind, representing the child who survives, thick black outlines, flat colors;
+
+53. MS Paint cartoon of a flat spine diagram from behind, the upper section grey bone and the lower section orange with a visible gap where the neural tube failed to close at the bottom, labeled INCOMPLETE, white background, thick black outlines;
+
+54. MS Paint cartoon of a stick figure shown from behind with a flat orange oval sac shape bulging on the lower back, a stick figure doctor examining it, blue wall, lime green floor, thick black outlines, flat colors;
+
+55. MS Paint cartoon of a flat human body outline with the lower legs drawn in grey dotted lines representing partial paralysis, a label arrow pointing to them, plain white background, thick black outlines, flat colors;
+
+56. MS Paint cartoon of a flat lower-body diagram with a grey shaded band across the legs labeled LOSS OF SENSATION, simple arrows, plain white educational background, thick black outlines, flat colors;
+
+57. MS Paint cartoon of two stick figures side by side, one with a faint barely-visible mark on the lower back labeled MILD, both standing normally with dot eyes, plain pale background, thick black outlines, flat colors;
+
+58. MS Paint cartoon of a flat golden archaeological dig site, a stick figure in khaki crouching and brushing sand off a flat skeleton outline in the earth, teal sky, terracotta hills, thick black outlines, flat colors;
+
+59. MS Paint cartoon of three flat skeleton diagrams in a row labeled EGYPT, EUROPE, AMERICAS, each with a glowing orange lower-spine highlight, plain white background, thick black outlines, flat colors;
+
+60. MS Paint cartoon of a flat skeleton diagram with an orange highlighted lower spine, a checkmark beside it confirming it is consistent with spina bifida, plain white background, thick black outlines, flat colors;
+
+61. MS Paint cartoon of a flat skeleton beside a flat clock shape with decades marked around the face and a checkmark above, representing long-term survival, plain white background, thick black outlines, flat colors;
+
+62. MS Paint cartoon of a stick figure parent kneeling beside a stick figure child on a flat mat, feeding the child from a flat bowl, flat stone room, orange-yellow walls, brown floor, thick black outlines, flat colors;
+
+63. MS Paint cartoon of a stick figure parent and child outdoors in a flat village, the parent steadying the child by the arm, other stick figures passing normally, terracotta walls, golden ground, teal sky, thick black outlines;
+
+64. MS Paint cartoon of a flat map of Egypt highlighted in yellow with a glowing label TUTANKHAMUN and a small crown and walking-stick icon, flat blue water around, white background, thick black outlines, flat colors;
+
+65. MS Paint cartoon of a stick figure pharaoh Tutankhamun in a flat gold and blue headdress sitting upright on a square throne, a flat gold crook and flail crossed on the chest, gold-and-blue palace walls, lime green floor, thick black outlines;
+
+66. MS Paint cartoon of a flat skeleton diagram with the lower spine highlighted orange labeled MILD SPINA BIFIDA, an arrow pointing to it, plain white educational background, thick black outlines, flat colors;
+
+67. MS Paint cartoon of a flat foot diagram with the ankle bones drawn red labeled CLUBFOOT beside a small bone-disease icon, plain white background, thick black outlines, flat colors;
+
+68. MS Paint cartoon of a stick figure pharaoh in flat gold robes walking with a flat wooden cane, a slight lean to the body, gold-and-blue Egyptian palace interior, lime green floor, thick black outlines, flat colors;
+
+69. MS Paint cartoon of a flat Egyptian tomb interior with gold walls and blue hieroglyphs, a long row of 130 flat walking sticks leaned against the wall, labeled 130 in large block letters, brown floor, thick black outlines;
+
+70. MS Paint cartoon of a stick figure historian standing between a display labeled SYMBOLIC? and a display labeled PRACTICAL?, a pile of flat walking sticks between them, blue museum wall, lime green floor, thick black outlines;
+
+71. MS Paint cartoon of a flat Roman stone plaza with an altar, a stick figure priest in a white robe with arms raised, a small stick figure child nearby treated as significant, labeled PRODIGY, teal sky, golden ground, thick black outlines;
+
+72. MS Paint cartoon of a flat scene with a red X over a destruction symbol, replaced by a green checkmark over a stick figure child being kept safe, showing the response was not always destruction, white background, thick black outlines;
+
+73. MS Paint cartoon of three flat panels with thick black borders — a fire flame labeled RITUAL, clasped hands labeled PRAYER, a bowed stick figure labeled ATONEMENT — flat colors, thick black outlines;
+
+74. MS Paint cartoon of a stick figure child at the center of a ring of stick figure priests, gold glow lines radiating around the child, treated as living evidence of divine communication, flat stone plaza, teal sky, thick black outlines;
+
+75. MS Paint cartoon of a stick figure child surrounded by a protective ring of guard stick figures, kept alive to preserve the message, flat stone columns, golden ground, teal sky, thick black outlines, flat colors;
+
+76. MS Paint cartoon of a flat neural tube diagram with the same orange tube, a folic acid pill with a red X beside it, two arrows branching from the tube, plain white background, thick black outlines, flat colors;
+
+77. MS Paint cartoon of a flat diagram of the orange neural tube with an arrow pointing up labeled TOP = ANENCEPHALY and an arrow pointing down labeled BOTTOM = SPINA BIFIDA, plain white background, thick black outlines;
+
+78. MS Paint cartoon of a flat title card CONGENITAL HEART DEFECT with a red heart shape, beside it a stick figure baby that looks completely normal with a small smile, captioned YOU CANNOT SEE IT, plain background, thick black outlines;
+
+79. MS Paint cartoon of a stick figure mother holding a bundled baby, both content with upward curved mouths, nothing visibly wrong, a flat window showing teal sky, blue walls, lime green floor, thick black outlines, flat colors;
+
+80. MS Paint cartoon close-up of a stick figure baby face with the lips and mouth area colored flat blue instead of yellow, round head, dot eyes, plain white background, representing the child turning blue, thick black outlines;
+
+81. MS Paint cartoon of a flat red heart shape glowing in the center with a small soul-spark star inside it, labeled SEAT OF THE SOUL, dark flat background, thick black outlines, flat colors;
+
+82. MS Paint cartoon of a flat Egyptian balance scale with a white feather on the left and a red heart on the right, a stick figure deity in blue and gold presiding, flat gold interior, lime green floor, thick black outlines;
+
+83. MS Paint cartoon of the same scale tipping, the heart heavy and low, the deity pointing sternly, a small red X beside the heart, flat gold Egyptian interior, brown floor, thick black outlines, flat colors;
+
+84. MS Paint cartoon of a stick figure Greek philosopher in a white toga seated thinking, a red heart drawn on the flat wall behind labeled THOUGHT AND EMOTION, white columns, thick black outlines, flat colors;
+
+85. MS Paint cartoon of a flat Hebrew scroll with a red heart drawing and squiggly script labeled WILL AND DESIRE, a flat candle beside it, warm golden interior, thick black outlines, flat colors;
+
+86. MS Paint cartoon of a flat diagram of a heart and two pink lungs, the lungs drawn small and struggling with strain lines, an arrow showing the lungs cannot keep up, plain white background, thick black outlines, flat colors;
+
+87. MS Paint cartoon of a stick figure child with flat purple-blue lips and a faint blue chest oval, two adult stick figures looking on with concern, a flat cracked-heart symbol above, ancient stone room, torch shapes, thick black outlines;
+
+88. MS Paint cartoon of a stick figure child standing while two priests regard it solemnly, a flat thought bubble showing not a sick body but a question mark soul, stone room, torch shapes, thick black outlines, flat colors;
+
+89. MS Paint cartoon of a stick figure child with a flat grey-tinted soul outline floating just above it labeled ALREADY WRONG, dark flat background, thick black outlines, flat colors;
+
+90. MS Paint cartoon of a flat tally chart of one hundred tiny stick figure baby icons with exactly one highlighted red, labeled 1 IN 100, plain white background, thick black outlines, flat colors;
+
+91. MS Paint cartoon of three flat stick figure babies — two with green checkmarks labeled UNDETECTED and SELF-CORRECT, one with a red exclamation mark and blue lips labeled SEVERE — plain white background, thick black outlines;
+
+92. MS Paint cartoon of a stick figure baby with clearly visible flat blue lips lying in a flat wooden cradle, undeniable signs, ancient stone room, torch shapes, brown floor, thick black outlines, flat colors;
+
+93. MS Paint cartoon of a stick figure Galen in a flat white Greek robe and gold laurel headband writing on a scroll at a desk, a heart diagram on the wall, white columns, marble floor, thick black outlines, flat colors;
+
+94. MS Paint cartoon of stick figure Galen standing over a flat table dissecting a red heart shape with precise focus, two students watching with wide dot eyes, flat stone room, torch shapes, thick black outlines;
+
+95. MS Paint cartoon of a flat heart diagram with four chambers and vessels labeled in block letters, stick figure Galen pointing at it with a pointer stick, white background, thick black outlines, flat colors;
+
+96. MS Paint cartoon of stick figure Galen pointing confidently at a flat diagram where the blood-flow arrows curve the wrong way, a small red X above one arrow, white background, flat room, thick black outlines;
+
+97. MS Paint cartoon of a flat road sign with two arrows, the correct path greyed out and a big red WRONG DIRECTION arrow taken instead, a stick figure walking the wrong way, white background, thick black outlines;
+
+98. MS Paint cartoon of a flat map of Europe with a long curved red wrong-way arrow crossing it and a timeline bar below labeled 1000 YEARS, a dismayed stick figure at the side, thick black outlines, flat colors;
+
+99. MS Paint cartoon of a flat embryo diagram with weeks 4 through 8 highlighted in a red-orange band labeled CARDIAC DEVELOPMENT, a red heart forming inside, plain white background, thick black outlines, flat colors;
+
+100. MS Paint cartoon of a flat DNA helix with a red mutation segment and a flat chromosome pair with one abnormal shape, both with arrows pointing to a defective heart, plain white background, thick black outlines;
+
+101. MS Paint cartoon of a stick figure pregnant woman sneezing with zigzag lines, a flat spiky red virus shape labeled RUBELLA floating near her, an arrow to a tiny embryo heart, plain background, thick black outlines, flat colors;
+
+102. MS Paint cartoon of a flat row of crossed-out icons — a pill bottle and a wine glass each with a red X — with arrows pointing to a small embryo heart, plain white background, thick black outlines, flat colors;
+
+103. MS Paint cartoon of a flat red heart shape labeled FIRST ORGAN TO FUNCTION and FIRST TO GO WRONG with a small clock at WEEK 4, plain white background, thick black outlines, flat colors;
+
+104. MS Paint cartoon of a stick figure ancient physician standing helpless over a flat cradle holding a blue-lipped baby, arms slightly raised, flat downward mouth, ancient stone room, torch shapes, brown floor, thick black outlines;
+
+105. MS Paint cartoon of a stick figure physician pointing at a sad pregnant stick figure's face, suggesting maternal emotion caused it, a thought cloud with a tear, flat stone room, torch shapes, thick black outlines, flat colors;
+
+106. MS Paint cartoon of a stick figure physician tilting his head back to read a flat star chart on a wall, constellation lines connecting stars, an arrow from the stars to a baby drawing, stone room, thick black outlines;
+
+107. MS Paint cartoon of a stick figure physician writing slowly on a scroll the words BORN THIS WAY, NOTHING TO BE DONE in block letters, solemn flat expression, stone room, torch shapes, thick black outlines;
+
+108. MS Paint cartoon of a flat calendar with 1944 circled in bright yellow beside a flat hospital building with a red cross labeled JOHNS HOPKINS, a stick figure Dr. Blalock in a white coat, white background, thick black outlines;
+
+109. MS Paint cartoon of a flat operating room with a stick figure surgical team around a green operating table, a circular overhead light, blue walls, lime green floor, thick black outlines, flat colors;
+
+110. MS Paint cartoon of a stick figure Vivien Thomas in flat dark work clothes standing beside a flat sign reading NO MEDICAL DEGREE, a lab of beakers behind him in blue, red, and yellow, blue walls, thick black outlines;
+
+111. MS Paint cartoon of a flat windowless basement lab with a single hanging lightbulb, stick figure Vivien Thomas carefully working on a flat dog shape on a small table, grey stone walls, thick black outlines, flat colors;
+
+112. MS Paint cartoon of a flat operating room with stick figure Blalock at the table and stick figure Thomas standing directly behind him, Thomas with a speech bubble of step-by-step arrows guiding the surgery, blue walls, thick black outlines;
+
+113. MS Paint cartoon of a stick figure Blalock with a flat gold medal and a newspaper shape reading HERO, standing proud, plain background, thick black outlines, flat colors;
+
+114. MS Paint cartoon of a stick figure Thomas holding a flat mop and bucket beside a janitor's uniform on a hook, the same dignified posture, plain background, thick black outlines, flat colors;
+
+115. MS Paint cartoon of a flat wall plaque finally added decades later reading THOMAS, a stick figure looking up at it, blue hospital wall, lime green floor, thick black outlines, flat colors;
+
+116. MS Paint cartoon of a flat baby footprint card stamped with a red DEATH SENTENCE label, representing a fate handed out on the first day of life, plain white background, thick black outlines, flat colors;
+
+117. MS Paint cartoon of a flat long timeline from cave paintings on the left to 1944 on the right, the entire left length shaded red labeled SAME OUTCOME, thick black outlines, flat colors;
+
+118. MS Paint cartoon of a flat thick black vertical line, a blue baby labeled BEFORE 1944 on the left and a healthy pink baby labeled AFTER on the right, plain white background, thick black outlines;
+
+119. MS Paint cartoon of a flat title card CLEFT LIP AND PALATE with a small stick figure face, captioned SURVIVABLE but with a question mark, plain pale background, thick black outlines, flat colors;
+
+120. MS Paint cartoon close-up of a stick figure baby face with a flat white vertical gap through the center of the upper lip, round head, dot eyes, plain white background, thick black outlines, flat yellow skin;
+
+121. MS Paint cartoon of a flat diagram of the roof of the mouth viewed from below, a pink arch with a white split running front to back labeled CLEFT PALATE, plain white educational background, thick black outlines;
+
+122. MS Paint cartoon of a stick figure baby struggling to feed from a flat bottle with zigzag difficulty lines, a worried parent holding it, blue walls, lime green floor, thick black outlines, flat colors;
+
+123. MS Paint cartoon of a flat split scene — a Roman terracotta building on the left and a grey medieval castle on the right — a stick figure pointing accusingly at a mother in each, teal sky over both, thick black outlines;
+
+124. MS Paint cartoon of a stick figure mother with a flat WITCHCRAFT label and a pointed hat shadow behind her, accusing stick figures around her, flat stone village, golden ground, thick black outlines, flat colors;
+
+125. MS Paint cartoon of a large flat brown hare with long ears on golden ground, a stick figure pregnant woman recoiling with wide dot eyes and raised arms, zigzag fright lines, teal sky, thick black outlines;
+
+126. MS Paint cartoon of a flat dotted line connecting the startled pregnant woman to a baby outline with a marked lip, representing the belief the fright marked the child, plain background, thick black outlines, flat colors;
+
+127. MS Paint cartoon of a flat stone wall with HARELIP carved in block letters, a stick figure child with a small lip gap standing beside it, two stick figures pointing, flat stone floor, thick black outlines;
+
+128. MS Paint cartoon of a flat medieval inquest scene, a stick figure judge at a raised wooden bench pointing at a stick figure mother, a scroll of accusations, watching stick figures, stone hall, torch shapes, thick black outlines;
+
+129. MS Paint cartoon of a stick figure mother being questioned, a flat cartoon goat and crow nearby labeled UNUSUAL ANIMALS with a question mark, flat village, golden ground, teal sky, thick black outlines, flat colors;
+
+130. MS Paint cartoon of a stick figure mother with a red X above her and a flat scroll of accusations being stamped, downcast dot eyes, flat stone hall, torch shapes, thick black outlines, flat colors;
+
+131. MS Paint cartoon of a flat split with a red X side labeled SEVERE CONSEQUENCES and a gold side beginning labeled OTHER CULTURES, a thick black dividing line, white background, thick black outlines;
+
+132. MS Paint cartoon of a flat stepped Aztec pyramid under a teal sky, a large stylized Tlaloc face on the front in bold blue and green with a distinct cleft upper lip, flat jungle shapes, golden ground, thick black outlines;
+
+133. MS Paint cartoon of a flat Aztec temple interior, stick figure priests in feathered headdresses around a central altar with an orange flame, a Tlaloc mask on the wall, gold and turquoise walls, thick black outlines;
+
+134. MS Paint cartoon of a flat stone wall covered with repeated Tlaloc carvings each showing the cleft-lip split, a stick figure archaeologist examining them, blue museum wall, lime green floor, thick black outlines;
+
+135. MS Paint cartoon of a close-up of a flat Tlaloc carving with an arrow pointing to the characteristic split in the upper lip, labeled CHARACTERISTIC SPLIT, plain background, thick black outlines, flat colors;
+
+136. MS Paint cartoon of two stick figure priests presenting a child with a cleft lip at a flat temple entrance, gold ceremonial glow around them, pyramid behind, golden ground, teal sky, thick black outlines;
+
+137. MS Paint cartoon of a flat split panel — a red X labeled PUNISHMENT and a gold star labeled DIVINE MARKING — with the same stick figure child shown under each, thick black dividing line, white background, thick black outlines;
+
+138. MS Paint cartoon of a stick figure child standing proud with a small gold halo, a flat label reading BORN RESEMBLING A GOD — AN ASSIGNMENT, golden ground, teal sky, thick black outlines, flat colors;
+
+139. MS Paint cartoon of a flat tangled web of multiple chromosomes connected by dotted lines, a stick figure scientist looking overwhelmed with raised arms, labeled GENUINELY COMPLEX, white background, thick black outlines;
+
+140. MS Paint cartoon of a flat diagram of several chromosomes each with small colored marker dots and arrows labeled MULTIPLE GENES, plain white educational background, thick black outlines, flat colors;
+
+141. MS Paint cartoon of a flat row of environmental factor icons — a folic acid pill with a red X and a cigarette with a red X — arrows pointing to an embryo outline, plain white background, thick black outlines;
+
+142. MS Paint cartoon of a flat cigarette shape and a flat pill bottle labeled ANTICONVULSANT each with a red X, arrows to a small embryo, plain white background, thick black outlines, flat colors;
+
+143. MS Paint cartoon of a flat tall mountain peak labeled HIGH ALTITUDE with a question mark, a partially-drawn map of pathways still being mapped, white background, thick black outlines, flat colors;
+
+144. MS Paint cartoon of a stick figure ancient healer rolling up sleeves with a determined flat expression, a red X over a praying-to-the-gods symbol behind, captioned THEY FIXED IT THEMSELVES, flat room, thick black outlines;
+
+145. MS Paint cartoon of a stick figure Chinese physician in flat red and gold robes walking purposefully along a path, flat green mountains behind, golden ground, teal sky, thick black outlines, flat colors;
+
+146. MS Paint cartoon of a flat ancient Chinese silk scroll dated 390 AD with a surgical lip-repair diagram in dark ink, a stick figure holding it open, flat red interior, brown floor, thick black outlines;
+
+147. MS Paint cartoon of a stick figure Wei Yizhi in red robes leaning over a patient on a flat wooden table, suturing the upper lip shown as small cross-stitch marks, a flat candle for light, red walls, thick black outlines;
+
+148. MS Paint cartoon of a flat surgical diagram of a face with numbered arrow steps for suture placement and wound care, labeled WEI YIZHI, plain white educational background, thick black outlines, flat colors;
+
+149. MS Paint cartoon of a stick figure patient sitting up post-surgery with small dotted stitch marks on the lip and a relieved upward curved mouth, stick figure Wei Yizhi smiling beside, flat red interior, thick black outlines;
+
+150. MS Paint cartoon of the same patient now in a flat market eating from a bowl and talking with others, blending in without identification, market stalls, teal sky, golden ground, thick black outlines, flat colors;
+
+151. MS Paint cartoon of a stick figure Chinese surgeon holding a flat thread spool in one hand and a simple curved blade in the other, no modern tools, flat stone room, thick black outlines, flat colors;
+
+152. MS Paint cartoon of a flat anesthesia mask shape with a big red X over it labeled NO ANESTHESIA, plain stone-grey background, thick black outlines, flat colors;
+
+153. MS Paint cartoon of a flat wall with two crossed-out symbols — a germ cloud labeled NO GERM THEORY and a DNA helix labeled NO UNDERSTANDING — both with red X marks, thick black outlines, flat colors;
+
+154. MS Paint cartoon of a flat timeline bar with a small stick figure stitching a lip at 390 AD and a label far right reading PLASTIC SURGERY, an arrow bridge labeled 1500 YEARS EARLIER, white background, thick black outlines;
+
+155. MS Paint cartoon of a flat title card POLYDACTYLY with a large flat yellow six-fingered hand centered, plain pale background, thick black outlines, flat colors;
+
+156. MS Paint cartoon of two stick figure faces side by side — one horrified labeled HORROR, one impressed labeled POWER — thick black dividing line, plain white background, thick black outlines, flat colors;
+
+157. MS Paint cartoon of a flat six-fingered hand reaching into frame with a label below reading 1 IN 500 BIRTHS, plain white background, thick black outlines, flat yellow color;
+
+158. MS Paint cartoon of a flat six-fingered hand with the extra digit drawn small and faint labeled PARTIALLY FUNCTIONAL, an arrow pointing to it, plain white background, thick black outlines, flat colors;
+
+159. MS Paint cartoon of a stick figure raising a six-fingered hand proudly with small gold stars around it, a crowd of stick figures admiring, labeled MARK OF DISTINCTION, flat ceremonial setting, thick black outlines;
+
+160. MS Paint cartoon of a giant stick figure warrior in flat ancient armor holding a sword in a six-fingered hand labeled GOLIATH OF GATH, golden ground, teal sky, flat stone hills, thick black outlines;
+
+161. MS Paint cartoon of a flat 2x2 grid showing two hand shapes and two foot shapes each with six digits, a large number 24 centered below, plain white background, thick black outlines, flat yellow color;
+
+162. MS Paint cartoon of a flat Anatolian temple interior with carved columns, a small clay figurine on a pedestal showing a six-fingered hand, stick figure worshippers bowing, oil lamp shapes, thick black outlines;
+
+163. MS Paint cartoon of a flat terracotta canyon rock face with red ochre six-fingered handprints painted on it, a stick figure archaeologist examining one with wide dot eyes, teal sky, thick black outlines, flat colors;
+
+164. MS Paint cartoon of a flat map of the American Southwest in earth tones with several red location dots and dotted connecting lines, labeled MULTIPLE SITES, white border background, thick black outlines;
+
+165. MS Paint cartoon of a flat dramatic Chaco Canyon scene, tall orange-red canyon walls and a multi-level stone pueblo, stick figures in earth-tone clothing, teal sky, golden ground, thick black outlines, flat colors;
+
+166. MS Paint cartoon of a flat sophisticated pueblo cross-section with many rooms, stick figure residents, labeled SOPHISTICATED CULTURE, terracotta walls, thick black outlines, flat colors;
+
+167. MS Paint cartoon of a flat burial chamber cross-section, a skeleton outline in ceremonial position with an orange-highlighted six-fingered hand, pottery and arrowheads around it, grey stone, thick black outlines;
+
+168. MS Paint cartoon of a stick figure with a six-fingered hand seated on a raised flat platform above others, gold glow around, labeled ELEVATED STATUS, flat stone setting, thick black outlines, flat colors;
+
+169. MS Paint cartoon of a flat ritual space with a six-fingered figure at the center and surrounding stick figures angled toward it reverently, not excluded but central, flat stone columns, thick black outlines;
+
+170. MS Paint cartoon of a stick figure proudly displaying a raised six-fingered hand, not hidden, gold star shapes around it, a crowd of admiring stick figures, flat ceremonial setting, thick black outlines;
+
+171. MS Paint cartoon of a flat grand Tudor castle hall with grey stone walls and colored tapestries, stick figures in flat Tudor clothing with white ruff collars and tall hats, brown wooden floor, thick black outlines;
+
+172. MS Paint cartoon of a stick figure Anne Boleyn in a flat green Tudor gown with a white ruff and gold crown, her right hand raised showing a clearly drawn sixth finger, castle interior, grey walls, thick black outlines;
+
+173. MS Paint cartoon of two stick figure Tudor courtiers whispering behind their hands, a speech bubble showing a six-fingered hand with an exclamation mark, a label RUMOR, castle hall, thick black outlines;
+
+174. MS Paint cartoon of several stick figure rivals pointing at a calm upright stick figure Anne Boleyn, red X shapes floating from their pointing hands, flat castle hall, thick black outlines, flat colors;
+
+175. MS Paint cartoon of a single six-fingered hand drawing on a wall with two arrows from it — one labeled EVIDENCE, one labeled ACCUSATION — plain white background, thick black outlines, flat colors;
+
+176. MS Paint cartoon of a stick figure Tudor court reading a flat scroll labeled UNUSUAL BODIES with suspicious furrowed-brow dot eyes, grey castle hall, torch shapes, thick black outlines, flat colors;
+
+177. MS Paint cartoon of a flat split — Chaco Canyon earth tones with a celebrated six-fingered figure labeled DIVINE on the left, dark Tudor grey with an accused six-fingered figure labeled DEMONIC on the right — thick dividing line, thick black outlines;
+
+178. MS Paint cartoon of a flat DNA helix with one gold-highlighted segment labeled AUTOSOMAL DOMINANT, plain white educational background, thick black outlines, flat colors;
+
+179. MS Paint cartoon of a flat family tree diagram with two parents at top and four children below, two children marked with a small six-fingered hand icon, running in families, plain white background, thick black outlines;
+
+180. MS Paint cartoon of a flat multi-generation village family of stick figures, several raising six-fingered hands across three age groups, generation after generation, terracotta buildings, teal sky, thick black outlines;
+
+181. MS Paint cartoon of a flat bracket drawn around a family group labeled SAME BLOODLINE and an arrow to the repeated six-fingered hands, flat village setting, golden ground, thick black outlines, flat colors;
+
+182. MS Paint cartoon of a flat scroll showing the same six-fingered hand passed down a lineage line with small arrows, labeled LINEAGE MARK, a stick figure elder presenting it, flat room, thick black outlines;
+
+183. MS Paint cartoon of a stick figure priest pointing up at a glowing star with a speech bubble reading THE GODS CHOSE THIS FAMILY, a six-fingered family below, golden ground, teal sky, thick black outlines;
+
+184. MS Paint cartoon of a flat gold marking being stamped visibly onto a family crest shape, representing the belief the gods marked the family visibly, plain background, thick black outlines, flat colors;
+
+185. MS Paint cartoon of a flat two-panel split — a glowing star labeled THE GODS on the left and a flat Punnett square genetics grid labeled MENDELIAN INHERITANCE on the right — thick dividing line, white background, thick black outlines;
+
+186. MS Paint cartoon of a flat title card CYCLOPIA AND THE MYTH IT CREATED with a faint single-eye silhouette, dark dramatic flat background, thick black outlines, flat colors;
+
+187. MS Paint cartoon of a large flat Cyclops monster silhouette looming over tiny stick figures, labeled MYTHOLOGY THAT SURVIVED 3000 YEARS, teal sky, golden ground, thick black outlines, flat colors;
+
+188. MS Paint cartoon of a flat head diagram showing two separate embryonic eye circles on the left and right, labeled TWO EYE FIELDS, plain white educational background, thick black outlines, flat colors;
+
+189. MS Paint cartoon of the same diagram with the two eye circles curving inward and merging into one central circle, labeled FAIL TO SEPARATE, plain white background, thick black outlines, flat colors;
+
+190. MS Paint cartoon of a flat face diagram with a single large dot eye positioned centrally, labeled SINGLE EYE, the rest of the face simple, plain white background, thick black outlines, flat colors;
+
+191. MS Paint cartoon of the flat face diagram with an empty space where the nose would normally form, an arrow pointing to it, plain white educational background, thick black outlines, flat colors;
+
+192. MS Paint cartoon of a flat face diagram with a small fleshy tube shape displaced above the single central eye, labeled NOSE DISPLACED, plain white background, thick black outlines, flat colors;
+
+193. MS Paint cartoon of a small flat grave marker in golden ground labeled FEW DAYS, with a separate flat skull shape beside it labeled SKULLS SURVIVE, teal sky, thick black outlines, flat colors;
+
+194. MS Paint cartoon of ancient stick figures on a flat Mediterranean rocky shore discovering a huge flat dwarf-elephant skull, wide shocked dot eyes, blue sea behind, teal sky, thick black outlines;
+
+195. MS Paint cartoon of a flat map of Mediterranean islands in blue and green with small elephant icons, labeled DWARF ELEPHANT, white background, thick black outlines, flat colors;
+
+196. MS Paint cartoon of a flat front view of the elephant skull with the large central nasal cavity drawn as one big oval hole, two arrows labeled NASAL CAVITY and LOOKS LIKE ONE EYE SOCKET, white background, thick black outlines;
+
+197. MS Paint cartoon of a stick figure holding the enormous flat skull, the skull nearly as big as the figure, wide dot eyes, labeled REAL AND ENORMOUS, plain background, thick black outlines, flat colors;
+
+198. MS Paint cartoon of a flat Cyclops monster in full MS Paint style, a giant stick figure with one huge central eye and a club, tiny humans fleeing, flat Mediterranean terrain, teal sky, thick black outlines;
+
+199. MS Paint cartoon of a flat quieter scene — a stick figure midwife in a stone room looking at a small bundle, a faint single-eye outline, captioned PARALLEL IN HUMAN BIRTH, torch shapes, thick black outlines;
+
+200. MS Paint cartoon of a flat brain diagram labeled HOLOPROSENCEPHALY, the forebrain shown as one undivided circle, plain white educational background, thick black outlines, flat colors;
+
+201. MS Paint cartoon of a flat forebrain circle with a dotted center line failing to split into two halves, labeled FAILS TO DIVIDE, plain white background, thick black outlines, flat colors;
+
+202. MS Paint cartoon of a stick figure ancient midwife frozen with wide dot eyes and a straight-line mouth after witnessing a birth, flat stone room, a single torch shape, thick black outlines, flat colors;
+
+203. MS Paint cartoon of a flat ancient Greek terracotta wall with an artist's painted depiction of a single-eyed face, a stick figure artist holding a brush touching the wall, torch light shapes, thick black outlines;
+
+204. MS Paint cartoon of a flat dark background with a large empty glowing question mark at center where understanding should be, a stick figure looking up at it, thick black outlines, flat colors;
+
+205. MS Paint cartoon of the question mark transforming into a Cyclops monster shape, the curve becoming a body and the dot becoming the single eye, dark flat background, thick black outlines, flat colors;
+
+206. MS Paint cartoon of a flat title card THE SCIENCE OF CYCLOPIA with a small DNA helix and a single-eye face icon, plain pale background, thick black outlines, flat colors;
+
+207. MS Paint cartoon of a flat molecular pathway diagram of connected node squares, one path highlighted red beside a small cartoon hedgehog, labeled SONIC HEDGEHOG PATHWAY, white background, thick black outlines;
+
+208. MS Paint cartoon of a flat row of different vertebrate stick-figure silhouettes — a fish, a bird, a dog, a human — all linked to the same pathway diagram, labeled ALL VERTEBRATES, white background, thick black outlines;
+
+209. MS Paint cartoon of a stick figure researcher pointing at a flat model of a face developing outward from a central point with dotted progression lines, labeled WHY THE FACE FORMS, blue wall, lime green floor, thick black outlines;
+
+210. MS Paint cartoon of a flat two-row diagram — the top pathway with clean arrows leading to a normal two-eyed face, the bottom pathway broken with a red X leading to a one-eyed face — labeled SAME MECHANISMS, white background, thick black outlines;
+
+211. MS Paint cartoon of a flat arrow leading from a single-eye defect diagram on the left to a normal face diagram on the right, labeled UNDERSTANDING THE DEFECT EXPLAINS DEVELOPMENT, white background, thick black outlines;
+
+212. MS Paint cartoon of a Cyclops monster portrait in a flat frame on a laboratory wall, a stick figure scientist pointing at it with a speech bubble reading EXPLAINS HOW THE FACE WORKS, blue lab walls, lime green floor, thick black outlines;
+
+213. MS Paint cartoon of a flat title card DOWN SYNDROME with the year 1866 and a small kind round smiling face, plain pale background, thick black outlines, flat colors;
+
+214. MS Paint cartoon of a stick figure Victorian physician John Langdon Down in a flat black coat and top hat holding a clipboard, dark Victorian wallpaper, brown floor, thick black outlines, flat colors;
+
+215. MS Paint cartoon of a flat clipboard page with several small face icons grouped together, the physician circling the shared pattern, labeled DESCRIBED A PATTERN, white background, thick black outlines;
+
+216. MS Paint cartoon of a flat label NOT NEW, NEVER CATEGORIZED with a long timeline arrow stretching far back behind a 1866 marker, white background, thick black outlines, flat colors;
+
+217. MS Paint cartoon of a flat museum spotlight on a small terracotta figurine, captioned EVIDENCE IN ANCIENT ART IS STRIKING, blue museum wall, lime green floor, thick black outlines, flat colors;
+
+218. MS Paint cartoon of a flat terracotta ceramic figurine on a pedestal, a deliberately rounded face with almond-shaped eye marks, labeled COLOMBIA 5TH-6TH CENTURY, blue wall, thick black outlines;
+
+219. MS Paint cartoon of a close-up of the flat figurine face with arrows pointing to the characteristic facial features, labeled CONSISTENT WITH DOWN SYNDROME, plain background, thick black outlines, flat colors;
+
+220. MS Paint cartoon of a flat figurine shown full-length with arrows labeling the facial structure, posture, and proportions, plain white background, thick black outlines, flat colors;
+
+221. MS Paint cartoon of a stick figure artisan pressing precise tool marks into a clay face, a red X over a label reading ACCIDENT, showing it was not accidental, flat warm interior, thick black outlines;
+
+222. MS Paint cartoon of a row of five matching flat terracotta figurines on a museum shelf, all with the same deliberately rendered face, labeled INTENTIONAL PORTRAITS, blue wall, lime green floor, thick black outlines;
+
+223. MS Paint cartoon of a flat medieval European painting in a gold frame on a wall, among the figures one with rounded characteristic facial proportions, a stick figure historian pointing, blue wall, thick black outlines;
+
+224. MS Paint cartoon of a flat medieval painting of the Christ child and surrounding figures rendered in simple flat colors, a gold halo, framed on a wall, thick black outlines, flat colors;
+
+225. MS Paint cartoon of a flat magnifying glass held over a detail of the medieval painting, a stick figure modern physician leaning in with focused dot eyes, museum room, blue wall, thick black outlines;
+
+226. MS Paint cartoon of a close-up magnified face from the painting with arrows labeling features, captioned CONSISTENT WITH DOWN SYNDROME, plain background, thick black outlines, flat colors;
+
+227. MS Paint cartoon of a flat balance scale weighing a question mark labeled CONSCIOUS against a question mark labeled COINCIDENTAL, labeled DEBATED, white background, thick black outlines, flat colors;
+
+228. MS Paint cartoon of a flat ancient community scene with stick figures going about daily life, one with a characteristic rounded face present among them, terracotta buildings, golden ground, teal sky, thick black outlines;
+
+229. MS Paint cartoon of a flat artistic record — a framed portrait and a figurine side by side — both showing the same individual, labeled VISIBLE ENOUGH TO APPEAR IN RECORDS, blue wall, thick black outlines;
+
+230. MS Paint cartoon of a flat diagram of chromosome pairs numbered 1 to 23, pair 21 shown with three flat rectangles highlighted yellow, labeled TRISOMY 21, plain white background, thick black outlines;
+
+231. MS Paint cartoon of a flat world map with identical yellow dots on every continent, labeled ALL POPULATIONS, flat blue oceans, green continents, thick black outlines, flat colors;
+
+232. MS Paint cartoon of a flat timeline bar from ancient times to modern day with yellow dots recurring evenly across the whole length, labeled ALL TIME PERIODS, white background, thick black outlines;
+
+233. MS Paint cartoon of a flat simple chart with a rising line as a stick figure mother icon ages, labeled INCIDENCE INCREASES WITH MATERNAL AGE, white background, thick black outlines, flat colors;
+
+234. MS Paint cartoon of a flat older stick figure mother holding a baby while community stick figures observe and note a correlation, terracotta village, golden ground, teal sky, thick black outlines;
+
+235. MS Paint cartoon of a flat scroll labeled BAD BLOOD in red block letters with a family tree, representing the cultural framework, a stick figure elder presenting it, flat village, thick black outlines;
+
+236. MS Paint cartoon of a flat aging stick figure with a faded constitution bar dropping with age, labeled WEAKENED CONSTITUTION, plain white background, thick black outlines, flat colors;
+
+237. MS Paint cartoon of a stick figure mother labeled AGE 20 with a small fraction 1/1500 above her, plain white background, thick black outlines, flat colors;
+
+238. MS Paint cartoon of a stick figure mother labeled AGE 45 with a large prominent fraction 1/30 above her, a flat baby beside her, plain white background, thick black outlines, flat colors;
+
+239. MS Paint cartoon of a flat lifespan bar with small baby icons spread across its entire length, labeled CHILDREN ACROSS THE FERTILE LIFESPAN, white background, thick black outlines, flat colors;
+
+240. MS Paint cartoon of a flat label REAL AND CONSISTENT over a steady repeating row of identical baby icons, plain white background, thick black outlines, flat colors;
+
+241. MS Paint cartoon of a flat ancient art gallery wall with figurines and carvings, a spotlight on a figure with a characteristic face, labeled NOT INVISIBLE, blue museum wall, lime green floor, thick black outlines;
+
+242. MS Paint cartoon of a stick figure with a characteristic rounded face standing front and center among a community, clearly present and depicted, golden ground, teal sky, thick black outlines, flat colors;
+
+243. MS Paint cartoon of a flat globe surrounded by varied cultural stick figures, a label reading VARIED BY PLACE AND ERA, BUT THEY WERE THERE, teal background, thick black outlines, flat colors;
+
+244. MS Paint cartoon of a flat title card THE FEAR OF BAD BLOOD with multiple cultural stick figure silhouettes all sharing one red thought bubble, dramatic flat background, thick black outlines;
+
+245. MS Paint cartoon of a flat speech bubble reading THIS CAN HAPPEN AGAIN above a worried community of stick figures, captioned OBSERVATION CORRECT, golden ground, thick black outlines, flat colors;
+
+246. MS Paint cartoon of a flat red stamp reading EXPLANATION WRONG slammed over a scroll of ancient causes, plain background, thick black outlines, flat colors;
+
+247. MS Paint cartoon of a stick figure Mesopotamian mother at the center while observers note her every behavior on clay tablets, blaming her conduct, flat stone village, golden ground, thick black outlines;
+
+248. MS Paint cartoon of two flat panels — an eye labeled WHAT SHE SAW and an open mouth with wavy lines labeled WHAT SHE FEARED — thick black borders, white background, thick black outlines, flat colors;
+
+249. MS Paint cartoon of two flat panels — a bowl labeled WHAT SHE ATE and a thought cloud labeled WHAT SHE THOUGHT — a red blame arrow pointing at the mother, white background, thick black outlines;
+
+250. MS Paint cartoon of a flat scroll labeled IF SHE HAD NOT DONE THE WRONG THING with a stick figure mother carrying unfair blame on her shoulders as heavy blocks, plain background, thick black outlines;
+
+251. MS Paint cartoon of a flat timeline arrow carrying the old blame idea forward from ancient times into a modern hospital, labeled SURVIVED INTO MODERN MEDICINE, white background, thick black outlines;
+
+252. MS Paint cartoon of a flat Victorian physician at a desk writing in an open medical journal headed MATERNAL IMPRESSIONS with a quill, dark Victorian interior, brown floor, thick black outlines;
+
+253. MS Paint cartoon of a flat frightened pregnant stick figure with a thought cloud, a dotted line from the cloud to a marked baby outline, labeled IMPRINT BY IMAGINATION, plain background, thick black outlines;
+
+254. MS Paint cartoon of a flat thought bubble alone over a pregnant stick figure imagining a deformity, captioned THROUGH IMAGINATION ALONE, plain pale background, thick black outlines, flat colors;
+
+255. MS Paint cartoon of a flat formal medical journal page with a printed stick figure illustration and a red NOT FOLK BELIEF stamp, captioned PUBLISHED IN JOURNALS, white background, thick black outlines;
+
+256. MS Paint cartoon of a stick figure Victorian doctor recording a case in a flat ledger, rows of case entries, dark Victorian office, brown floor, thick black outlines, flat colors;
+
+257. MS Paint cartoon of a stick figure mother in a doctor's office describing a startling event, a small cartoon rabbit visible through the window behind, the doctor noting it, flat Victorian room, thick black outlines;
+
+258. MS Paint cartoon of a flat lecture hall with a stick figure professor at the front and rows of medical students taking it seriously with wide dot eyes, labeled WELL INTO THE 19TH CENTURY, thick black outlines;
+
+259. MS Paint cartoon of three flat labels stacked — CHROMOSOMAL, GENETIC, ENVIRONMENTAL — beside a calendar reading 20TH CENTURY, the real mechanism, white background, thick black outlines, flat colors;
+
+260. MS Paint cartoon of a flat early-1900s laboratory with a stick figure scientist pointing excitedly at a chromosome diagram, a DISCOVERY starburst, blue walls, lime green floor, thick black outlines;
+
+261. MS Paint cartoon of a flat diagram of chromosomes labeled CARRIERS OF HEREDITARY INFORMATION with a calendar reading EARLY 1900s, white background, thick black outlines, flat colors;
+
+262. MS Paint cartoon of a flat calendar with 1959 circled in yellow beside a trisomy 21 chromosome diagram, labeled DOWN SYNDROME CAUSE IDENTIFIED, white background, thick black outlines;
+
+263. MS Paint cartoon of a flat calendar with 1990s circled beside an orange neural tube diagram, labeled NEURAL TUBE DEFECTS UNDERSTOOD, white background, thick black outlines, flat colors;
+
+264. MS Paint cartoon of a flat green checkmark over a label reading WHAT THEY OBSERVED WAS REAL, a stick figure ancient observer nodding, plain background, thick black outlines, flat colors;
+
+265. MS Paint cartoon of a flat family tree with a neural tube defect symbol recurring across generations, labeled CLUSTER IN FAMILIES, plain white background, thick black outlines, flat colors;
+
+266. MS Paint cartoon of a flat rising line chart with a mother icon aging, labeled CHROMOSOMAL RISK INCREASES WITH AGE, white background, thick black outlines, flat colors;
+
+267. MS Paint cartoon of a flat family tree with a red heart symbol repeating across three generations, labeled HEART DEFECTS REPEAT, white background, thick black outlines, flat colors;
+
+268. MS Paint cartoon of two flat family trees side by side — one with a cleft-lip face symbol labeled CLEFT PALATE, one with a six-fingered hand labeled POLYDACTYLY — both running in bloodlines, white background, thick black outlines;
+
+269. MS Paint cartoon of a flat blueprint being drawn around a confused stick figure family, labeled WRONG ARCHITECTURE in bold red, the framework crooked and incorrect, white background, thick black outlines;
+
+270. MS Paint cartoon of a flat crooked structure built of mismatched blocks around a family group, the structure clearly wrong, labeled BUILT THE WRONG WAY, plain background, thick black outlines, flat colors;
+
+271. MS Paint cartoon of a flat courtroom with a stick figure judge assigning GUILT and demanding PUNISHMENT shown as a gavel and chains, a stick figure mother before the bench, stone hall, torch shapes, thick black outlines;
+
+272. MS Paint cartoon of a stick figure mother carrying the heavy weight of biological randomness shown as a giant flat boulder of dice on her back, captioned DONE NOTHING WRONG, plain background, thick black outlines;
+
+273. MS Paint cartoon of a flat trash bin with the old blame idea being dropped into it, labeled DID NOT NEED TO SURVIVE, a stick figure discarding it, plain background, thick black outlines, flat colors;
+
+274. MS Paint cartoon of a flat slow-fading blame symbol along a timeline, lingering longer than it should, labeled TOOK LONGER TO DISAPPEAR, white background, thick black outlines, flat colors;
+
+275. MS Paint cartoon of a flat single large question mark glowing over a small stick figure child, captioned THE SAME QUESTION, dark flat background, thick black outlines, flat colors;
+
+276. MS Paint cartoon of a stick figure child standing alone under a huge flat question mark, captioned WHY DOES THIS HAPPEN TO A CHILD WHO HAS DONE NOTHING, dark background, thick black outlines;
+
+277. MS Paint cartoon of a flat row of cultural stick figures each offering a different answer in a speech bubble, labeled EVERY SYSTEM ATTEMPTED AN ANSWER, plain background, thick black outlines, flat colors;
+
+278. MS Paint cartoon of two flat speech bubbles — one with displeased gods on clouds, one with misaligned stars — above worried stick figures, white background, thick black outlines, flat colors;
+
+279. MS Paint cartoon of two flat speech bubbles — one reading THE MOTHER SINNED, one reading THE BLOOD WAS CORRUPT — above an accused stick figure, plain background, thick black outlines, flat colors;
+
+280. MS Paint cartoon of all the wrong-answer speech bubbles together each stamped with a red X, labeled NONE WERE CORRECT, a suffering stick figure beneath carrying the weight, plain background, thick black outlines;
+
+281. MS Paint cartoon of a flat quiet dark background with a small soft glowing light at center, captioned THE ACTUAL ANSWER IS QUIETER AND STRANGER, thick black outlines, flat colors;
+
+282. MS Paint cartoon of a flat orange neural tube with a precise red circle marking the failed closure point, labeled WEEK FOUR, plain white background, thick black outlines, flat colors;
+
+283. MS Paint cartoon of a flat chromosome pair with a third copy duplicating itself from above, labeled DUPLICATED WHEN IT SHOULD NOT HAVE, plain white background, thick black outlines, flat colors;
+
+284. MS Paint cartoon of a single flat yellow B vitamin pill with a red X and a clock at the wrong moment, labeled ONE NUTRIENT ABSENT, plain white background, thick black outlines, flat colors;
+
+285. MS Paint cartoon of a flat forebrain failing to divide beside two eye fields failing to separate, two small diagrams side by side, labeled IN TIME and NEVER SEPARATED, white background, thick black outlines;
+
+286. MS Paint cartoon of a flat enormous complex body machine of gears and tubes with a single tiny red error dot marking one failed connection, labeled MARGIN FOR ERROR IS SMALL, white background, thick black outlines;
+
+287. MS Paint cartoon of a flat long timeline from prehistory to modern day with small red error dots recurring evenly throughout, labeled THE ERRORS HAVE ALWAYS BEEN THERE, white background, thick black outlines;
+
+288. MS Paint cartoon of a flat label IT IS WHAT HAPPENED AROUND THEM over a warm scene of stick figures caring for one another, golden ground, teal sky, thick black outlines, flat colors;
+
+289. MS Paint cartoon of a stick figure Mesopotamian scribe cataloging abnormalities on clay tablets with the same neat discipline as tax records, organized stacks, grey stone room, torch shapes, thick black outlines;
+
+290. MS Paint cartoon of a stick figure 4th-century Chinese surgeon stitching a lip closed by candlelight with no modern tools, flat red interior, brown floor, thick black outlines, flat colors;
+
+291. MS Paint cartoon of the same surgery scene with a flat label NO GENETICS, NO ANESTHESIA, the surgeon focused and careful, flat candle light, red walls, thick black outlines, flat colors;
+
+292. MS Paint cartoon of a flat Egyptian priest in white robes gently wrapping a small baby mummy bundle in bandages, a decorated gold case nearby, hieroglyph walls, lime green floor, thick black outlines;
+
+293. MS Paint cartoon of a flat Egyptian tomb with a pharaoh in a sarcophagus surrounded by 130 neatly arranged walking sticks, the number 130 labeled, gold and blue interior, torch shapes, thick black outlines;
+
+294. MS Paint cartoon of a stick figure Colombian artisan carefully painting the face of a clay figurine with a tiny brush, tropical green shapes behind, golden ground, teal sky, thick black outlines, flat colors;
+
+295. MS Paint cartoon of a flat Chaco Canyon burial chamber, a six-fingered figure laid in ceremonial position with honored objects around, orange-highlighted hand, grey stone, torch shapes, thick black outlines;
+
+296. MS Paint cartoon of a flat red FEAR cloud floating over a panorama of all the ancient cultures together, labeled REAL AND CONSISTENT ACROSS EVERY CENTURY, golden ground, teal sky, thick black outlines;
+
+297. MS Paint cartoon of a faint warm golden layer beginning to glow beneath the red fear cloud, labeled BUT SO WAS SOMETHING ELSE, stick figures caring within the glow, thick black outlines, flat colors;
+
+298. MS Paint cartoon of a flat stack of wrong frameworks — omen tablets and theories about hares — being looked underneath to reveal people helping each other, plain background, thick black outlines, flat colors;
+
+299. MS Paint cartoon of a wide serene flat landscape, perfect teal sky and golden ground with terracotta hills, an ancient healer and a modern doctor shaking hands across time while all the cultural stick figures stand together on the horizon, a soft glowing book of BETTER LANGUAGE open in the foreground, captioned THE TRYING WAS ALWAYS THERE, thick black outlines, flat colors;
+
+300. MS Paint cartoon of a single stick figure narrator standing at the exact center of a calm flat landscape, arms open and a warm upward curved smile, perfect teal sky, golden ground, terracotta hills, a peaceful final end-card frame with no text, thick black outlines, flat colors;
+
+================================================================================
+TIMESTAMP-TO-IMAGE REFERENCE TABLE
+(Editing guide — image number, when it appears, and the exact script moment)
+================================================================================
+
+| # | Start | End | Script Moment |
+|---|-------|-----|---------------|
+| 1 | 0:00 | 0:04 | "Imagine you are a midwife in ancient Rome" |
+| 2 | 0:04 | 0:08 | "the weight of the moment / the baby arrives" |
+| 3 | 0:08 | 0:12 | "the room goes quiet in a different way" |
+| 4 | 0:12 | 0:16 | "stunned quiet / no one knows what to do" |
+| 5 | 0:16 | 0:20 | "does not have a name / no explanation" |
+| 6 | 0:20 | 0:24 | "world where everything has a reason — the gods" |
+| 7 | 0:24 | 0:28 | "the stars, the sins of the mother" |
+| 8 | 0:28 | 0:32 | "something went very badly / old as humanity" |
+| 9 | 0:32 | 0:36 | "found in Egyptian mummies" |
+| 10 | 0:36 | 0:40 | "Mesopotamian clay tablets / Greek pottery" |
+| 11 | 0:40 | 0:44 | "they terrified / fascinated people" |
+| 12 | 0:44 | 0:48 | "curse, prophecy, punishment, sacred sign" |
+| 13 | 0:48 | 0:53 | "the Romans had a word — monstra" |
+| 14 | 0:53 | 0:57 | "not a medical event / a message" |
+| 15 | 0:57 | 1:01 | "Roman priests called Haruspices" |
+| 16 | 1:01 | 1:05 | "lightning struck a temple or a comet" |
+| 17 | 1:05 | 1:09 | "the birth was logged" |
+| 18 | 1:09 | 1:13 | "the city responded accordingly" |
+| 19 | 1:13 | 1:17 | "today we understand / simpler and stranger" |
+| 20 | 1:17 | 1:21 | "start with Anencephaly / Mesopotamia" |
+| 21 | 1:21 | 1:25 | "clay tablets called omen texts" |
+| 22 | 1:25 | 1:29 | "every possible abnormality" |
+| 23 | 1:29 | 1:33 | "official state documents" |
+| 24 | 1:33 | 1:37 | "written by scribes, royal archives" |
+| 25 | 1:37 | 1:41 | "formal predictions" |
+| 26 | 1:41 | 1:45 | "to the city, to the king, to the harvest" |
+| 27 | 1:45 | 1:49 | "Anencephaly among the most documented" |
+| 28 | 1:49 | 1:53 | "born without upper brain and skull, eyes open" |
+| 29 | 1:53 | 1:57 | "skull absent, exposed tissue or nothing" |
+| 30 | 1:57 | 2:01 | "treated as catastrophic omens" |
+| 31 | 2:01 | 2:05 | "the tablets were warnings" |
+| 32 | 2:05 | 2:09 | "the Babylonian Shema'alu" |
+| 33 | 2:09 | 2:13 | "disaster was coming" |
+| 34 | 2:13 | 2:17 | "the only question was what kind" |
+| 35 | 2:17 | 2:21 | "anencephaly is a neural tube defect" |
+| 36 | 2:21 | 2:25 | "first four weeks / before women know" |
+| 37 | 2:25 | 2:30 | "the neural tube forms" |
+| 38 | 2:30 | 2:34 | "foundation of brain and spinal cord" |
+| 39 | 2:34 | 2:38 | "fails to close at the top" |
+| 40 | 2:38 | 2:42 | "genetic vulnerability + folic acid deficiency" |
+| 41 | 2:42 | 2:46 | "a single B vitamin / one nutrient absent" |
+| 42 | 2:46 | 2:50 | "the brain does not form / rarely survived" |
+| 43 | 2:50 | 2:54 | "understood the outcome not the biology" |
+| 44 | 2:54 | 2:58 | "built entire systems of meaning" |
+| 45 | 2:58 | 3:02 | "documented, catalogued, cross-referenced" |
+| 46 | 3:02 | 3:06 | "filed in state archives" |
+| 47 | 3:06 | 3:10 | "almost like epidemiology" |
+| 48 | 3:10 | 3:15 | "tracking abnormalities, looking for patterns" |
+| 49 | 3:15 | 3:19 | "interpreted the patterns as divine" |
+| 50 | 3:19 | 3:23 | "science told us the meaning / mechanism wrong" |
+| 51 | 3:23 | 3:27 | "Spina bifida, this one is different" |
+| 52 | 3:27 | 3:31 | "because the child survives" |
+| 53 | 3:31 | 3:35 | "fails to close at the bottom / forms incompletely" |
+| 54 | 3:35 | 3:39 | "cord exposed, bulging sac on the back" |
+| 55 | 3:39 | 3:43 | "partial paralysis" |
+| 56 | 3:43 | 3:47 | "loss of sensation in the legs" |
+| 57 | 3:47 | 3:51 | "in mild cases, almost no signs" |
+| 58 | 3:51 | 3:56 | "archaeological evidence shows these lived" |
+| 59 | 3:56 | 4:00 | "remains in Egypt, Europe, Americas" |
+| 60 | 4:00 | 4:04 | "consistent with spina bifida" |
+| 61 | 4:04 | 4:08 | "signs of long-term survival" |
+| 62 | 4:08 | 4:12 | "someone fed them" |
+| 63 | 4:12 | 4:16 | "cared for them for years / closer to home" |
+| 64 | 4:16 | 4:20 | "skeletal remains of Tutankhamun" |
+| 65 | 4:20 | 4:24 | "the famous boy king" |
+| 66 | 4:24 | 4:28 | "spinal abnormalities, mild spina bifida" |
+| 67 | 4:28 | 4:32 | "a clubfoot and bone disease" |
+| 68 | 4:32 | 4:36 | "the living god of Egypt may have walked with a cane" |
+| 69 | 4:36 | 4:40 | "his tomb contained 130 walking sticks" |
+| 70 | 4:40 | 4:44 | "symbolic / they may have been practical" |
+| 71 | 4:44 | 4:48 | "Rome had a concept — the prodigy" |
+| 72 | 4:48 | 4:52 | "the response was not always destruction" |
+| 73 | 4:52 | 4:56 | "ritual, prayer, atonement" |
+| 74 | 4:56 | 5:00 | "living evidence of divine communication" |
+| 75 | 5:00 | 5:04 | "kept alive to preserve the message" |
+| 76 | 5:04 | 5:08 | "same folic acid deficiency pathway" |
+| 77 | 5:08 | 5:12 | "two outcomes depending which end fails" |
+| 78 | 5:12 | 5:16 | "Congenital heart defect / you cannot see it" |
+| 79 | 5:16 | 5:20 | "the birth goes normally / mother holds the child" |
+| 80 | 5:20 | 5:24 | "and then the child turns blue" |
+| 81 | 5:24 | 5:28 | "the heart was the seat of the soul" |
+| 82 | 5:28 | 5:32 | "in Egypt, weighed against a feather" |
+| 83 | 5:32 | 5:36 | "heavy with wrongdoing / you were destroyed" |
+| 84 | 5:36 | 5:40 | "in Greece, source of thought and emotion" |
+| 85 | 5:40 | 5:44 | "in Hebrew tradition, center of will and desire" |
+| 86 | 5:44 | 5:48 | "the lungs could not keep up" |
+| 87 | 5:48 | 5:52 | "lips the color of a bruise / full weight" |
+| 88 | 5:52 | 5:56 | "not just sick" |
+| 89 | 5:56 | 6:00 | "their soul was already wrong" |
+| 90 | 6:00 | 6:04 | "most common defect / one in 100" |
+| 91 | 6:04 | 6:08 | "many undetected, many self-correct" |
+| 92 | 6:08 | 6:12 | "severe ones produce visible signs" |
+| 93 | 6:12 | 6:16 | "the Greek physician Galen, 2nd century" |
+| 94 | 6:16 | 6:20 | "dissected animals with precision" |
+| 95 | 6:20 | 6:24 | "identified chambers and vessels" |
+| 96 | 6:24 | 6:28 | "close to circulation / wrong conclusions" |
+| 97 | 6:28 | 6:32 | "drew the wrong conclusions" |
+| 98 | 6:32 | 6:36 | "European medicine wrong for 1000 years" |
+| 99 | 6:36 | 6:40 | "cardiac development between weeks 4 and 8" |
+| 100 | 6:40 | 6:44 | "genetic mutations / chromosomal abnormalities" |
+| 101 | 6:44 | 6:48 | "viral infections / rubella" |
+| 102 | 6:48 | 6:52 | "certain medications / alcohol" |
+| 103 | 6:52 | 6:56 | "first organ to function / first to go wrong" |
+| 104 | 6:56 | 7:00 | "a blue baby did not survive" |
+| 105 | 7:00 | 7:04 | "attributed to maternal emotion" |
+| 106 | 7:04 | 7:08 | "others to celestial events" |
+| 107 | 7:08 | 7:12 | "born this way / nothing to be done" |
+| 108 | 7:12 | 7:16 | "1944, Dr. Alfred Blalock, Johns Hopkins" |
+| 109 | 7:16 | 7:20 | "the surgery itself" |
+| 110 | 7:20 | 7:24 | "lab technician Vivien Thomas, no degree" |
+| 111 | 7:24 | 7:28 | "years perfecting the technique on dogs" |
+| 112 | 7:28 | 7:32 | "stood behind Blalock, guided every step" |
+| 113 | 7:32 | 7:36 | "Blalock received the credit" |
+| 114 | 7:36 | 7:40 | "Thomas received a janitor's uniform" |
+| 115 | 7:40 | 7:44 | "acknowledged his contribution decades later" |
+| 116 | 7:44 | 7:48 | "a death sentence on the first day of life" |
+| 117 | 7:48 | 7:52 | "all history before 1944" |
+| 118 | 7:52 | 7:56 | "it was the same outcome" |
+| 119 | 7:56 | 8:00 | "Cleft lip and palate / survivable, complicated" |
+| 120 | 8:00 | 8:04 | "a gap in the upper lip" |
+| 121 | 8:04 | 8:08 | "cleft palate in the roof of the mouth" |
+| 122 | 8:08 | 8:12 | "affect feeding, speech, appearance" |
+| 123 | 8:12 | 8:16 | "in ancient Rome and medieval Europe" |
+| 124 | 8:16 | 8:20 | "associated with witchcraft" |
+| 125 | 8:20 | 8:24 | "startled by a hare during pregnancy" |
+| 126 | 8:24 | 8:28 | "the fright had marked the child" |
+| 127 | 8:28 | 8:32 | "the term harelip for centuries" |
+| 128 | 8:32 | 8:36 | "she was suspected / a formal inquest" |
+| 129 | 8:36 | 8:40 | "consorted with unusual animals?" |
+| 130 | 8:40 | 8:44 | "evidence of something she had done" |
+| 131 | 8:44 | 8:48 | "consequences severe / other cultures" |
+| 132 | 8:48 | 8:52 | "a cleft was sacred / Tlaloc the rain deity" |
+| 133 | 8:52 | 8:56 | "one of the most powerful Aztec gods" |
+| 134 | 8:56 | 9:00 | "depicted with a cleft upper lip" |
+| 135 | 9:00 | 9:04 | "always with that characteristic split" |
+| 136 | 9:04 | 9:08 | "children given to his temples" |
+| 137 | 9:08 | 9:12 | "not punishment but divine marking" |
+| 138 | 9:12 | 9:16 | "born resembling a god / an assignment" |
+| 139 | 9:16 | 9:20 | "the genetics are genuinely complex" |
+| 140 | 9:20 | 9:24 | "multiple interacting genes" |
+| 141 | 9:24 | 9:28 | "combined with environmental factors" |
+| 142 | 9:28 | 9:32 | "smoking / anticonvulsant medications" |
+| 143 | 9:32 | 9:36 | "even high altitude / still being mapped" |
+| 144 | 9:36 | 9:40 | "did not wait for the gods to fix it" |
+| 145 | 9:40 | 9:44 | "they fixed it themselves" |
+| 146 | 9:44 | 9:48 | "Chinese medical texts from 390 AD" |
+| 147 | 9:48 | 9:52 | "Wei Yizhi recorded a procedure with sutures" |
+| 148 | 9:52 | 9:56 | "guidance on positioning and wound care" |
+| 149 | 9:56 | 10:00 | "the operation worked" |
+| 150 | 10:00 | 10:04 | "could eat, speak, move through society" |
+| 151 | 10:04 | 10:08 | "facial reconstructive surgery with thread" |
+| 152 | 10:08 | 10:12 | "no anesthesia" |
+| 153 | 10:12 | 10:16 | "no germ theory / no understanding of cause" |
+| 154 | 10:16 | 10:20 | "plastic surgery 1500 years before the name" |
+| 155 | 10:20 | 10:24 | "Polydactyly, the extra finger" |
+| 156 | 10:24 | 10:28 | "all read as horror / some as power" |
+| 157 | 10:28 | 10:32 | "extra fingers or toes / common, 1 in 500" |
+| 158 | 10:32 | 10:36 | "extra digit small, partially functional" |
+| 159 | 10:36 | 10:40 | "a mark of distinction" |
+| 160 | 10:40 | 10:44 | "Goliath of Gath" |
+| 161 | 10:44 | 10:48 | "six fingers and six toes / 24 digits" |
+| 162 | 10:48 | 10:52 | "Anatolia, figurines in temples" |
+| 163 | 10:52 | 10:56 | "American Southwest cave paintings" |
+| 164 | 10:56 | 11:00 | "handprints across multiple sites" |
+| 165 | 11:00 | 11:05 | "centuries apart / Chaco Canyon" |
+| 166 | 11:05 | 11:09 | "sophisticated pre-Columbian culture" |
+| 167 | 11:09 | 11:13 | "polydactyly present in the population" |
+| 168 | 11:13 | 11:17 | "held elevated social status" |
+| 169 | 11:17 | 11:21 | "bones in ritual spaces / central" |
+| 170 | 11:21 | 11:25 | "not hidden / it was displayed" |
+| 171 | 11:25 | 11:29 | "a more personal example" |
+| 172 | 11:29 | 11:33 | "Anne Boleyn / a sixth finger" |
+| 173 | 11:33 | 11:37 | "rumor exaggerated for political purposes" |
+| 174 | 11:37 | 11:41 | "rivals who needed reasons to destroy her" |
+| 175 | 11:41 | 11:45 | "the extra finger used as an accusation" |
+| 176 | 11:45 | 11:49 | "how the Tudor court read unusual bodies" |
+| 177 | 11:49 | 11:53 | "divine in Chaco Canyon, demonic in London" |
+| 178 | 11:53 | 11:57 | "the cause is genetic / autosomal dominant" |
+| 179 | 11:57 | 12:01 | "runs in families clearly" |
+| 180 | 12:01 | 12:05 | "the same bloodline, generation after generation" |
+| 181 | 12:05 | 12:09 | "carrying the same extra finger" |
+| 182 | 12:09 | 12:13 | "read as lineage mark" |
+| 183 | 12:13 | 12:17 | "the gods choosing a family" |
+| 184 | 12:17 | 12:21 | "marking it visibly" |
+| 185 | 12:21 | 12:25 | "basic Mendelian inheritance" |
+| 186 | 12:25 | 12:29 | "Cyclopia and the myth it created" |
+| 187 | 12:29 | 12:33 | "mythology that survived 3000 years" |
+| 188 | 12:33 | 12:37 | "the two embryonic eye fields" |
+| 189 | 12:37 | 12:41 | "fail to separate" |
+| 190 | 12:41 | 12:45 | "a single eye positioned centrally" |
+| 191 | 12:45 | 12:49 | "where the nose would normally form" |
+| 192 | 12:49 | 12:53 | "nose displaced above the eye" |
+| 193 | 12:53 | 12:57 | "always fatal / but their skulls survive" |
+| 194 | 12:57 | 13:01 | "found the skull of a dwarf elephant" |
+| 195 | 13:01 | 13:05 | "lived across the Mediterranean islands" |
+| 196 | 13:05 | 13:09 | "central nasal cavity / looked like an eye socket" |
+| 197 | 13:09 | 13:13 | "the skulls were real and enormous" |
+| 198 | 13:13 | 13:17 | "the most durable monster / the cyclops" |
+| 199 | 13:17 | 13:21 | "a parallel version in human birth" |
+| 200 | 13:21 | 13:25 | "holoprosencephaly" |
+| 201 | 13:25 | 13:29 | "the forebrain fails to divide" |
+| 202 | 13:29 | 13:33 | "ancient midwives who witnessed these" |
+| 203 | 13:33 | 13:37 | "ancient artists depicted them" |
+| 204 | 13:37 | 13:41 | "the empty space where understanding should be" |
+| 205 | 13:41 | 13:45 | "the mind placed a monster with a story" |
+| 206 | 13:45 | 13:49 | "the science of cyclopia reveals something" |
+| 207 | 13:49 | 13:53 | "the sonic hedgehog pathway" |
+| 208 | 13:53 | 13:57 | "normal facial development across all vertebrates" |
+| 209 | 13:57 | 14:01 | "why the face forms the way it does" |
+| 210 | 14:01 | 14:05 | "the same molecular mechanisms" |
+| 211 | 14:05 | 14:09 | "understanding the defect → development" |
+| 212 | 14:09 | 14:13 | "the monster explains how the face works" |
+| 213 | 14:13 | 14:17 | "Down syndrome, appeared in art in 1866" |
+| 214 | 14:17 | 14:21 | "John Langdon Down" |
+| 215 | 14:21 | 14:25 | "described a pattern of features" |
+| 216 | 14:25 | 14:29 | "not new / never categorized" |
+| 217 | 14:29 | 14:33 | "the evidence in ancient art is striking" |
+| 218 | 14:33 | 14:37 | "ceramic figurines from Colombia" |
+| 219 | 14:37 | 14:41 | "features consistent with Down syndrome" |
+| 220 | 14:41 | 14:45 | "the facial structure, posture, proportions" |
+| 221 | 14:45 | 14:49 | "not accidental imperfections" |
+| 222 | 14:49 | 14:53 | "intentional portraits / rendered deliberately" |
+| 223 | 14:53 | 14:57 | "repeated across figurines / medieval art" |
+| 224 | 14:57 | 15:01 | "paintings of the Christ child" |
+| 225 | 15:01 | 15:05 | "physicians reviewing the images" |
+| 226 | 15:05 | 15:09 | "consistent with Down syndrome" |
+| 227 | 15:09 | 15:13 | "conscious or coincidental is debated" |
+| 228 | 15:13 | 15:17 | "individuals present in these communities" |
+| 229 | 15:17 | 15:21 | "visible enough to appear in records" |
+| 230 | 15:21 | 15:25 | "caused by trisomy 21" |
+| 231 | 15:25 | 15:29 | "third copy of chromosome 21 / all populations" |
+| 232 | 15:29 | 15:33 | "all geographies, all time periods" |
+| 233 | 15:33 | 15:37 | "incidence increases with maternal age" |
+| 234 | 15:37 | 15:41 | "older mothers, certain features" |
+| 235 | 15:41 | 15:45 | "the cultural framework of bad blood" |
+| 236 | 15:45 | 15:49 | "weakened constitution with age" |
+| 237 | 15:49 | 15:53 | "at age 20, 1 in 1,500" |
+| 238 | 15:53 | 15:57 | "at age 45, 1 in 30" |
+| 239 | 15:57 | 16:01 | "children across the fertile lifespan" |
+| 240 | 16:01 | 16:05 | "the incidence was real and consistent" |
+| 241 | 16:05 | 16:09 | "these individuals were not invisible" |
+| 242 | 16:09 | 16:13 | "they were present, they were depicted" |
+| 243 | 16:13 | 16:17 | "varied by place and era, but they were there" |
+| 244 | 16:17 | 16:21 | "the fear of bad blood / same conclusion" |
+| 245 | 16:21 | 16:25 | "this can happen again / observation correct" |
+| 246 | 16:25 | 16:29 | "the explanation was always wrong" |
+| 247 | 16:29 | 16:33 | "the mother's behavior caused the defect" |
+| 248 | 16:33 | 16:37 | "what she saw, what she feared" |
+| 249 | 16:37 | 16:41 | "what she ate, what she thought / moral blame" |
+| 250 | 16:41 | 16:45 | "if she had not done the wrong thing" |
+| 251 | 16:45 | 16:49 | "this logic survived into modern medicine" |
+| 252 | 16:49 | 16:53 | "in the 1800s, documenting maternal impressions" |
+| 253 | 16:53 | 16:57 | "imprint a deformity onto her fetus" |
+| 254 | 16:57 | 17:01 | "through the force of imagination alone" |
+| 255 | 17:01 | 17:05 | "not folk belief / published in journals" |
+| 256 | 17:05 | 17:09 | "doctors recorded cases" |
+| 257 | 17:09 | 17:13 | "mothers reported the animal that startled them" |
+| 258 | 17:13 | 17:17 | "taken seriously well into the 19th century" |
+| 259 | 17:17 | 17:21 | "the actual mechanism not understood till 20th c" |
+| 260 | 17:21 | 17:25 | "the discovery of chromosomes" |
+| 261 | 17:25 | 17:29 | "carriers of hereditary information, early 1900s" |
+| 262 | 17:29 | 17:33 | "Down syndrome cause not identified until 1959" |
+| 263 | 17:33 | 17:37 | "neural tube defects understood in the 1990s" |
+| 264 | 17:37 | 17:41 | "what they were observing was real" |
+| 265 | 17:41 | 17:45 | "neural tube defects cluster in families" |
+| 266 | 17:45 | 17:49 | "chromosomal risk increases with age" |
+| 267 | 17:49 | 17:53 | "heart defects repeat across generations" |
+| 268 | 17:53 | 17:57 | "cleft palate / polydactyly run in bloodlines" |
+| 269 | 17:57 | 18:01 | "building the wrong architecture" |
+| 270 | 18:01 | 18:05 | "the wrong architecture around the patterns" |
+| 271 | 18:05 | 18:09 | "assigned guilt, demanded punishment" |
+| 272 | 18:09 | 18:13 | "weight onto women who had done nothing" |
+| 273 | 18:13 | 18:17 | "did not need to survive into the modern era" |
+| 274 | 18:17 | 18:21 | "took longer to disappear than it should" |
+| 275 | 18:21 | 18:25 | "always forced the same question" |
+| 276 | 18:25 | 18:29 | "why does this happen to a child" |
+| 277 | 18:29 | 18:33 | "every system attempted an answer" |
+| 278 | 18:33 | 18:37 | "the gods displeased / the stars misaligned" |
+| 279 | 18:37 | 18:41 | "the mother had sinned / the blood was corrupt" |
+| 280 | 18:41 | 18:45 | "none were correct / weight of the inexplicable" |
+| 281 | 18:45 | 18:49 | "the actual answer is quieter and stranger" |
+| 282 | 18:49 | 18:53 | "a neural tube that failed to close at week four" |
+| 283 | 18:53 | 18:57 | "a chromosome that duplicated" |
+| 284 | 18:57 | 19:01 | "a single B vitamin absent at the wrong moment" |
+| 285 | 19:01 | 19:05 | "a forebrain that did not divide / eye fields" |
+| 286 | 19:05 | 19:09 | "the margin for error is extraordinarily small" |
+| 287 | 19:09 | 19:13 | "the errors have always been there" |
+| 288 | 19:13 | 19:17 | "it is what happened around them" |
+| 289 | 19:17 | 19:21 | "scribes cataloging like tax records" |
+| 290 | 19:21 | 19:25 | "a 4th-century Chinese surgeon stitching lips" |
+| 291 | 19:25 | 19:29 | "no genetics and no anesthesia" |
+| 292 | 19:29 | 19:33 | "Egyptian priests preserved the infants" |
+| 293 | 19:33 | 19:37 | "a pharaoh given 130 walking sticks" |
+| 294 | 19:37 | 19:41 | "Colombian artists' ceramic portraits" |
+| 295 | 19:41 | 19:45 | "Chaco Canyon buried their six-fingered members" |
+| 296 | 19:45 | 19:49 | "the fear was real and consistent" |
+| 297 | 19:49 | 19:55 | "but so was something else" |
+| 298 | 19:55 | 20:02 | "underneath the wrong explanations / theories about hares" |
+| 299 | 20:02 | 20:10 | "people trying / the science gave us better language" |
+| 300 | 20:10 | 20:12 | "the trying was always there" — final end card |
+
+================================================================================
+SUMMARY
+Total prompts: 300
+Runtime covered: 0:00 – 20:12 (1,212 seconds)
+Average beat: 4.0s (most beats 4s; a few 5s in slow stretches, the final two longer for the closing lines)
+Every prompt is locked to the exact narration line playing at its timestamp. Table is monotonic — no gaps, no compression.
+================================================================================
