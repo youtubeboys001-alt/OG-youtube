@@ -1,0 +1,284 @@
+# VIDEO 4 – AUTO FLOW PACKET (State 13)
+# Title: "Do Animals Remember the Humans Who Hurt Them?"
+# Runtime: 7:55 (475 seconds) | Total Prompts: 132 | Pacing: ~3.6s per image
+# Visual Style: Flat 2D stick-figure cartoon, deep navy background, bold black outlines flat color fills no gradients no textures
+
+---
+
+# CHARACTER PROMPTS
+
+@crow = Black crow bird shape, sleek flat silhouette, wings folded at rest or spread in flight, small sharp beak, head precisely angled in observation, perched high on a thin horizontal wire above an urban street, flat black form on deep navy background
+
+@man = Contemporary adult stick figure, dark clothes, unaware relaxed posture, walking toward a parked car shape with a simple flat door and wheel, round head with dot eyes, nothing registering in the stance, ordinary morning routine
+
+@matriarch = Large flat elephant shape, commanding proportions, curved tusk shapes visible, trunk raised slightly, positioned at the front of a herd grouping, decisive heavy silhouette, savanna flat ground below
+
+@maasai = Tall stylized warrior stick figure, distinctive elongated proportions, flat vertical spear shape held alongside, minimal flat wrap shape indicating traditional clothing, moving in small group formations
+
+@brain = Simplified flat brain cross-section diagram, hippocampus region and amygdala region clearly labeled and highlighted in separate flat colors, neural connection lines between regions, clinical flat style
+
+@dog = Lean rescue dog flat silhouette, alert or flinch posture, low shoulder angle, ears flat back, positioned in a neutral shelter setting
+
+@scientist = Stick figure researcher with flat lab coat shape extending to the knees, flat clipboard or notebook shape in hand, round head with dot eyes, standing in research room or campus setting
+
+@octopus = Simplified flat blob body with eight arms visible, inside a flat rectangular research tank shape with a horizontal waterline above
+
+---
+
+# IMAGE PROMPTS
+
+Flat 2D stick-figure cartoon, deep navy background, @crow wings folding as it lands on a thin horizontal wire stretched across the frame, body settling into perched position above an empty street below, early morning flat grey light, the arrival before the man appears, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @man stick figure walking toward a small parked car shape at the lower frame with a simple door and wheel visible, head down in routine posture, @crow perched on wire visible above in the same frame looking down, the asymmetry complete, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow completely motionless on wire, head angled precisely downward tracking movement below, no aggression visible, pure patient stillness, wire running horizontally above empty street, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @man pausing mid-step looking upward briefly toward @crow on wire above, sight lines nearly meeting, @crow unchanged and still, @man turning away and reaching for a flat car door shape, the disconnect complete, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat rectangular calendar shape with the word TOMORROW visible on it, below the calendar the same wire and same empty street in flat grey light, @crow already on wire before any man shape appears, the pattern established, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @man stick figure emerging from a flat doorway shape on one side of the frame, @crow head tracking the motion in a precise arc from the wire above, the same trajectory as yesterday memorized and expected, wire and doorway visible together, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @man walking toward car shape in completely relaxed posture, nothing registering in any line of the stick figure, @crow visible above on wire not even clocked as unusual by the man's posture, his complete ordinary morning visible, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow viewed from below the wire looking up, head tilted at a precise angle pointing downward, the posture of something that knows exactly what it knows, flat pale sky shape behind, wire horizontal at the bottom of the frame, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat horizontal timeline shape stretching from left to right, @crow silhouette at the right present end, the left end labeled SEVEN YEARS AGO in white block letters, the distance between the two points drawn very long across the full frame, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow on wire in the present moment, posture unchanged from any previous frame, the file fully intact and running, no softening visible, wire horizontal, early morning light flat and identical to every other morning, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, close on @crow head silhouette, a tiny flat file shape visible inside the head as a graphic, the file labeled with a small man silhouette, seven years of data stored in a brain the size of a walnut, the knowledge carried every morning, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a generic animal shape bolting sideways in motion blur lines at the center of the frame, then in the same frame the identical animal back in complete stillness, the erase and reset cycle of the assumed animal present made visible simultaneously, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat clock circle with no hands on the clock face, the empty interior representing pure present with no past arrow and no future arrow, simple clock shape centered in the frame with nothing accumulated inside, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat white text reading THE MOMENT DISSOLVES THE ANIMAL MOVES ON centered in the frame, a heavy red diagonal stamp shape over it with the word WRONG in large red block letters crossing through the statement, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat building outline shape labeled UNIVERSITY OF WASHINGTON with a small 2006 label in the upper corner, @scientist stick figure at a flat desk with crow observation note shapes spread around, the beginning of the experiment being conceived, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, multiple @scientist stick figures gathered in a flat meeting space, one scientist holding up a flat oval rubber mask shape toward the group, other figures looking at the mask being displayed, the simple and strange idea taking visible shape in the room, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @scientist stick figures preparing equipment shapes for a campus study, clipboards and trap shapes being assembled, a flat campus ground visible through a window, the ordinary preparation before something extraordinary, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @scientist figure with a flat caveman mask shape being pulled over the round head mid-action, the transformation from researcher to masked figure visible, through a flat rectangular window shape behind them @crow shapes visible going about normal campus life, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, masked @scientist figure approaching a flat trap structure on a campus ground surface, in the background @crow shapes perched and feeding normally with no alarm posture, the trap ready and the crows unaware of what is about to be encoded, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow caught in a flat net shape at ground level, masked @scientist figure crouching nearby with a flat banding tool shape, @crow eye shape locked toward the mask face at close range, the mask filling a large portion of the frame, the encoding moment at maximum intensity, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow flying away from the release point at the upper left, @scientist figures watching it go at the lower right then turning to walk away with equipment shapes, in the background @crow landing on a distant flat branch shape watching the departing figures, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @scientist figures inside a flat building shape suggesting the lab at home, the campus outside the window, @crow shapes still visible on campus branches watching the building, the researchers finished and the crows not finished at all, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat calendar shape with weeks passing indicated by multiple pages, then a masked @scientist figure stepping out onto the campus again, @crow shapes in the trees above already beginning to shift and track, the return beginning, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, masked @scientist figure walking across a flat campus ground, @crow shapes in flat tree shapes above beginning to reposition and converge from different locations, tracking the figure before committing to alarm, the discovery of what the crow stored beginning, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow on a flat branch shape, full body posture shifting from relaxed foraging position to rigid alarm stance in one frame, every line of the body changed by recognition, masked @scientist visible at distance in the same frame, the recognition immediate and total, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, three @crow shapes simultaneously diving from different angles toward a masked @scientist figure at the center, wings spread in full descent, the mob converging from multiple directions at once, the target the mask and only the mask, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the mob from above showing @crow shapes converging from all corners of the campus toward the single masked figure at the center, the spatial scale of the response visible, the grudge organizing itself across territory, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, masked @scientist figure walking away toward the right edge of the frame, @crow shapes following to a flat boundary line then stopping precisely at the edge, the mob having accomplished its purpose, the threat removed, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, three @crow shapes all mid-dive simultaneously with wings fully spread, all directed at a single point below them, the cascade of alarm at its peak from every direction, the grudge expressing itself in flight, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, two @scientist figures walking in sequence across the frame, the first wearing a flat neutral mask shape with @crow shapes above completely calm and unresponsive, the second wearing the caveman mask shape with @crow shapes above in immediate full alarm, same person two completely different outcomes visible, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat white text centered in the frame reading THE GRUDGE WASNT FADING IT WAS RECRUITING in large block letters, @crow shapes multiplying in number across the top of the frame as the text is read, the growth visualized, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a small young @crow shape sitting beside a larger adult @crow shape on a flat branch, adult @crow going into full alarm posture at the caveman mask visible below, young @crow watching the parent's reaction intently, memorizing the face being shown, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, young @crow shape alone in the frame, the caveman mask visible below it, young @crow in a full committed mid-dive attack at the mask, a label NEVER TRAPPED beside it, the inherited alarm fully operational, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat network diagram with adult @crow nodes connected to offspring @crow nodes by thin lines, the flat caveman mask image traveling along the connection lines from the original trapped crow nodes outward through the full flock network, social transmission made visible as movement, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a small @crow shape with a flat egg shape beside it indicating hatching after the original event, the same @crow now in mid-dive with wings fully open at the caveman mask below, the inherited alarm as operationally complete as the original, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat family tree diagram with a grandparent @crow at top connected to a parent @crow in the middle connected to an offspring @crow at the bottom, the flat caveman mask face image echoed identically in a small memory box beside each generation, three generations one grudge, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a young @crow in full dive-bomb posture mid-frame with wings spread wide, below it three flat text labels stacked reading NEVER TRAPPED then NEVER THREATENED then STILL ATTACKING, the paradox and the truth in the same flat frame, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a simplified flat world map outline with Washington State highlighted on the left side and Kenya highlighted on the right side, a connecting line between them with the label 11000 KM on the line, the scale of the evidence expanding across the full frame, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat savanna scene with a horizontal ground line, a simplified Kilimanjaro triangle silhouette on the far horizon, multiple smaller elephant shapes in the middle distance with a large @matriarch figure at the very front of the group, Amboseli establishing shot, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @matriarch large elephant shape close in the frame, other smaller elephant shapes arranged behind and around her oriented toward her as a reference point, savanna flat ground below, her commanding position as the memory keeper of the group visible, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, two separate groups of @maasai warrior shapes approaching from the left at a distance on flat savanna ground, @matriarch trunk raised slightly reading them, something processing in her posture that will determine completely different outcomes for each group, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @matriarch trunk raised with three flat input channel shapes leading to it from @maasai figures in the distance, a curved scent line shape, a flat sound wave shape, and a small silhouette detail shape, all three inputs arriving simultaneously at the matriarch, the total reading visualized, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @matriarch internal decision process visualized as a flat diagram inside her form, recognized threat files being checked against incoming silhouettes, the comparison happening beneath the visible surface, the decision about to be made, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, split frame with left side showing @matriarch with elephant herd shapes beginning to shift and turn in alert with one @maasai group approaching, right side showing @matriarch with the same herd completely still and grazing with a different @maasai group nearby, same location two completely different outcomes, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, three flat text labels appearing in sequence in the frame, NOT ALL HUMANS at the top in large letters, NOT ALL MAASAI beneath it in slightly smaller letters, SPECIFIC INDIVIDUALS at the bottom in white block letters, the narrowing to exact resolution made visual, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, three flat rectangular file shapes arranged in the frame each one labeled, FACE with a silhouette shape inside, SPEAR with a flat spear shape inside, MORNING with a flat sunrise line inside, shown as @matriarch memory files all present and intact years after the events that created them, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the text GENERALIZED crossed out above @matriarch shape, the text ALL HUMANS EQUALS DANGER struck through below it, replaced with three small precise individual file shapes arranged beside the matriarch, the shortcut refused and the specific files kept, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat open file shape in the center of the frame with a face silhouette that has never closed, a flat spear shape filed beside it, a MORNING label that was never archived as finished, all three items active and current inside the file, the morning she hasn't put down, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat horizontal timeline with THEN on the left and NOW on the right, the same three open file shapes visible under both THEN and NOW without change, different location dots below the timeline, the files unchanged across years and locations, the memory intact across the full span, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @matriarch at the front of the herd with @maasai warrior shapes she has recognized approaching at left, the herd shapes behind her already beginning to move without hesitation, the decision already made by recognition alone and the herd trusting it completely, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, different @maasai warrior shapes approaching on flat savanna ground, @matriarch and the herd shapes remaining completely still in calm grazing posture, the deliberate silence of non-recognition as powerful a signal as the alarm itself, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @matriarch at the center of a flat diagram with herd shapes arranged radially around her, thin lines connecting each herd member back to her as the central node, the group security system visible as a network where all threat decisions pass through one memory, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the same herd security diagram with the word GRUDGE appearing as a clinical flat text label above the central node, presented as a technical description not a judgment, matter-of-fact in its placement above the diagram, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @matriarch shape in the savanna carrying the weight of the group's security system, all the elephant shapes around her oriented toward her, the group's survival depending on what she holds in memory, the scale of the responsibility visible, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat @brain cross-section with the hippocampus region highlighted in one color and the amygdala region highlighted in a second color, a face shape and location dot entering the hippocampus encoding region, then a threat tag shape emerging from the amygdala lighting up, the two structures working in sequence, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat @brain cross-section with the amygdala region shown in its role as emotional charge provider, a memory shape entering without tag and leaving with a threat tag attached, the tag making the memory active rather than passively stored, the emotional charge visible as a glow on the tagged memory, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat @brain cross-section with the same face shape being pulled from storage three times in a visible retrieval loop, the same face entering and re-entering the active memory space in a circular pattern, the loop keeping the memory circulating rather than archived, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, four flat brain cross-section shapes arranged side by side labeled BIRD then ELEPHANT then DOG then HUMAN in a row, the identical hippocampus and amygdala regions highlighted in the same position in each one, the shared ancient architecture visible across all four species, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, one bird brain cross-section close, the hippocampus and amygdala structures labeled, the mask face shape visible stored inside it, the architecture identical to what a human brain uses for its worst memories, the same system in a skull the size of a walnut, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, three @brain cross-sections in sequence labeled BIRD then ELEPHANT then DOG, the identical hippocampus-amygdala encoding process shown running in each one, the single system that was too important to lose highlighted identically across every species, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat @brain cross-section labeled ELEPHANT with the same hippocampus and amygdala structures highlighted, the specific file shapes from the Amboseli memory visible stored inside, the same architecture as the crow and the human running the same process, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat rectangular research tank shape with a horizontal waterline, @octopus blob shape with arms visible on one side of the tank, @scientist figure on the other side of the glass, a precise flat arc of water jet shape directed from @octopus toward that specific researcher figure only, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, same research tank, @octopus in the center, a gentle @scientist figure on the left side of the glass receiving no response from the octopus, the specific @scientist on the right side receiving the water jet, the discrimination between individual researchers visible, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, two flat memory diagrams side by side, the left labeled HUMAN with a worst memory encoded and tagged inside, the right labeled CROW with the mask face encoded and tagged inside, both built from the same hippocampus-amygdala components running identically, the sameness the point, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the label SAME ARCHITECTURE in large flat letters between the two diagrams from the previous frame, the human memory system and the crow memory system shown as identical in structure with a bracket indicating equivalence, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat horizontal evolutionary timeline with the hippocampus-amygdala system appearing long before any human figure shape, the system already present in early mammal shapes hundreds of millions of years ago, running forward through species shapes, reaching the human figure already ancient, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading IT WASNT BUILT FOR HUMANS centered in the frame, below it IT WAS BUILT BECAUSE REMEMBERING WHO HURT YOU IS ONE OF THE OLDEST SURVIVAL TOOLS ON THIS PLANET, the weight of that sentence in white on the deep navy, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading CAN ANIMALS DO THIS in question form at the top of the frame, @crow shapes and @matriarch and @dog shapes visible below already mid-action in the very behavior the question asks about, the question already settled before it is fully formed, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @scientist figures walking across a flat campus ground with notebooks closed and eyes directed forward, @crow shapes in flat tree shapes above watching the researchers move below, the attention running in one direction only, the researchers unaware of being observed, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading THE QUESTION WAS WHETHER WE WERE PAYING ATTENTION in white block letters, below it AND WE WERENT in larger letters, the admission sitting plainly in the frame, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat rectangular sign shape reading ANIMALS DONT HAVE COMPLEX EMOTIONAL MEMORY with visible crack lines forming through the sign surface from multiple points, the old consensus visibly fracturing under the weight of documented evidence, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat study result shapes stacking one on top of another like pages, each one adding weight to the cracking sign from the previous frame, the revision happening study by study, species by species, the consensus changing under accumulated evidence, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the word ANTHROPOMORPHISM in large flat white letters across the upper portion of the frame, @crow shape on wire in the lower right portion unchanged and continuing to update the file the word said it couldn't have, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading THE CROWS DIDNT WAIT FOR THE REVISION centered in the frame, below it THEY WERE ALREADY KEEPING RECORDS in white block letters, @crow shape on wire in the corner running the update, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a rescue elephant shape with a label RESCUED FROM POACHING AREA at the left, a simple flat sound wave shape appearing nearby, the elephant full-body posture in a full flinch with every line of the body showing exaggerated startle response, years after the event, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a rescue elephant shape at the far edge of a flat sanctuary space, other smaller elephant shapes grouped together in the background far from her, the elephant standing alone at the margin, social withdrawal made visible in the physical distance from the group, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the flinch and the withdrawal shown side by side in two frames within the frame, labeled HYPERVIGILANCE and SOCIAL WITHDRAWAL respectively, both the same memory running through the same body in different ways, the PTSD label appearing above both, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, rescue elephant shape scanning slowly from left to right, no predator shape or threat shape visible anywhere in the flat frame, nothing triggering visible, but the elephant full alert posture maintained, the memory running its search on an empty landscape, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text labels STILL SCANNING and STILL FLAGGING appearing above the scanning elephant shape, the search pattern continuing on an empty environment, the filter running because it cannot be turned off, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the elephant awareness visualized as a flat screen overlay with silhouette shapes and sound wave shapes and movement pattern shapes from the original poaching event running as a filter over the current safe environment, everything being checked against this template, the active filter never switched off, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @dog shape at rest in a flat shelter space, multiple human stick figure shapes passing at different heights and builds, most passing without @dog responding, one specific tall silhouette shape triggering an immediate full-body flinch in the dog, specific and not general, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat sound wave shapes on both sides of @dog, one sound wave on the left passing with @dog completely still, a different frequency sound wave on the right triggering @dog stepping backward in a flinch response, the tonal signature stored and distinguishing, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @dog not flinching on the left side as a neutral human shape passes, @dog in full flinch on the right side as a specific silhouette shape approaches, the selectivity side by side in the same frame, not all humans this one specifically, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat @brain cross-section with a file shape inside labeled with specific parameters instead of a general rule, the label HUMANS EQUALS DANGER struck through and replaced with precise description shapes, the trauma memory refusing to categorize broadly, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat precision diagram with three labeled parameters, HEIGHT MARKER with a measurement line, BUILD TYPE with a silhouette outline, MOVEMENT ANGLE with an approach direction arrow, the precise signature the @dog carries and checks against every encounter, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the precision parameter diagram from the previous frame with a flat label above it reading THE BRAIN HELD THE DETAIL BECAUSE THE DETAIL WAS WHAT MATTERED, explaining why the memory was stored at this resolution rather than a generalization, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat @brain cross-section with the label THE DETAIL WAS THE DIFFERENCE BETWEEN SAFE AND NOT visible above the precision file inside, the survival function of high-resolution memory made explicit, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the word INSTINCT in large flat letters with a flat label below it reading PREDATORS ARE DANGEROUS, shown as a single blunt general category inside one flat box, the crude general instrument before individual memory existed, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, two side-by-side flat columns, the left column labeled INSTINCT containing PREDATORS ARE DANGEROUS in one blunt box, the right column labeled MEMORY containing three precise separate entries THAT MAN and THAT COAT and THAT WAY OF STANDING stacked vertically, the resolution gap between them enormous, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the single word MEMORY in very large flat white letters centered in the frame, nothing else visible, the word carrying the full weight of everything instinct cannot do, the complete stop after the distinction is made, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, three animal shapes facing outward in a row, @crow shape then @matriarch elephant shape then @dog shape, a flat text label reading THAT ANIMAL HAS A RECORD appearing above all three simultaneously, the changed meaning of the animal stare made explicit, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, two human stick figures standing side by side, @crow shape on wire above them, @crow posture directed heavily toward one figure and completely indifferent to the other, the binary assessment the record creates visible in the crow's orientation, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, two flat zones in the frame, left zone labeled IN THE RECORD with a stick figure shape inside it, right zone labeled NOT IN THE RECORD with another stick figure shape, @crow assessing each differently from above, the binary the record creates, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow on wire above, a flat open file shape between the wire and @man below with the man silhouette inside the file, update log lines visible in the file, last encounter and threat status confirmed labels present, the file functional and current, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow on wire above @man walking below, a small flat update notification shape above the crow reading STILL HERE CONFIRMED, the morning data being entered into the file, the update as routine as the sunrise itself, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow on wire in the center of the frame, three flat text labels appearing one below the other above the crow reading STILL HERE then STILL THE SAME then STILL WATCHED, each one a morning confirmation of the same data point for seven years, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text EVERY MORNING THE CROW UPDATES THE FILE in white letters, small @crow shape on wire at the top and small @man shape below walking to his car, the ritual confirmed daily across seven years of mornings, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, two flat concept labels in the center of the frame, REACTION with a flat X shape through it on the left, JUDGMENT in white letters on the right replacing it, the distinction between them requiring a past drawn as a connecting line below, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat diagram with JUDGMENT at one end and PAST at the other end connected by a solid horizontal line, below the line a label reading NO PAST NO JUDGMENT, @crow silhouette positioned at the top of the diagram demonstrating both requirements present, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading IT REQUIRES THAT SOMETHING MATTERED ENOUGH TO KEEP centered in the frame, @crow silhouette on wire below it, the sentence and the crow in the same frame, the crow as the living proof of the sentence, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat diagram with the label SOMETHING THAT CARES as a softly glowing node shape at the center, surrounded by the judgment and past shapes already established as connected requirements, the uncomfortable third requirement now made visible, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading NOT IN THE WAY YOU CARE centered in the frame, below it NOT IN HUMAN LANGUAGE, below that BUT IN THE OLDEST LANGUAGE THERE IS, the reframe landing in three lines of decreasing familiarity, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the phrase HUMAN LANGUAGE crossed out at the top of the frame, below it the phrase THE OLDEST LANGUAGE in white letters, below that the words IN THE BODY and IN THE TISSUE and IN THE CELLS stacked in sequence, the pre-verbal pre-conscious foundation visible, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a simplified flat body outline shape with the brain visible inside, the memory written in the brain tissue shown as a dense pattern of flat marks in the tissue area, the record stored in the physical cells of the brain, the most permanent kind of knowing made visible, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading THE CELLS THAT LEARNED A LONG TIME AGO THAT SOME THINGS ARE WORTH HOLDING ON TO in white letters, a flat cell pattern visible below as the substrate, the ancient decision made in tissue, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @matriarch shape with a flat file shape being released from her, the file floating away, below it the herd shapes now arranged without the central security node, the vulnerability visible in the dispersed and unoriented herd arrangement, because letting them go costs everything, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text BECAUSE LETTING THEM GO COST EVERYTHING in white block letters centered in the frame, no other shapes, the sentence carrying the full evolutionary weight of the memory system, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow on wire above @man car shape below, the exact original opening scene returned with wire horizontal across the upper frame and @man visible at the bottom near the car, the full circle completed with everything exactly as it was at the start, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @man stick figure walking toward his car in completely relaxed posture, @crow on wire clearly visible above him in the same frame watching, the man ease absolute and unchanged, the crow watching him remain unaware for another morning, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, split frame showing @man thought bubble reading JUST A CROW on the left, and the actual @crow carrying an open file labeled with seven years of data on the right, the gap between what the man thinks and what is actually happening made spatial, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @man reaching for a flat car door shape, @crow on wire above, a small flat thought bubble shape coming from @man head containing the text JUST A CROW, the final reduction of seven-year judgment and memory to meaningless bird behavior, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a simplified flat brain shape drawn small to suggest walnut size with a scale reference line beside it, inside it a flat open file shape with @man simple stick figure silhouette inside the file, the file labeled ACTIVE and OPEN, seven years old and fully intact, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat open file shape centered in the frame with @man simple silhouette inside, three flat status labels beside it reading ACTIVE and OPEN and UPDATED, below those a flat duration label reading SEVEN YEARS, the file waiting every morning for its confirmation, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading HIS FACE IS IN IT in large white block letters, below it IT HAS BEEN IN THERE FOR SEVEN YEARS in slightly smaller letters, the plainness of the statement doing all the work, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a long horizontal flat timeline shape running the full width of the frame, a series of small vertical confirmation mark shapes evenly spaced along the full length of the timeline, each mark representing one morning update over seven years, the accumulation of thousands of confirmations visible as density across the full frame, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @man stick figure walking along the bottom of the frame, @crow shape on wire updating above, a small flat update notification shape appearing above the crow reading STILL HERE CONFIRMED, this specific morning data being entered exactly as every morning before it, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text AND EVERY MORNING HE WALKS TO HIS CAR IT GETS UPDATED in white letters, @crow shape updating on wire above a small @man shape below, the ritual stated plainly and finally, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, a flat open door shape centered in the frame with complete darkness visible beyond the door rather than a room, the question that follows not leading to an answer but to more open space, the unanswerable question made spatial and architectural, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, the view from @crow position on the wire looking downward, @man small below, the crow own wire visible as a horizontal line at the upper portion of the frame, the view from inside the grudge looking down at the one who caused it, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text reading WHAT DOES THAT FILE FEEL LIKE FROM THE INSIDE in white letters, the open file shape beneath the text, the question that stays after everything else, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, final story frame, @crow on wire in upper frame, @man shape below on street near car, a thin glowing line between them representing the record that exists but cannot be seen by either, the entire story living in the gap, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text SOME STORIES END in white letters in the upper portion of the frame, @crow silhouette on wire below it still present and watching, the story ending but the crow still there and still keeping the file, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text BUT THE QUESTIONS REMAIN in white block letters, the question mark at the end larger than the other letters, the remaining question hanging in the dark frame, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, minimal frame with only @crow silhouette on the wire as the remaining shape, everything else gone, the wire and the crow and the dark, the file still open beneath them, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, @crow silhouette on wire from the previous frame, below the wire a faint flat glow suggesting the open file still running, the update still active, the wondering beginning where the explanation ended, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text UNTIL THE NEXT STORY in white letters, the @crow silhouette still on the wire in the lower portion of the frame, the invitation landing in the quiet, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, flat text KEEP WONDERING in large white letters centered in the frame, soft warm flat glow behind the text, the channel close and the invitation in the same breath, bold black outlines flat color fills no gradients no textures
+
+Flat 2D stick-figure cartoon, deep navy background, outro frame with a soft warm flat glow at the center of the dark frame, minimal channel signature shapes, the wondering as the final element before fade, bold black outlines flat color fills no gradients no textures
