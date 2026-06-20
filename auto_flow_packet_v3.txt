@@ -1,0 +1,344 @@
+# VIDEO 3 – AUTO FLOW PACKET (State 13)
+# Title: "What Happened to Humans Who Got Kicked Out of the Group?"
+# Runtime: 8:55 | Total Prompts: 156 | Pacing: ~3.2s per image
+# Visual Style: Flat 2D stick-figure cartoon, deep navy background, bold black outlines flat color fills no gradients no textures
+
+---
+
+# CHARACTER PROMPTS
+
+@modern = Contemporary young adult, slim stick figure, gender-neutral, holding a thin flat rectangular phone shape with a small bright screen rectangle inside, round head with dot eyes, dark cold room setting with blue phone glow on face
+
+@exiled = Ancient human, gaunt and slightly shorter than @tribe, rough dark irregular cloth tunic reaching mid-thigh, hunched posture, downcast dot eyes, unsteady barefoot stance, alone in vast wilderness
+
+@tribe = Prehistoric hunter-gatherer, stocky stick figure, flat dark hair shape on round head, rough earth-tone tunic reaching mid-thigh, bare feet, upright confident posture, clustered in groups near fire
+
+@elder = Older tribal authority, slightly taller than @tribe, one arm always raised or extended outward in command, flat white streak in hair shape, commanding upright posture, standing at the edge of the circle
+
+@athens = Ancient Athenian citizen, long flat draped toga shape to ankles, sandal lines on feet, round head with dot eyes, carrying a small flat pottery shard shape or scroll shape
+
+---
+
+# IMAGE PROMPTS
+
+1. Flat 2D stick-figure cartoon, total darkness filling the frame, @modern one arm extending across the black frame toward a single glowing white rectangle on a flat nightstand surface, round head barely visible, nothing else in frame, bold black outlines flat color fills no gradients no textures
+
+2. Flat 2D stick-figure cartoon, phone screen fills the frame as a tall chat interface, one sent message bubble at the bottom, the word "Read" in small grey text beneath it, a vast empty grey space above where a reply should be, the silence made spatial and visible, bold black outlines flat color fills no gradients no textures
+
+3. Flat 2D stick-figure cartoon, @modern thumb shape moving upward rapidly in scroll, a continuous blur of face shapes streaming past the screen edge at speed, no single face holding focus, the mindless scroll continuous and purposeless, bold black outlines flat color fills no gradients no textures
+
+4. Flat 2D stick-figure cartoon, phone screen showing a group photo frame, six stick figure faces all tilted together in celebration with motion lines suggesting laughter, a conspicuous empty gap in the cluster where a person is missing, @modern's face reflected faintly on the glass looking at it, bold black outlines flat color fills no gradients no textures
+
+5. Flat 2D stick-figure cartoon, @modern sitting with phone, chat interface visible with a punchline message at the top of the thread, @modern's stick hands paused over the keyboard, a small question mark shape floating above their round head, the joke already over before they arrived, bold black outlines flat color fills no gradients no textures
+
+6. Flat 2D stick-figure cartoon, phone screen showing group chat, @modern's question bubble reading "what does that mean?" sitting stranded below three later messages that arrived after it and flow over it, the conversation moving around the question as if it is not there, bold black outlines flat color fills no gradients no textures
+
+7. Flat 2D stick-figure cartoon, @modern placing phone face-down on a flat surface, then lying flat on back staring at a completely empty ceiling, the phone dark and silent at the frame edge, a vast ceiling above with nothing on it, bold black outlines flat color fills no gradients no textures
+
+8. Flat 2D stick-figure cartoon, @modern lying flat on back, one hand moving slowly to flat chest, palm pressing against sternum with fingers spread, expression showing a small puzzled crease on the round face, not dramatic, confused and heavy, bold black outlines flat color fills no gradients no textures
+
+9. Flat 2D stick-figure cartoon, @modern face from ceiling perspective, jaw slightly set, expression not crying and not devastated, a small wrongness that will not release, the understatement the entire point, ambient light barely tracing the face's edges in the dark, bold black outlines flat color fills no gradients no textures
+
+10. Flat 2D stick-figure cartoon, abstract ribcage silhouette drawn in minimal flat lines against a dark background, inside the ribcage a single perfectly round smooth grey stone shape, heavier than the space around it, no fire, no drama, just impossible weight resting inside the chest cavity, bold black outlines flat color fills no gradients no textures
+
+11. Flat 2D stick-figure cartoon, @modern lips in close view forming words toward the ceiling above them, eyes fixed on something the words cannot reach, the disconnect between the reassurance being spoken and the body's refusal to confirm it visible in the unmatching gaze, bold black outlines flat color fills no gradients no textures
+
+12. Flat 2D stick-figure cartoon, @modern in the same position as before, shoulders still drawn up, jaw still tight, body completely unchanged after the self-reassurance, posture holding exactly what the mind just tried to release, bold black outlines flat color fills no gradients no textures
+
+13. Flat 2D stick-figure cartoon, @modern lying in bed, a phone sitting face-down across the room as a completely ordinary flat rectangle, @modern's eyes fixed on it from across the room as if it is actively doing something to them, the charged space between them, bold black outlines flat color fills no gradients no textures
+
+14. Flat 2D stick-figure cartoon, brain cross-section diagram against deep dark background, one region erupting bright red like a coal pressed from inside the skull, all surrounding tissue flat and dark, the lone alarm signal blazing in complete isolation, bold black outlines flat color fills no gradients no textures
+
+15. Flat 2D stick-figure cartoon, 2003 research lab setting, a stick figure person sliding feet-first into a flat cylindrical fMRI scanner shape, the white tube swallowing the figure from feet up, a researcher stick figure at a flat monitor nearby holding a clipboard, clinical and calm, bold black outlines flat color fills no gradients no textures
+
+16. Flat 2D stick-figure cartoon, fMRI scanner viewed from above, the stick figure inside the tube with only their feet visible at the opening end, four flat monitor shapes arranged around the room each displaying scan readout line patterns, every neural flicker being captured, bold black outlines flat color fills no gradients no textures
+
+17. Flat 2D stick-figure cartoon, a monitor screen showing the Cyberball game interface, three blocky pixel stick figures on screen, one on the left, one on the right, one in the center with both flat arms extended upward, a small square ball arcing between left and right in a cheerful loop over the center figure's head, bold black outlines flat color fills no gradients no textures
+
+18. Flat 2D stick-figure cartoon, terminal monitor showing game code in text lines, the text "PLAYER 2: BOT" and "PLAYER 3: BOT" visible in white block letters on dark background, the two programmed players reduced to text, the deception documented in plain sight before the test begins, bold black outlines flat color fills no gradients no textures
+
+19. Flat 2D stick-figure cartoon, Cyberball game screen, the ball arcing continuously from left avatar to right avatar, the third avatar in center with both flat arms extended, the ball looping above their head in a perpetual mechanical exclusion, the programming running its cold loop, bold black outlines flat color fills no gradients no textures
+
+20. Flat 2D stick-figure cartoon, split frame, left side game screen with exclusion loop continuing, right side simplified brain scan shape with one region beginning to glow orange spreading like heat through the tissue, the brain responding to pixels as if they were people, both images appearing simultaneously, bold black outlines flat color fills no gradients no textures
+
+21. Flat 2D stick-figure cartoon, fMRI brain scan image, one region of the brain erupting into orange and red flame shapes rising from the tissue, all surrounding tissue completely dark and flat, the single activation impossible to miss in the clinical scan format, bold black outlines flat color fills no gradients no textures
+
+22. Flat 2D stick-figure cartoon, two brain scan shapes placed side by side, left labeled "PHYSICAL BURN" and right labeled "CYBERBALL EXCLUSION" in block letters beneath each, the identical region in both glowing at matching orange-red intensity, the word "IDENTICAL" floating between them on a horizontal connector line, bold black outlines flat color fills no gradients no textures
+
+23. Flat 2D stick-figure cartoon, split frame, left side a stick figure hand recoiling mid-motion from a stove burner shape with a red skin line, right side the pixelated game avatar alone at the screen edge with arms dropped, the same brain region glowing at identical intensity above both panels, the equation written in neural tissue, bold black outlines flat color fills no gradients no textures
+
+24. Flat 2D stick-figure cartoon, Cyberball game interface with flat annotation label shapes floating around it reading "PLAYERS: NOT REAL" and "GAME: MEANINGLESS" and "DURATION: 5 MINUTES" in block text, the brain scan below showing full alarm activation at orange-red intensity, ignoring every annotation entirely, bold black outlines flat color fills no gradients no textures
+
+25. Flat 2D stick-figure cartoon, brain scan shape with one region blazing at full orange-red intensity, the word "INJURY" appearing in white clinical block text over the activation zone, the vocabulary of physical wounds applied to a computer game, the word carrying full undiminished weight, bold black outlines flat color fills no gradients no textures
+
+26. Flat 2D stick-figure cartoon, 2010 university research lab, a whiteboard at the back with "DeWALL + BAUMEISTER" written in large block letters, stick figure subjects seated at two separated table groups, a researcher stick figure holding up a flat orange pill bottle shape toward the room, bold black outlines flat color fills no gradients no textures
+
+27. Flat 2D stick-figure cartoon, clinical study table viewed from above, a researcher's stick figure hand extending two small white circle shapes across the table, a subject's stick figure hand receiving them, an orange Tylenol bottle shape nearby, the transaction completely routine in gesture and completely unordinary in implication, bold black outlines flat color fills no gradients no textures
+
+28. Flat 2D stick-figure cartoon, post-experiment room with two groups of stick figures standing side by side, left group showing settled relaxed postures and neutral flat expressions, right group showing shoulders up and reactive dot eyes, the measurable gap between them written entirely in body language, bold black outlines flat color fills no gradients no textures
+
+29. Flat 2D stick-figure cartoon, clean bar chart on white background, left bar labeled "TYLENOL" significantly shorter than right bar labeled "CONTROL", both bars sitting under the shared label "SELF-REPORTED EMOTIONAL PAIN", the gap quantified and repeatable and impossible to explain away, bold black outlines flat color fills no gradients no textures
+
+30. Flat 2D stick-figure cartoon, split concept frame, left side an ankle shape with a simple flat fabric bandage, right side a phone screen showing an unread conversation, a flat Tylenol bottle shape centered between both images as a bridge connecting them, the absurdity and the proof sharing one frame, bold black outlines flat color fills no gradients no textures
+
+31. Flat 2D stick-figure cartoon, simplified brain diagram, two pain pathways traced as colored line routes, one labeled "PHYSICAL" and one labeled "SOCIAL", both lines converging at the exact same terminus point marked with the same chemistry label, a medical diagram proving literal identity not metaphor, bold black outlines flat color fills no gradients no textures
+
+32. Flat 2D stick-figure cartoon, brain cross-section split perfectly down the vertical center, left half showing a physical pain activation zone glowing, right half showing a social pain activation zone glowing, both halves mirroring each other exactly, two causes producing visually identical results, bold black outlines flat color fills no gradients no textures
+
+33. Flat 2D stick-figure cartoon, brain scan overhead view, the alarm region blazing at full intensity in the center, the words "SAME ALARM" written across both halves in white clinical block text, no visible difference anywhere between the burn response and the rejection response, bold black outlines flat color fills no gradients no textures
+
+34. Flat 2D stick-figure cartoon, modern cityscape at night, flat building shapes with lit window rectangles stacked high, small phone screen glow shapes visible in windows, lights filling the frame, the whole scene beginning to blur and dissolve at the edges as time-reversal begins, bold black outlines flat color fills no gradients no textures
+
+35. Flat 2D stick-figure cartoon, ancient African savanna, city fully dissolved, open flat plain under a vast dark sky blazing with white star dot shapes undimmed by anything electric, a single small fire shape in the far distance the only warm point in all that open darkness, bold black outlines flat color fills no gradients no textures
+
+36. Flat 2D stick-figure cartoon, a cluster of @tribe figures around a central fire shape, all faces lit from below by orange flat color, total darkness as flat black surrounding the group completely on all sides, the fire circle the only island in the enormous dark, bold black outlines flat color fills no gradients no textures
+
+37. Flat 2D stick-figure cartoon, brain cross-section with an alarm circuit glowing red, a small label etched into the tissue reading "INSTALLED: ~100,000 YEARS AGO" in block letters, the wiring fully operational and green-status, a timestamp for a world that stopped existing when agriculture began, bold black outlines flat color fills no gradients no textures
+
+38. Flat 2D stick-figure cartoon, camera-depth view pulling backward through time, a chain of human stick figures extending into the vanishing distance behind the viewer, the modern world shrinking to a tiny rectangle at the far end, the ancient dark world opening wide in front, the entire species history in one receding line, bold black outlines flat color fills no gradients no textures
+
+39. Flat 2D stick-figure cartoon, wide African savanna at dusk, flat orange horizon line, a small tight cluster of @tribe figures around a distant fire barely visible at the far edge, and much closer in the frame one lone @exiled figure standing in near-dark looking toward them, the enormous gap making the stakes visible, bold black outlines flat color fills no gradients no textures
+
+40. Flat 2D stick-figure cartoon, Hadza-style settlement, branch shelter shapes at the edges, a fire pit shape at center, small stick figure children running between adult @tribe figures, a researcher stick figure at the far edge with a notebook shape, warm and in motion, ancient life still intact and observable, bold black outlines flat color fills no gradients no textures
+
+41. Flat 2D stick-figure cartoon, Kalahari Desert landscape, vast flat arid plain almost colorless, a small tight cluster of @tribe figures visible in the center of the immensity, the enormous landscape dwarfing them, the group's necessity made viscerally visible by the scale of the emptiness surrounding them, bold black outlines flat color fills no gradients no textures
+
+42. Flat 2D stick-figure cartoon, flat world map shape, dozens of small glowing dot shapes scattered across all continents, a single connecting line drawn from each dot converging on a central point labeled with a shared symbol, the universal pattern spanning oceans and millennia, bold black outlines flat color fills no gradients no textures
+
+43. Flat 2D stick-figure cartoon, firelit circle of @tribe and @elder figures, all faces turned inward toward a central empty space, the mood heavy, @elder standing tall at the circle's edge, the silence before the verdict pressing down on the scene, bold black outlines flat color fills no gradients no textures
+
+44. Flat 2D stick-figure cartoon, severity ranking diagram, stacked horizontal bars from bottom to top labeled "PHYSICAL LASHING" at base, then "EXECUTION" in the middle, then "EXILE" at the very top with the single word "WORSE" beside it, the hierarchy disturbing when seen in order, bold black outlines flat color fills no gradients no textures
+
+45. Flat 2D stick-figure cartoon, @elder stick figure arm extended fully pointing into flat black darkness at the frame's edge, a wall of @tribe shoulder shapes turned away from camera forming a closed line, one @exiled figure at the very edge of orange firelight, the flat darkness beginning at their feet as a hard color line, bold black outlines flat color fills no gradients no textures
+
+46. Flat 2D stick-figure cartoon, @exiled silhouette walking away from a warm fire shape behind them, the fire shrinking to a small point as the figure moves forward, the flat darkness ahead growing with each step, the slow beginning of what the alarm was built to prevent, bold black outlines flat color fills no gradients no textures
+
+47. Flat 2D stick-figure cartoon, @exiled alone in an open flat plain at night, vast dark sky pressing down above, the single word "WEEKS" appearing as a flat white label shape in the frame, a timer that has already started running with no one to stop it, bold black outlines flat color fills no gradients no textures
+
+48. Flat 2D stick-figure cartoon, @exiled returning through tall grass shapes with both flat hands completely empty, in a small inset rectangle at the corner a cluster of @tribe figures sharing a carcass shape around fire, the contrast between empty hands and shared warmth absolute, bold black outlines flat color fills no gradients no textures
+
+49. Flat 2D stick-figure cartoon, @exiled lying in open flat grass, eyes shown as wide white shapes in the darkness, head turned sideways at a vigilant angle, every line of the body showing impossible-to-release alertness, no one to watch the perimeter, no safe sleep available, bold black outlines flat color fills no gradients no textures
+
+50. Flat 2D stick-figure cartoon, @exiled slumped against cracked earth shapes, one arm reaching toward a flat empty water skin shape, mouth shown as a parched flat line, sunken eye shapes, two buzzard silhouette shapes circling in a hazy flat sky far above, the body failing alone, bold black outlines flat color fills no gradients no textures
+
+51. Flat 2D stick-figure cartoon, three dangers packed into one frame, a cliff edge shape in the background, @exiled forearm with an infected wound shown as a red swollen area shape, a dark angular animal silhouette shape emerging from tall grass at the frame edge, every threat amplified by the absence of others to warn, bold black outlines flat color fills no gradients no textures
+
+52. Flat 2D stick-figure cartoon, @exiled lone stick figure standing completely still in a clearing, six pairs of white glowing dot eyes visible at different heights in the surrounding flat darkness, all pairs oriented inward toward the one figure, all waiting, bold black outlines flat color fills no gradients no textures
+
+53. Flat 2D stick-figure cartoon, the same six pairs of glowing eyes from before, now facing a cluster of @tribe figures all awake and oriented outward in a defensive ring, the glowing eyes stationary at a safe distance, the numbers reversing the equation without a single blow struck, bold black outlines flat color fills no gradients no textures
+
+54. Flat 2D stick-figure cartoon, close-up of two open human stick figure hands held up toward the viewer, no claws, no weapons, just flat open hands, the @tribe group visible behind them at camp, the hands foregrounded as the species' only natural weapon, the group behind them everything that compensates, bold black outlines flat color fills no gradients no textures
+
+55. Flat 2D stick-figure cartoon, overhead savanna view showing @tribe figures spread across flat plain in formation, cone-of-vision triangle shapes radiating from each figure overlapping to create a complete visual web across the whole plain, predator shapes at the very outer edge kept there by the overlapping coverage, bold black outlines flat color fills no gradients no textures
+
+56. Flat 2D stick-figure cartoon, flat predator silhouette shape at the treeline, massive and angular, calculating the group, then its body shape beginning to rotate away from the @tribe cluster in the background, the group's numbers enough to change the predator's decision without contact, bold black outlines flat color fills no gradients no textures
+
+57. Flat 2D stick-figure cartoon, frame split exactly in half, left half shows @exiled alone with a predator shape approaching, right half shows @tribe group with the same predator shape retreating, one variable changed, opposite outcomes, the protection disappearing made absolute and visual, bold black outlines flat color fills no gradients no textures
+
+58. Flat 2D stick-figure cartoon, savanna landscape dissolving at the left edge, flat marble column shapes rising to replace it at the right, the Acropolis hill shape visible in the distance, the agora below filling with stick figure people, civilization materializing where the ancient landscape was, bold black outlines flat color fills no gradients no textures
+
+59. Flat 2D stick-figure cartoon, Athens agora full of motion, @athens figures under colonnade shapes in debate with open gesture arms, merchant figures facing each other, citizens crossing paths, sophisticated and busy, all carrying the ancient instinct underneath without knowing it, bold black outlines flat color fills no gradients no textures
+
+60. Flat 2D stick-figure cartoon, a large crowd of @athens figures assembled in open air all facing inward toward one central point, all still, all silent, the mood heavier than any market day, the formal weight of organized judgment pressing on the scene, bold black outlines flat color fills no gradients no textures
+
+61. Flat 2D stick-figure cartoon, dozens of @athens stick figure hands scratching names into flat pottery shard shapes, the shards accumulating in a large clay urn shape in the center, the pile growing steadily, each shard a vote, each vote a sentence, the cold mechanical accumulation of exile, bold black outlines flat color fills no gradients no textures
+
+62. Flat 2D stick-figure cartoon, extreme close-up of a single flat pottery shard, rough clay surface, a name scratched deep in crude angular letter shapes, the marks made with visible force leaving sharp permanent grooves, one name equaling one life redirected, bold black outlines flat color fills no gradients no textures
+
+63. Flat 2D stick-figure cartoon, pottery shard in close-up, the scratched name letter shapes beginning to lift off the clay surface as glowing fragments, rising and rearranging in the air above, forming into the word "OSTRACISM" in modern block letters hovering above the shard, the word still carrying the weight of what it came from, bold black outlines flat color fills no gradients no textures
+
+64. Flat 2D stick-figure cartoon, wide Athens at its height, the Parthenon shape gleaming on a hill, column and scroll and amphora shapes visible below suggesting art and philosophy, the exile ceremony visible in the foreground with the urn shape still there, civilization's achievement and its ancient instinct sharing one frame, bold black outlines flat color fills no gradients no textures
+
+65. Flat 2D stick-figure cartoon, an @athens figure passing through a flat city gate arch shape, one foot inside the city on paving stones, one foot on the road outside, head turned back to look, the gate beginning its flat arc closed behind them, the threshold made physical and final, bold black outlines flat color fills no gradients no textures
+
+66. Flat 2D stick-figure cartoon, an @athens figure on a road outside the city, the city as a receding marble skyline shape behind them, the road ahead empty and flat in every direction, ten years of emptiness visible as open space with no destination in it, bold black outlines flat color fills no gradients no textures
+
+67. Flat 2D stick-figure cartoon, DNA double helix rotating shape against dark background, a red alarm structure shape being woven into the strand link by link as the helix turns, the wiring becoming part of the genetic code itself generation by generation, bold black outlines flat color fills no gradients no textures
+
+68. Flat 2D stick-figure cartoon, brain cross-section, thick red cable shapes being routed through the tissue toward a pain center label, industrial-scale installation dominant in the frame, the cables large and permanent, not subtle wiring but a full alarm build-out, bold black outlines flat color fills no gradients no textures
+
+69. Flat 2D stick-figure cartoon, brain interior showing the completed alarm circuit, the wire terminating at the pain center with a clear hard connection point, the same location already marked as physical burn response, circuit closed with a hard flat terminal, no off switch anywhere in the diagram, bold black outlines flat color fills no gradients no textures
+
+70. Flat 2D stick-figure cartoon, @exiled alone on flat open savanna, from their chest a massive concentric alarm wave radiating outward in rings of pressure in all directions, the wave visible and physical as flat concentric arcs, the distant fire shape behind them the only warm direction, bold black outlines flat color fills no gradients no textures
+
+71. Flat 2D stick-figure cartoon, @exiled turning their body toward the fire shape in the far distance, the alarm wave pressure still visible pushing at their back, flat darkness behind them total, the fire ahead small but warm, the cost of not turning visible in the darkness they are leaving, bold black outlines flat color fills no gradients no textures
+
+72. Flat 2D stick-figure cartoon, @exiled in open wilderness, the alarm circuit shown as completely dark and silent, the figure motionless in the center, the landscape around them shifting through flat season color changes from warm to cold to warm, the person unchanged and unmoving because nothing is correcting them, bold black outlines flat color fills no gradients no textures
+
+73. Flat 2D stick-figure cartoon, the same @exiled figure, now visibly thinner with a smaller body shape than before, the background landscape having shifted another season, the deterioration quiet and undramatic, the body finishing what isolation started without any alarm to reverse it, bold black outlines flat color fills no gradients no textures
+
+74. Flat 2D stick-figure cartoon, @exiled figure dissolving into the landscape, not dramatically, not in fire, but simply becoming less distinct at the edges, the flat savanna ground absorbing the outline gradually, the landscape the same after as before, the evolutionary dead end anonymous and unrecorded, bold black outlines flat color fills no gradients no textures
+
+75. Flat 2D stick-figure cartoon, @tribe figures at a fire with small stick figure children shapes running between adult legs, the next generation visible and in motion, proof in the children that the alarm worked and pulled someone back in time, the lineage continuing because the alarm ran, bold black outlines flat color fills no gradients no textures
+
+76. Flat 2D stick-figure cartoon, @tribe figure running toward a distant fire shape in full sprint posture, both arms pumping forward, the urgency of motion in every line of the body, the group at the fire beginning to open and make space, the alarm at maximum doing exactly what it was designed to do, bold black outlines flat color fills no gradients no textures
+
+77. Flat 2D stick-figure cartoon, brain alarm diagram at full red intensity, @tribe figure back inside the group circle at camp, the alarm beginning to settle to a lower glow, the connection restored and the purpose fulfilled, the mechanism succeeding at the only thing it was ever built for, bold black outlines flat color fills no gradients no textures
+
+78. Flat 2D stick-figure cartoon, @modern in dark bedroom, a chain of ancestor stick figure shapes extending behind them backward through the dark toward a fire shape in the far distance, each ancestor's face briefly lit then receding into the depth, the personal inheritance of the alarm made visible in a single image, bold black outlines flat color fills no gradients no textures
+
+79. Flat 2D stick-figure cartoon, @modern sitting with phone in lap, the phone small in the frame, the unbroken chain of ancestor shapes behind them all the way to a distant fire, this person here at the chain's end because the alarm worked in every single one of those figures, bold black outlines flat color fills no gradients no textures
+
+80. Flat 2D stick-figure cartoon, ancient @tribe band around a central fire shape, all faces visible as a tight warm circle, every person known to every other person, the only world that matters fitting inside that circle, the group complete and sufficient and the entire point, bold black outlines flat color fills no gradients no textures
+
+81. Flat 2D stick-figure cartoon, 150 stick figure silhouettes arranged in a perfect circle against dark background, thin golden connection thread lines between every figure creating a dense web, every person inside the circle, the designed capacity of what the human brain was built to hold warm and complete, bold black outlines flat color fills no gradients no textures
+
+82. Flat 2D stick-figure cartoon, the @tribe band with survival resource arrows and lines between figures, food passing as a line shape from one figure to another, protection arrows pointing outward from paired figures, water flow shapes crossing, every thread labeled as a survival resource and not a social nicety, bold black outlines flat color fills no gradients no textures
+
+83. Flat 2D stick-figure cartoon, the 150-figure circle expanding outward, new unfamiliar face shapes being added at the edges, the connection threads thinning visibly as the count passes 200 then 500, the circle losing coherence at the outer edge, the system being stretched past design limits, bold black outlines flat color fills no gradients no textures
+
+84. Flat 2D stick-figure cartoon, the 150-person circle detonating outward, small social media profile icon shapes flooding the frame in all directions, faces stacked dozens deep, thousands visible, the warm circle completely lost in the cascade, the ancient system entering a context with no ceiling, bold black outlines flat color fills no gradients no textures
+
+85. Flat 2D stick-figure cartoon, modern brain cross-section with ancient red circuitry visible at the core, small social media icon shapes streaming past the outside of the brain at speed, a 150-capacity wall label crumbling daily at the edge, the ancient system running at full inside a context it was never designed for, bold black outlines flat color fills no gradients no textures
+
+86. Flat 2D stick-figure cartoon, @modern holding a phone at a slight angle, the screen showing a rapid vertical scroll in motion, face shapes blurring past at hundreds per gesture, the ancient brain system attempting to process all of them as if each one is part of the essential 150, bold black outlines flat color fills no gradients no textures
+
+87. Flat 2D stick-figure cartoon, @modern's scroll stopping on one notification showing "Read" and one face among the hundreds blurred past it, a brain scan shape beside the phone screen lighting up its alarm region at full prehistoric intensity, one missed text registering as wolves at the edge of camp, bold black outlines flat color fills no gradients no textures
+
+88. Flat 2D stick-figure cartoon, split panel, left an @athens hand scratching a name into a pottery shard shape, right @modern hand holding a phone showing an ignored message in a group chat, brain scan above both panels showing identical alarm activation at matching intensity, 2500 years between the situations and the brain treating them as one, bold black outlines flat color fills no gradients no textures
+
+89. Flat 2D stick-figure cartoon, @modern phone screen close-up, three small dot shapes appearing in a reply bubble, blinking in sequence, then the bubble disappearing without resolving, appearing and vanishing in the space where words should be, the modern ostracon, a vote that never became an answer, bold black outlines flat color fills no gradients no textures
+
+90. Flat 2D stick-figure cartoon, ancient code scrolling in lines across a dark terminal screen, a header block reading "VERSION: 1.0 — LAST UPDATED: ~100,000 YEARS AGO" in white block text, the same code line pattern visible running inside a modern brain cross-section inset at the corner, unpatched and at full operational speed, bold black outlines flat color fills no gradients no textures
+
+91. Flat 2D stick-figure cartoon, @modern holding a phone at arm's length, the notification text shown at its actual tiny scale, but the black background surrounding it vast and empty making the notification appear to fill the room, the tiny thing made enormous by the alarm amplifying it beyond its actual size, bold black outlines flat color fills no gradients no textures
+
+92. Flat 2D stick-figure cartoon, split frame, left panel shows ancient @exiled at moment of group exclusion with predator shapes circling and a death clock starting, right panel shows @modern at moment of being left on read, the alarm magnitude identical in both panels at matching red intensity, ten thousand years between the situations, bold black outlines flat color fills no gradients no textures
+
+93. Flat 2D stick-figure cartoon, @modern stepping into a doorway, a room full of other stick figures in active conversation visible inside, all heads turning toward the door simultaneously in a freeze, the conversation pausing mid-motion, @modern frozen mid-step in the threshold, the energy shift made visible as a tension in every figure's posture, bold black outlines flat color fills no gradients no textures
+
+94. Flat 2D stick-figure cartoon, @modern at the perimeter of a social group, other stick figures forming a natural body-language circle that curves inward away from the perimeter, @modern close enough to hear, just outside the curvature of the group's inward lean, the ancient position reproduced in a modern room, bold black outlines flat color fills no gradients no textures
+
+95. Flat 2D stick-figure cartoon, @modern's phone notification shown at its actual tiny scale beside an enormous ancient alarm wave shape radiating outward from a central point, the alarm wave dwarfing the phone completely, the cause microscopic, the biological response vast and disproportionate to the object, bold black outlines flat color fills no gradients no textures
+
+96. Flat 2D stick-figure cartoon, brain interior routing diagram, a phone notification signal entering the brain as a small shape, being routed through labeled pathways reading "PREDATOR DETECTION SYSTEM" and "EXILE RISK ASSESSMENT", the alarm treating a modern social notification as an ancient fatal threat, no filter between them, bold black outlines flat color fills no gradients no textures
+
+97. Flat 2D stick-figure cartoon, split frame, @exiled surrounded by literal death risks including predator shapes and empty water skin and open wound shapes, @modern excluded from a group chat, the alarm circuit measuring both identically at matching red intensity above both panels, bold black outlines flat color fills no gradients no textures
+
+98. Flat 2D stick-figure cartoon, ancient and modern scenes dissolving into each other in an overlay, the same stick figure posture visible in both the ancient orange firelight and the modern blue phone glow, the identical body language across ten thousand years made visible in the overlapping silhouettes, bold black outlines flat color fills no gradients no textures
+
+99. Flat 2D stick-figure cartoon, @modern lying in dark room, a thought bubble above them containing the words "IT'S JUST A TEXT. NOTHING BAD WILL HAPPEN." in clear block letters, the ancient alarm signal below the thought bubble at full glow intensity, no connection line between the thought and the alarm, the argument arriving and accomplishing nothing, bold black outlines flat color fills no gradients no textures
+
+100. Flat 2D stick-figure cartoon, brain diagram, a rational signal entering labeled "RATIONAL CERTAINTY: NO DANGER" as a clean geometric shape, the alarm center receiving the signal and routing it to a separate pathway, the alarm remaining at full red output unchanged, the argument received and the alarm disregarding it simultaneously, bold black outlines flat color fills no gradients no textures
+
+101. Flat 2D stick-figure cartoon, @modern exhaling slowly, a faint warm glow shape visible through the shirt at the chest, the stone still present and unchanged through the exhale, the ache persisting past the attempt to release it, no drama, just quiet persistence that the exhale cannot reach, bold black outlines flat color fills no gradients no textures
+
+102. Flat 2D stick-figure cartoon, @modern in a modern apartment setting, flat laptop shape, a job contract shape pinned to the wall, key shape hanging, phone shape, all the evidence of stability visible, the ancient alarm mechanism as a glowing red circuit shape at the center of the frame, completely indifferent to all of it, bold black outlines flat color fills no gradients no textures
+
+103. Flat 2D stick-figure cartoon, brain cross-section with a small label etched deep in the tissue reading "100,000 YEARS AGO" in block letters, every system indicator shape showing green status, the machinery of a lost world fully operational, protecting from a threat that stopped existing when agriculture began, bold black outlines flat color fills no gradients no textures
+
+104. Flat 2D stick-figure cartoon, alarm circuit at full red output certainty, @modern sitting in a completely safe modern bedroom with no threat visible anywhere in the frame, the alarm's total conviction and the actual situation coexisting in the same image, protecting from something absent with complete confidence, bold black outlines flat color fills no gradients no textures
+
+105. Flat 2D stick-figure cartoon, @modern with phone in hand, "Read" notification visible on the screen, a faint warm glow shape in the chest area, the ancient alarm circuit shape running quietly in the frame's background, everything ordinary, nothing dangerous, the alarm operational regardless, bold black outlines flat color fills no gradients no textures
+
+106. Flat 2D stick-figure cartoon, @modern at the edge of a social gathering circle, other stick figures inside the warmth of the group's inward body language, @modern at the threshold between inside and outside, the ancient position in modern surroundings, bold black outlines flat color fills no gradients no textures
+
+107. Flat 2D stick-figure cartoon, @modern face in a flat mirror shape, looking honestly at the reflection, expression beginning to shift, a flat label shape reading "FLAW" dissolving off the face like a sticker peeling away, not broken, the reframe beginning quietly, bold black outlines flat color fills no gradients no textures
+
+108. Flat 2D stick-figure cartoon, same @modern face in the flat mirror shape, the expression continuing to shift further, a flat label shape reading "OVERSENSITIVITY" dissolving off the face in pieces, the word not fitting the thing it was labeling, bold black outlines flat color fills no gradients no textures
+
+109. Flat 2D stick-figure cartoon, @modern face in mirror with ghostly ancestor stick figure outlines filling the space behind their reflection, dozens of them extending into the mirror depth, all with the same alarm circuit glowing at the same intensity, all of them here because it worked in them, the lineage visible and unbroken, bold black outlines flat color fills no gradients no textures
+
+110. Flat 2D stick-figure cartoon, ancient alarm mechanism drawn as labeled industrial machinery shapes, gears and circuits and wire routes all documented in flat lines, a status display shape showing "ALL INDICATORS: GREEN", one job written on the schematic: "ENSURE CONNECTION IS MAINTAINED", doing it fully, bold black outlines flat color fills no gradients no textures
+
+111. Flat 2D stick-figure cartoon, two genealogical family tree diagrams side by side against dark background, left tree labeled "COMFORTABLE WITH ISOLATION" shows a trunk ending in a flat horizontal dead-end line with no branches below, right tree shows a trunk extending continuously forward to a modern figure at the base, the gap between outcomes absolute, bold black outlines flat color fills no gradients no textures
+
+112. Flat 2D stick-figure cartoon, compressed human history in one image, a long line of stick figures across a savanna each one oriented toward fire shapes at intervals, the pattern of return repeating without exception from the left edge to the right, all of time showing the same alarm winning every time, bold black outlines flat color fills no gradients no textures
+
+113. Flat 2D stick-figure cartoon, @exiled arriving back at camp, @tribe figures making room in the circle, fire at center, the alarm having done its job, the return complete, the group receiving them without ceremony, connection restored and the mechanism successful, bold black outlines flat color fills no gradients no textures
+
+114. Flat 2D stick-figure cartoon, @tribe cluster at firelight, food shape being passed from one figure to another, bodies close, all dot eyes oriented outward toward the darkness at the circle's edge, the thing the alarm was protecting all along warm and visible and real and simple, bold black outlines flat color fills no gradients no textures
+
+115. Flat 2D stick-figure cartoon, wide angle view, @tribe around a fire shape at center, flat black darkness held at the very edge of the firelight circle, the group small against the enormous dark beyond, other human beings standing nearby, the only reliable protection this species ever found, bold black outlines flat color fills no gradients no textures
+
+116. Flat 2D stick-figure cartoon, split frame side by side, left @modern with phone showing cold blue screen glow on face, right @exiled at firelight edge showing warm orange glow on one side of face, both figures in identical leaning posture toward their light source, the same body language mirrored across ten thousand years, bold black outlines flat color fills no gradients no textures
+
+117. Flat 2D stick-figure cartoon, @exiled sitting at the very edge of the firelight circle, one side of their flat stick body in warm orange flat color, the other side in flat cold dark, looking toward the @tribe figures inside the warm circle, the threshold between belonging and not dividing the person exactly in half, bold black outlines flat color fills no gradients no textures
+
+118. Flat 2D stick-figure cartoon, @exiled rising from a crouch at the camp edge, body posture lifting, beginning to orient toward the fire, the first movement of the decision becoming motion, the alarm having produced the result it was designed to produce across a hundred thousand years, bold black outlines flat color fills no gradients no textures
+
+119. Flat 2D stick-figure cartoon, @modern with the long chain of ancestor stick figures behind them extending all the way to a distant fire shape, every single ancestor in the chain having made the same choice to go back in, this person at the chain's end existing because all of them did every time, bold black outlines flat color fills no gradients no textures
+
+120. Flat 2D stick-figure cartoon, @modern face in close-up, expression settled and open, not resolved and not healed but recognized, the alarm seen for what it is not what it felt like, the shift from shame toward understanding visible in the face without being dramatic, bold black outlines flat color fills no gradients no textures
+
+121. Flat 2D stick-figure cartoon, @exiled alone in ancient wilderness at night, a vast open flat plain, the single figure tiny in the enormous frame, predator eye-pair shapes at multiple heights in the surrounding edges, cold dark pressing from above, the original cost the alarm permanently holds, bold black outlines flat color fills no gradients no textures
+
+122. Flat 2D stick-figure cartoon, @modern lying in dark room, a thought bubble above them showing "IT'S JUST A TEXT" in clean block letters, the ancient alarm circuit glowing at full below the thought, no connection between the thought and the alarm, the logic meeting nothing it can affect, bold black outlines flat color fills no gradients no textures
+
+123. Flat 2D stick-figure cartoon, brain diagram, a perfectly reasoned signal entering labeled "COMPLETE INTELLECTUAL CERTAINTY: NO DANGER" in clean block text, the alarm center receiving it, logging it as a flat received shape, then continuing at full unchanged red output, the argument heard and the alarm continuing anyway, bold black outlines flat color fills no gradients no textures
+
+124. Flat 2D stick-figure cartoon, @modern face in clear view stating something with open expression, the certain logic of the words visible in the posture, the ache shape in the chest still glowing unchanged after the statement, the certainty stated and the body not confirming it, bold black outlines flat color fills no gradients no textures
+
+125. Flat 2D stick-figure cartoon, brain interior shown as two separate chambers, upper chamber labeled "RATIONALITY" receiving a signal and filing it, lower chamber labeled "ALARM" running at full red output, a hard flat wall between them, the two systems operating without any connection to each other, bold black outlines flat color fills no gradients no textures
+
+126. Flat 2D stick-figure cartoon, @modern exhaling, the stone shape in chest faintly glowing through the shirt, unmoved by the breath that just tried to release it, the ache outlasting the conscious decision to let it go, persistent and impervious and by design, bold black outlines flat color fills no gradients no textures
+
+127. Flat 2D stick-figure cartoon, @modern in a modern apartment with all stability shapes visible: lease document on wall, paycheck shape, food containers in flat kitchen, working phone on surface, the ancient alarm circuit operating at the center of the frame ignoring every piece of evidence that there is nothing to alarm about, bold black outlines flat color fills no gradients no textures
+
+128. Flat 2D stick-figure cartoon, brain cross-section with timestamp label etched deep: "100,000 YEARS AGO" visible in the tissue in small block letters, every system indicator showing green status shapes, the machinery of a lost world fully operational in the present, the green lights making the absence of the world they were built for visible, bold black outlines flat color fills no gradients no textures
+
+129. Flat 2D stick-figure cartoon, alarm at full red output certainty, @modern in a completely safe modern bedroom with no threat visible anywhere in the frame, the alarm certain and the room proving the alarm wrong, both completely true simultaneously and coexisting without resolution, bold black outlines flat color fills no gradients no textures
+
+130. Flat 2D stick-figure cartoon, @modern with phone in hand, "Read" notification visible on screen, a small warm glow in the chest area, the ancient alarm circuit shape running as a quiet background process, everything ordinary, nothing dangerous, the alarm fully operational regardless of either fact, bold black outlines flat color fills no gradients no textures
+
+131. Flat 2D stick-figure cartoon, @modern at the perimeter of a social circle, the group inside curving naturally around each other in body language that excludes the perimeter, @modern close enough to be near, just outside the curvature, the alarm recognizing the ancient pattern immediately and fully, bold black outlines flat color fills no gradients no textures
+
+132. Flat 2D stick-figure cartoon, @modern face in close-up facing directly toward the viewer, expression open and not broken and not weak, the expression of someone who has understood something true about themselves, not resolved but recognized, the understanding in the eyes, bold black outlines flat color fills no gradients no textures
+
+133. Flat 2D stick-figure cartoon, @modern in a mirror shape, a corridor of ancestor stick figures stretching behind the reflection into dark depth, all carrying the alarm circuit glowing at the same intensity, all of them here because it worked in them, the unbroken chain all the way back to firelight, bold black outlines flat color fills no gradients no textures
+
+134. Flat 2D stick-figure cartoon, the alarm mechanism rendered as a complete flat schematic diagram, every component labeled, every circuit route traced in clean flat lines, one purpose written at the center in block text: "ENSURE CONNECTION IS MAINTAINED", doing it, bold black outlines flat color fills no gradients no textures
+
+135. Flat 2D stick-figure cartoon, @exiled being pulled back toward the @tribe group, directional force arrow shapes at their back showing the alarm's pressure, the @tribe group opening to make space in the circle, the mechanism fulfilling its single purpose, the return made inevitable by the alarm's design, bold black outlines flat color fills no gradients no textures
+
+136. Flat 2D stick-figure cartoon, two genealogical lines side by side against dark background, left line labeled "COMFORTABLE WITH ISOLATION" ending in a flat horizontal final line, right line labeled "ALARM: UNBEARABLE" extending continuously forward past the present, the gap between the outcomes absolute and total, bold black outlines flat color fills no gradients no textures
+
+137. Flat 2D stick-figure cartoon, compressed human timeline across the frame, the alarm circuit pulling figures toward fire shapes at every point along the line from ancient left to modern right, the pattern unbroken at every point, the alarm winning every time across all of human time, bold black outlines flat color fills no gradients no textures
+
+138. Flat 2D stick-figure cartoon, @tribe group at fire with the return complete, warmth visible, food shapes passing, protection orientation outward, other humans present and watching, the answer the alarm was always pointing toward simple and warm and true and here, bold black outlines flat color fills no gradients no textures
+
+139. Flat 2D stick-figure cartoon, wide shot, @tribe figures at a central fire shape, warm orange flat color pushing flat black darkness to the frame edges, other human beings standing nearby visible and real, the only reliable protection this species ever found made visible in one image, bold black outlines flat color fills no gradients no textures
+
+140. Flat 2D stick-figure cartoon, split overlay image, @modern with blue phone glow, @exiled at firelight with orange glow, same posture in both, same alarm glowing identically in both, the same pull made of the same ancient code across ten thousand years, time collapsed in the mirror image, bold black outlines flat color fills no gradients no textures
+
+141. Flat 2D stick-figure cartoon, @exiled at the edge of firelight, body leaning slightly forward toward the fire shape, weight shifting in the posture, the pull becoming visible before the feet have moved, the decision not yet made but the body beginning it already, bold black outlines flat color fills no gradients no textures
+
+142. Flat 2D stick-figure cartoon, @exiled foot lifting off the ground, the first step toward the fire beginning, the body in motion, the alarm having produced exactly the behavior it was built to produce, the step the mechanism's purpose fulfilled in one movement, bold black outlines flat color fills no gradients no textures
+
+143. Flat 2D stick-figure cartoon, @modern in foreground, the long unbroken chain of ancestor stick figures behind them stretching backward to a fire shape, every single figure in the chain having taken this same step back in, this person at the end of the chain existing because all of them did, bold black outlines flat color fills no gradients no textures
+
+144. Flat 2D stick-figure cartoon, @modern face in close-up, expression settled and clear, the alarm named and seen without fear, not wrong not weak, something ancient doing exactly what it was built to do, and the face showing the understanding has fully landed, bold black outlines flat color fills no gradients no textures
+
+145. Flat 2D stick-figure cartoon, @exiled alone in ancient wilderness at night, the scale enormous, one tiny figure under a vast dark sky, predator shapes at the frame's dark edges, cold pressing from all directions, everything the alarm is permanently recording and holding ready to prevent from ever happening again, bold black outlines flat color fills no gradients no textures
+
+146. Flat 2D stick-figure cartoon, @exiled turning from the darkness, beginning the walk toward the fire shape, @tribe group visible ahead beginning to turn toward the approaching figure, the fire warm and open, the cost about to be avoided, the return beginning, bold black outlines flat color fills no gradients no textures
+
+147. Flat 2D stick-figure cartoon, @modern setting a phone down gently on a flat surface, not throwing it, exhaling, something in the shoulder posture releasing slightly without drama, the understanding settling quietly, not resolved but recognized, the weight named and seen for what it is, bold black outlines flat color fills no gradients no textures
+
+148. Flat 2D stick-figure cartoon, split final parallel frame, @modern in modern bedroom at rest on the left, @exiled at a fire on the right at rest, both belonging somewhere, the alarm having done its job in both of them across ten thousand years, bold black outlines flat color fills no gradients no textures
+
+149. Flat 2D stick-figure cartoon, @exiled at the edge of firelight ten thousand years ago, the same pull, the same ache, the same decision forming in the posture, looking at the fire, the threshold between cold and warm, deciding whether to go back in, bold black outlines flat color fills no gradients no textures
+
+150. Flat 2D stick-figure cartoon, @exiled rising, turning toward the fire, the first step back in beginning, @tribe group visible ahead warm and open and making space, the darkness behind them flat and cold, the decision becoming motion, connection chosen, bold black outlines flat color fills no gradients no textures
+
+151. Flat 2D stick-figure cartoon, @modern in foreground, the full unbroken chain of ancestor stick figures behind them stretching backward, every link in the chain making the same choice, all of them going back in, this person at the chain's end because all of them did every single time, bold black outlines flat color fills no gradients no textures
+
+152. Flat 2D stick-figure cartoon, @modern face in close-up, expression showing the understanding complete, the alarm named and seen clearly, not feared and not hated, known for what it is: ancient, working, responsible for their existence, the expression quiet and without drama, bold black outlines flat color fills no gradients no textures
+
+153. Flat 2D stick-figure cartoon, @exiled alone in ancient wilderness at night, the scale vast and the figure tiny under an enormous dark sky, predator shapes at the edges of the frame, cold and emptiness everywhere, the full cost the alarm is permanently holding in memory and will never let go, bold black outlines flat color fills no gradients no textures
+
+154. Flat 2D stick-figure cartoon, @tribe group around a fire, all warm and watching and alive, the opposite of the vast darkness, the thing the alarm was always pointing toward, other humans nearby and visible and simple and warm, bold black outlines flat color fills no gradients no textures
+
+155. Flat 2D stick-figure cartoon, @modern in bedroom with phone in hand, the alarm circuit running quietly understood now, the phone small, the alarm ancient, the person here because the alarm worked in everyone before them, the understanding settled without drama, bold black outlines flat color fills no gradients no textures
+
+156. Flat 2D stick-figure cartoon, @modern in dark bedroom slowly setting down the phone, the scene beginning to fade to a minimal dark background with a single soft warm glow shape at center, the questions beginning where the explanation ends, the wondering the last thing visible in the frame, bold black outlines flat color fills no gradients no textures
+
+---
+
+# NOTES
+
+Video 3 — "What Happened to Humans Who Got Kicked Out of the Group?"
+Total prompts: 156 (pacing ~3.2s per image across 8:55 runtime)
+Beat mapping: 82 A/B pairs + 8 single beats (beats 12, 20, 24, 47, 57, 63, 64, 70)
+Outro line: "Some stories end, but the questions remain. Until the next story… keep wondering."
+Visual style consistent with Video 1 and Video 2 packets.
