@@ -1,0 +1,265 @@
+IMAGE #,TIME IN,TIME OUT,DURATION (sec),AUDIO / SCRIPT CONTENT,TRANSITION
+1,0:00,0:02,2,[SILENCE / MUSIC BEGINS] No voiceover — opening black frame,Hard Cut
+2,0:02,0:04,2,[SILENCE / MUSIC] Darkness atmosphere — no words yet,Hard Cut
+3,0:04,0:06,2,"""What happens to the human brain in total darkness?""",Hard Cut
+4,0:06,0:08,2,"""What happens to the human brain in total darkness?""",Hard Cut
+5,0:08,0:10,2,"""Imagine this.""",Hard Cut
+6,0:10,0:12,2,"""You are placed in a room. No windows. No clocks.""",Hard Cut
+7,0:12,0:14,2,"""No light at all.""",Hard Cut
+8,0:14,0:16,2,"""Absolute darkness.""",Hard Cut
+9,0:16,0:18,2,"""Three days. No light. What happens to your brain?""",Hard Cut
+10,0:18,0:20,2,"""Scientists ran this experiment — and what they found changed everything.""",Hard Cut
+11,0:20,0:22,2,"""Your circadian rhythm collapses.""",Hard Cut
+12,0:22,0:24,2,"""Your brain starts hallucinating.""",Hard Cut
+13,0:24,0:26,2,"""The results changed how we understand human consciousness.""",Hard Cut
+14,0:26,0:28,2,"""But first — your brain has a clock.""",Hard Cut
+15,0:28,0:30,2,"""A precise, ancient, biological clock.""",Hard Cut
+16,0:30,0:32,2,"""Every night when you sleep, it is running.""",Hard Cut
+17,0:32,0:34,2,"""Deep inside your brain is a structure called the SCN —""",Hard Cut
+18,0:34,0:36,2,"""the suprachiasmatic nucleus.""",Hard Cut
+19,0:36,0:38,2,"""It sits in your hypothalamus — about the size of a grain of rice.""",Hard Cut
+20,0:38,0:40,2,"""Twenty thousand neurons. All firing in sync.""",Hard Cut
+21,0:40,0:42,2,"""Every morning, it receives a signal.""",Hard Cut
+22,0:42,0:44,2,"""Light. Natural sunlight entering your eyes.""",Hard Cut
+23,0:44,0:46,2,"""That signal resets your 24-hour clock — every single day.""",Hard Cut
+24,0:46,0:48,2,"""Light in. Signal sent. Hormones adjust. Clock resets.""",Hard Cut
+25,0:48,0:50,2,"""Remove the light — and ask what happens next.""",Hard Cut
+26,0:50,0:52,2,"""Your internal clock keeps running — but with nothing to reset it.""",Hard Cut
+27,0:52,0:54,2,"""The 24-hour rhythm begins to drift.""",Hard Cut
+28,0:54,0:56,2,"""And that drift is where everything begins to unravel.""",Hard Cut
+29,0:56,0:58,2,"""Because your body doesn't know when to be awake or asleep.""",Hard Cut
+30,0:58,1:00,2,"""Without light — nothing works the way it should.""",Hard Cut
+31,1:00,1:02,2,"""Hour one. You notice nothing wrong.""",Hard Cut
+32,1:02,1:04,2,"""But melatonin — your sleep hormone — begins rising.""",Hard Cut
+33,1:04,1:06,2,"""Your SCN is already confused. It fires the sleep signal too early.""",Hard Cut
+34,1:06,1:08,2,"""By hour six — melatonin surges.""",Hard Cut
+35,1:08,1:10,2,"""Your core body temperature begins to drop.""",Hard Cut
+36,1:10,1:12,2,"""Your body is preparing for sleep — but you don't want to sleep.""",Hard Cut
+37,1:12,1:14,2,"""Normal sleep has structure — cycles, stages, REM.""",Hard Cut
+38,1:14,1:16,2,"""In total darkness that structure begins to dissolve.""",Hard Cut
+39,1:16,1:18,2,"""By hour twelve — you feel it. Something is off.""",Hard Cut
+40,1:18,1:20,2,"""The clock on the wall feels wrong. You can't trust it.""",Hard Cut
+41,1:20,1:22,2,"""Your brain and your body are no longer in agreement.""",Hard Cut
+42,1:22,1:24,2,"""Cortisol spikes at the wrong time. Alertness hits when you should be resting.""",Hard Cut
+43,1:24,1:26,2,"""Hunger signals stop aligning with any logical schedule.""",Hard Cut
+44,1:26,1:28,2,"""Hour six to hour thirty — each hour compounds the last.""",Hard Cut
+45,1:28,1:30,2,"""By hour twenty-four — you can't tell if you want to sleep or eat.""",Hard Cut
+46,1:30,1:32,2,"""Your sense of time — once invisible and automatic — becomes unreliable.""",Hard Cut
+47,1:32,1:34,2,"""Your brain is sending conflicting signals simultaneously.""",Hard Cut
+48,1:34,1:36,2,"""Hour thirty — the body starts lying flat. Not sleep. Just collapse.""",Hard Cut
+49,1:36,1:38,2,"""Are you hungry? You don't know. Are you tired? You can't tell.""",Hard Cut
+50,1:38,1:40,2,"""Your brain is arguing with itself. Day versus night. Awake versus sleep.""",Hard Cut
+51,1:40,1:42,2,"""Hour thirty-six. Something new begins.""",Hard Cut
+52,1:42,1:44,2,"""Phosphenes. Lights you see — in complete darkness.""",Hard Cut
+53,1:44,1:46,2,"""Your visual cortex — starved of input — begins generating its own signals.""",Hard Cut
+54,1:46,1:48,2,"""You cover your eyes. The lights are still there. They're coming from inside.""",Hard Cut
+55,1:48,1:50,2,"""The brain cannot tolerate silence. It fills the gap.""",Hard Cut
+56,1:50,1:52,2,"""Hour forty. The dark begins to feel like a presence.""",Hard Cut
+57,1:52,1:54,2,"""Headaches. Pressure behind the eyes. Hour forty.""",Hard Cut
+58,1:54,1:56,2,"""Your internal clock is untethering from everything external.""",Hard Cut
+59,1:56,1:58,2,"""Hunger — still there. Fatigue — overwhelming. Time sense — nearly gone.""",Hard Cut
+60,1:58,2:00,2,"""Hour forty-eight. You sit. And stare at nothing.""",Hard Cut
+61,2:00,2:02,2,"""Hour forty-eight. The master clock has drifted.""",Hard Cut
+62,2:02,2:04,2,"""You press your hands against the wall just to feel which way is up.""",Hard Cut
+63,2:04,2:06,2,"""You navigate by memory. By habit. Not by sight.""",Hard Cut
+64,2:06,2:08,2,"""REM sleep — the stage where memory consolidates — has collapsed.""",Hard Cut
+65,2:08,2:10,2,"""Dreams become vivid. Unusually vivid.""",Hard Cut
+66,2:10,2:12,2,"""Then disturbing. Images with no source.""",Hard Cut
+67,2:12,2:14,2,"""Hour twenty-four — disoriented. Hour thirty-six — phosphenes. Hour forty-eight —?""",Hard Cut
+68,2:14,2:16,2,"""Your perception is calibrated to a world with light. Remove the light —""",Hard Cut
+69,2:16,2:18,2,"""— and the calibration goes with it.""",Hard Cut
+70,2:18,2:20,2,"""Hour fifty. You begin to wonder what is real.""",Hard Cut
+71,2:20,2:22,2,"""Your body fights. It insists it is morning. The dark insists otherwise.""",Hard Cut
+72,2:22,2:24,2,"""What is real versus what your brain believes — they are no longer the same.""",Hard Cut
+73,2:24,2:26,2,"""Isolation settles. Hour fifty-two. You sit on the floor.""",Hard Cut
+74,2:26,2:28,2,"""Hour fifty-eight. Thoughts become strange. Edges blur.""",Hard Cut
+75,2:28,2:30,2,"""The shadows don't match. Nothing matches.""",Hard Cut
+76,2:30,2:32,2,"""Hour sixty. Everything — temperature, cortisol, REM, time — failing together.""",Hard Cut
+77,2:32,2:34,2,"""This is your brain after sixty hours without light.""",Hard Cut
+78,2:34,2:36,2,"""You touch the wall. Still there. You are still here.""",Hard Cut
+79,2:36,2:38,2,"""You start writing everything down. It is the only anchor left.""",Hard Cut
+80,2:38,2:40,2,"""You listen to the clock tick. You can no longer trust what it tells you.""",Hard Cut
+81,2:40,2:42,2,"""Meals become the only clock. The only rhythm that still means anything.""",Hard Cut
+82,2:42,2:44,2,"""Hour sixty-five. You hear yourself talking. To yourself.""",Hard Cut
+83,2:44,2:46,2,"""The dark starts looking back.""",Hard Cut
+84,2:46,2:48,2,"""Hour sixty-eight. Sleep is just the inner dark now.""",Hard Cut
+85,2:48,2:50,2,"""Hour seventy. You wake again. What time is it? Unknown.""",Hard Cut
+86,2:50,2:52,2,"""Head confused. Heart elevated. Stomach irregular. Limbs fatigued.""",Hard Cut
+87,2:52,2:54,2,"""Hour seventy-two. The first hallucination arrives.""",Hard Cut
+88,2:54,2:56,2,"""This is the brain without a compass.""",Hard Cut
+89,2:56,2:58,2,"""His name was Michel Siffre.""",Hard Cut
+90,2:58,3:00,2,"""A French geologist and speleologist — a cave scientist.""",Hard Cut
+91,3:00,3:02,2,"""In 1962 he descended into a glacier cave in the French Alps.""",Hard Cut
+92,3:02,3:04,2,"""Scarasson Cave — one hundred and thirty metres underground.""",Hard Cut
+93,3:04,3:06,2,"""Alone. No clock. No calendar. No sunlight.""",Hard Cut
+94,3:06,3:08,2,"""Two months. In total isolation from time.""",Hard Cut
+95,3:08,3:10,2,"""He kept a journal. He tracked when he slept and when he woke.""",Hard Cut
+96,3:10,3:12,2,"""Every sleep, he logged as a night. Every waking as a day.""",Hard Cut
+97,3:12,3:14,2,"""Every morning he asked: how long have I been here?""",Hard Cut
+98,3:14,3:16,2,"""He made his best guess and marked his calendar.""",Hard Cut
+99,3:16,3:18,2,"""He believed he was at day twenty-five. The calendar said day fifty-eight.""",Hard Cut
+100,3:18,3:20,2,"""Fifty-eight days underground. He thought twenty-five.""",Hard Cut
+101,3:20,3:22,2,"""Thirty-three days lost. Erased from his subjective experience.""",Hard Cut
+102,3:22,3:24,2,"""He thought he was nearly done. He wasn't even halfway.""",Hard Cut
+103,3:24,3:26,2,"""He had lived two months and experienced one.""",Hard Cut
+104,3:26,3:28,2,"""When he emerged — the first light in two months hit him like a wall.""",Hard Cut
+105,3:28,3:30,2,"""The researchers told him the date. He could not believe it.""",Hard Cut
+106,3:30,3:32,2,"""His internal clock had compressed fifty-eight days into twenty-five.""",Hard Cut
+107,3:32,3:34,2,"""The data was undeniable. Time had bent inside him.""",Hard Cut
+108,3:34,3:36,2,"""His perceived time was half of real time. A two-to-one compression.""",Hard Cut
+109,3:36,3:38,2,"""His mind had been living in a different time than the one he occupied.""",Hard Cut
+110,3:38,3:40,2,"""Internal and external — completely out of sync.""",Hard Cut
+111,3:40,3:42,2,"""The scientific world was stunned.""",Hard Cut
+112,3:42,3:44,2,"""Without light your brain does not just lose track of time. It loses the experience of it.""",Hard Cut
+113,3:44,3:46,2,"""Time is not something you measure. It is something your brain generates — from light.""",Hard Cut
+114,3:46,3:48,2,"""Remove the light — and time contracts. Expands. Inverts.""",Hard Cut
+115,3:48,3:50,2,"""Fifty-eight days felt like twenty-five.""",Hard Cut
+116,3:50,3:52,2,"""The brain had compressed experience itself.""",Hard Cut
+117,3:52,3:54,2,"""If light calibrates time — what calibrates you?""",Hard Cut
+118,3:54,3:56,2,"""Light is not a luxury. It is the signal your entire system depends on.""",Hard Cut
+119,3:56,3:58,2,"""Siffre had started to change inside.""",Hard Cut
+120,3:58,4:00,2,"""The man who went in was not the same man who came out.""",Hard Cut
+121,4:00,4:02,2,"""1962. Experiment complete. But Siffre wasn't done.""",Hard Cut
+122,4:02,4:04,2,"""He stood at a lectern and told scientists: we go back.""",Hard Cut
+123,4:04,4:06,2,"""1972. Ten years later.""",Hard Cut
+124,4:06,4:08,2,"""Midnight Cave. Del Rio, Texas.""",Hard Cut
+125,4:08,4:10,2,"""This time — six months. Alone. Underground.""",Hard Cut
+126,4:10,4:12,2,"""More controlled. More extreme. More data.""",Hard Cut
+127,4:12,4:14,2,"""A surface team waited six months. Tracking every check-in.""",Hard Cut
+128,4:14,4:16,2,"""Everything was provided — food, water, equipment. Everything except light.""",Hard Cut
+129,4:16,4:18,2,"""Day one. He called the surface. Still here.""",Hard Cut
+130,4:18,4:20,2,"""Two hundred and five days. Alone. In the dark.""",Hard Cut
+131,4:20,4:22,2,"""First sleep logged. He had no idea how long it lasted.""",Hard Cut
+132,4:22,4:24,2,"""Day one of two hundred and five. The bar stretched ahead.""",Hard Cut
+133,4:24,4:26,2,"""Every waking was a guess. Every sleep was untracked.""",Hard Cut
+134,4:26,4:28,2,"""By day thirty — the drift had already begun.""",Hard Cut
+135,4:28,4:30,2,"""He was sleeping twelve hours. Then thirteen. Then fourteen.""",Hard Cut
+136,4:30,4:32,2,"""The sleep duration stretched — longer and longer each cycle.""",Hard Cut
+137,4:32,4:34,2,"""Meals lost all meaning. Breakfast or dinner — impossible to say.""",Hard Cut
+138,4:34,4:36,2,"""Day forty-five. He had been awake for thirty-six hours straight.""",Hard Cut
+139,4:36,4:38,2,"""His body had invented a forty-eight hour day.""",Hard Cut
+140,4:38,4:40,2,"""Day sixty. Nothing left to look at. He stared at the wall.""",Hard Cut
+141,4:40,4:42,2,"""Day sixty-five. He began talking to companions that were not there.""",Hard Cut
+142,4:42,4:44,2,"""He wrote everything down. Intensely. Constantly.""",Hard Cut
+143,4:44,4:46,2,"""Loneliness. Confusion. Small comfort from routine. Fear — growing.""",Hard Cut
+144,4:46,4:48,2,"""Day seventy. He began decorating the cave walls.""",Hard Cut
+145,4:48,4:50,2,"""His mood had been declining since day sixty. A long, slow collapse.""",Hard Cut
+146,4:50,4:52,2,"""Depression set in. Deep and heavy and interior.""",Hard Cut
+147,4:52,4:54,2,"""Day seventy-nine. He called the surface.""",Hard Cut
+148,4:54,4:56,2,"""He was crying. 'I want to stop,' he said.""",Hard Cut
+149,4:56,4:58,2,"""The scientists persuaded him. 'You have come this far.'""",Hard Cut
+150,4:58,5:00,2,"""He stayed. Silence. Recommitment. He stayed.""",Hard Cut
+151,5:00,5:02,2,"""Day one hundred. He believed it was day fifty.""",Hard Cut
+152,5:02,5:04,2,"""Day one-twenty. He found a spider. He said hello.""",Hard Cut
+153,5:04,5:06,2,"""Day one-ten. The hallucinations had begun.""",Hard Cut
+154,5:06,5:08,2,"""His visual cortex, temporal lobe, and prefrontal cortex — all affected.""",Hard Cut
+155,5:08,5:10,2,"""Music became the only colour left. The only sensation with warmth.""",Hard Cut
+156,5:10,5:12,2,"""What he felt versus what was happening — no longer aligned.""",Hard Cut
+157,5:12,5:14,2,"""He exercised. To stay sane. To feel his own body.""",Hard Cut
+158,5:14,5:16,2,"""Day one-forty. He counted everything. What day is it?""",Hard Cut
+159,5:16,5:18,2,"""Day one-fifty. Just being. Existing without structure.""",Hard Cut
+160,5:18,5:20,2,"""Day one-sixty. Routine check-ins kept him tethered to the surface.""",Hard Cut
+161,5:20,5:22,2,"""Day one-seventy-five. Eighty-eight days lost from his experience.""",Hard Cut
+162,5:22,5:24,2,"""The emotional forecast for day one-eighty: grey throughout.""",Hard Cut
+163,5:24,5:26,2,"""Day one-eighty-five. He stared at his own hand. Am I still me?""",Hard Cut
+164,5:26,5:28,2,"""What he remembered versus what had actually happened — opposite scales.""",Hard Cut
+165,5:28,5:30,2,"""He kept making tally marks. The wall knew more than he did.""",Hard Cut
+166,5:30,5:32,2,"""Sleep without structure. Not rest. Just absence.""",Hard Cut
+167,5:32,5:34,2,"""By day one-fifty — his cycle: thirty-six hours awake, twelve to sleep.""",Hard Cut
+168,5:34,5:36,2,"""A bat flew overhead. He said hello to it.""",Hard Cut
+169,5:36,5:38,2,"""Day one-ninety. Strange moments of joy. Arms wide. Looking at nothing.""",Hard Cut
+170,5:38,5:40,2,"""Two hundred and five days. Divided by two. That is what darkness did to time.""",Hard Cut
+171,5:40,5:42,2,"""Day two-oh-five. The surface. He emerged.""",Hard Cut
+172,5:42,5:44,2,"""He shook hands with the research team. Two hundred and five days complete.""",Hard Cut
+173,5:44,5:46,2,"""First real sunlight in two hundred and five days.""",Hard Cut
+174,5:46,5:48,2,"""Days underground: 205. Days Siffre experienced: approximately 100. Sleep cycle by end: 48 hours.""",Hard Cut
+175,5:48,5:50,2,"""The data was extraordinary.""",Hard Cut
+176,5:50,5:52,2,"""He had lived half a year and experienced half of it.""",Hard Cut
+177,5:52,5:54,2,"""What did Siffre actually prove?""",Hard Cut
+178,5:54,5:56,2,"""Light is the brain's anchor.""",Hard Cut
+179,5:56,5:58,2,"""Remove the anchor — and the brain begins to drift.""",Hard Cut
+180,5:58,6:00,2,"""Without that anchor your brain drifts like a boat with no mooring.""",Hard Cut
+181,6:00,6:02,2,"""The Earth rotates every twenty-four hours. That rotation is the signal.""",Hard Cut
+182,6:02,6:04,2,"""Sun to eyes to brain to clock to body. Every single day. Without fail.""",Hard Cut
+183,6:04,6:06,2,"""Every morning — the light tells you: now. Begin. This is when.""",Hard Cut
+184,6:06,6:08,2,"""Every organ in your body has a clock. They are all timed to light.""",Hard Cut
+185,6:08,6:10,2,"""With light calibration — everything aligned. Without it — everything offset.""",Hard Cut
+186,6:10,6:12,2,"""Without light you don't know when. The schedule board is blank.""",Hard Cut
+187,6:12,6:14,2,"""This response — turning toward light — is involuntary. It is older than you.""",Hard Cut
+188,6:14,6:16,2,"""Light keeps you balanced. Remove it — and everything tilts.""",Hard Cut
+189,6:16,6:18,2,"""Light is the most powerful zeitgeber — time-giver — your brain has.""",Hard Cut
+190,6:18,6:20,2,"""Shift workers know this. Their bodies are always fighting the dark.""",Hard Cut
+191,6:20,6:22,2,"""Jet lag is your SCN trying to catch up after the signal moved.""",Hard Cut
+192,6:22,6:24,2,"""Even sunflowers turn toward the light. Your brain does the same thing.""",Hard Cut
+193,6:24,6:26,2,"""First light at 6 AM — your brain receives it as a command: begin.""",Hard Cut
+194,6:26,6:28,2,"""The SCN coordinates everything from sleep to digestion to emotion.""",Hard Cut
+195,6:28,6:30,2,"""Darkness dims the idea. Creativity, decision-making — all dimmer without light.""",Hard Cut
+196,6:30,6:32,2,"""The modern human gets two hours of outdoor light per day. We evolved for far more.""",Hard Cut
+197,6:32,6:34,2,"""Your screen at night — blue light — tells your SCN: it is still daytime.""",Hard Cut
+198,6:34,6:36,2,"""Eleven PM. Phone in bed. Your brain thinks it's noon.""",Hard Cut
+199,6:36,6:38,2,"""Walking outside in natural light — this is what your brain was built for.""",Hard Cut
+200,6:38,6:40,2,"""Light is not just what you see. It is what tells your body when to be alive.""",Hard Cut
+201,6:40,6:42,2,"""You are tuned to this planet. To its rotation. To its light.""",Hard Cut
+202,6:42,6:44,2,"""Light is the signal. Your brain is the receiver. Always has been.""",Hard Cut
+203,6:44,6:46,2,"""Remove the signal — and the receiver goes dark. That is what Siffre showed.""",Hard Cut
+204,6:46,6:48,2,"""Your mirror self — your body's internal version of you — runs on a different schedule without light.""",Hard Cut
+205,6:48,6:50,2,"""Siffre's experiments gave birth to chronobiology as a field. NASA used his data.""",Hard Cut
+206,6:50,6:52,2,"""His cave data shaped how we design space missions. Circadian rhythm in zero light.""",Hard Cut
+207,6:52,6:54,2,"""Sleep medicine changed because of a cave in France and a cave in Texas.""",Hard Cut
+208,6:54,6:56,2,"""Every step toward light is a reset. Every morning is a recalibration.""",Hard Cut
+209,6:56,6:58,2,"""Turn the light on. Your clock resets. Every single time.""",Hard Cut
+210,6:58,7:00,2,"""Remove the anchor — and the self begins to drift.""",Hard Cut
+211,7:00,7:02,2,"""Siffre's clock had drifted completely from the Earth's rotation.""",Hard Cut
+212,7:02,7:04,2,"""Surface reality versus his internal clock — two completely different times.""",Hard Cut
+213,7:04,7:06,2,"""The surface team tracked every moment. Every check-in. Every heartbeat.""",Hard Cut
+214,7:06,7:08,2,"""Six months of parallel tracking. Two timelines. One person.""",Hard Cut
+215,7:08,7:10,2,"""He slept thirteen hours and called it eight. He was at day fifty and called it twenty-five.""",Hard Cut
+216,7:10,7:12,2,"""Here is what this means for you.""",Hard Cut
+217,7:12,7:14,2,"""His body clock, tracked by researchers on the surface for all six months,""",Hard Cut
+218,7:14,7:16,2,"""his body clock, tracked by researchers on the surface for all six months,""",Hard Cut
+219,7:16,7:18,2,"""He was living in what he called subjective time —""",Hard Cut
+220,7:18,7:20,2,"""a private clock sealed from the outside world.""",Hard Cut
+221,7:20,7:22,2,"""Two clocks. One person. No overlap.""",Hard Cut
+222,7:22,7:24,2,"""His clock and the Earth's clock — completely disconnected.""",Hard Cut
+223,7:24,7:26,2,"""His body clock had drifted so severely —""",Hard Cut
+224,7:26,7:28,2,"""had drifted so severely that he believed he was sleeping normal nights""",Hard Cut
+225,7:28,7:30,2,"""had drifted so severely that he believed he was sleeping normal nights""",Hard Cut
+226,7:30,7:32,2,"""while actually sleeping twelve to fourteen hours at a stretch.""",Hard Cut
+227,7:32,7:34,2,"""while actually sleeping twelve to fourteen hours at a stretch.""",Hard Cut
+228,7:34,7:36,2,"""He was living in what he called subjective time,""",Hard Cut
+229,7:36,7:38,2,"""He was living in what he called subjective time —""",Hard Cut
+230,7:40,7:42,2,"""a private clock with no relationship to the rotation of the Earth.""",Hard Cut
+231,7:42,7:44,2,"""This is what darkness actually costs. Not discomfort. Not restless sleep.""",Hard Cut
+232,7:44,7:46,2,"""This is what darkness actually costs. Not discomfort. Not restless sleep.""",Hard Cut
+233,7:46,7:48,2,"""The loss of external light is the loss of the most fundamental anchor your brain has.""",Hard Cut
+234,7:48,7:50,2,"""The loss of external light is the loss of the most fundamental anchor your brain has.""",Hard Cut
+235,7:50,7:52,2,"""The signal that tells every cell in your body what moment it is.""",Hard Cut
+236,7:52,7:54,2,"""The signal that tells every cell in your body what moment it is.""",Hard Cut
+237,7:54,7:56,2,"""The calibration wire connecting your nervous system to the world outside your skull.""",Hard Cut
+238,7:56,7:58,2,"""The calibration wire connecting your nervous system to the world outside your skull.""",Hard Cut
+239,7:58,8:00,2,"""Without it, reality becomes increasingly interior.""",Hard Cut
+240,8:00,8:02,2,"""Without it, reality becomes increasingly interior.""",Hard Cut
+241,8:02,8:04,2,"""Your fears, your memories, your unresolved emotions.""",Hard Cut
+242,8:04,8:06,2,"""They fill the space that light used to hold.""",Hard Cut
+243,8:06,8:08,2,"""The next time you lie awake in the dark, and your mind won't let you go.""",Hard Cut
+244,8:08,8:10,2,"""The next time you lie awake in the dark, and your mind won't let you go.""",Hard Cut
+245,8:10,8:12,2,"""The next time a power outage drops you into total blackness,""",Hard Cut
+246,8:12,8:14,2,"""The next time a power outage drops you into total blackness,""",Hard Cut
+247,8:14,8:16,2,"""and something old in your chest says move, find light, don't stay still.""",Hard Cut
+248,8:16,8:18,2,"""and something old in your chest says move, find light, don't stay still.""",Hard Cut
+249,8:18,8:20,2,"""and something old in your chest says move, find light, don't stay still.""",Hard Cut
+250,8:20,8:22,2,"""The next time the dark outside the window feels heavier than it should.""",Hard Cut
+251,8:22,8:24,2,"""The next time the dark outside the window feels heavier than it should.""",Hard Cut
+252,8:24,8:26,2,"""That is not anxiety.""",Hard Cut
+253,8:26,8:28,2,"""That is your brain running the oldest programme it has.""",Hard Cut
+254,8:28,8:30,2,"""That is your brain running the oldest programme it has.""",Hard Cut
+255,8:30,8:32,2,"""The one that kept every ancestor you have ever had alive.""",Hard Cut
+256,8:32,8:34,2,"""The one that kept every ancestor you have ever had alive.""",Hard Cut
+257,8:34,8:36,2,"""Through two hundred thousand years of nights they had no guarantee they would survive.""",Hard Cut
+258,8:36,8:38,2,"""Through two hundred thousand years of nights they had no guarantee they would survive.""",Hard Cut
+259,8:38,8:40,2,"""Through two hundred thousand years of nights they had no guarantee they would survive.""",Hard Cut
+260,8:40,8:42,2,"""And if you stayed in that dark long enough, it would stop showing you what is there.""",Hard Cut
+261,8:42,8:44,2,"""And if you stayed in that dark long enough, it would stop showing you what is there.""",Hard Cut
+262,8:44,8:46,2,"""And if you stayed in that dark long enough, it would stop showing you what is there.""",Hard Cut
+263,8:46,8:48,2,"""It would start showing you what is not.""",Fade to Black
+264,8:47,8:49,2,"""It would start showing you what is not."" [FINAL FRAME — hold to end]",Fade to Black
