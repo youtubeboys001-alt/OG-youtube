@@ -1,0 +1,304 @@
+BORN WRONG — IMAGE TIMESTAMP REFERENCE TABLE
+
+IMAGE | START | END   | SCRIPT BEAT
+------|-------|-------|-------------------------------------------------------------
+1     | 0:00  | 0:02  | Imagine you are a mother in ancient Rome
+2     | 0:02  | 0:05  | You have just survived childbirth, one of the most
+3     | 0:05  | 0:07  | dangerous things a woman in the ancient world could do
+4     | 0:07  | 0:10  | The midwife lifts the baby and turns
+5     | 0:10  | 0:12  | to hand it to you
+6     | 0:12  | 0:15  | And you look down
+7     | 0:15  | 0:17  | And you freeze
+8     | 0:17  | 0:20  | Not because you are confused
+9     | 0:20  | 0:22  | not because you are delirious from pain
+10    | 0:22  | 0:25  | but because what is lying there, breathing, moving
+11    | 0:25  | 0:27  | making sounds, does not look like a human child
+12    | 0:27  | 0:30  | It looks like something that came from somewhere else
+13    | 0:30  | 0:32  | This was not a rare moment in ancient history
+14    | 0:32  | 0:35  | It happened more than you think
+15    | 0:35  | 0:37  | And what happened next, what these parents did
+16    | 0:37  | 0:40  | what their communities demanded
+17    | 0:40  | 0:42  | what their priests ordered
+18    | 0:42  | 0:45  | is one of the darkest most disturbing chapters in human history
+19    | 0:45  | 0:47  | Across almost every ancient civilization on earth
+20    | 0:47  | 0:50  | Celtic tribes in Britain
+21    | 0:50  | 0:52  | Roman settlements across Europe
+22    | 0:52  | 0:55  | Norse villages buried in snow
+23    | 0:55  | 0:57  | African kingdoms deep in the forest
+24    | 0:57  | 1:00  | indigenous communities from every continent
+25    | 1:00  | 1:02  | there existed a belief so powerful
+26    | 1:02  | 1:05  | it overrode the most fundamental human instinct
+27    | 1:05  | 1:07  | The instinct to protect your own child. The belief was this
+28    | 1:07  | 1:10  | Sometimes in the dead of night a supernatural force
+29    | 1:10  | 1:12  | fairies demons forest spirits underworld gods
+30    | 1:12  | 1:15  | would creep into a home
+31    | 1:15  | 1:17  | steal the real human baby
+32    | 1:17  | 1:20  | and leave behind a replacement a fake
+33    | 1:20  | 1:22  | a creature wearing the face of your child but carrying nothing human inside
+34    | 1:22  | 1:25  | They called it a changeling
+35    | 1:25  | 1:27  | And the way you knew your baby had been replaced was simple
+36    | 1:27  | 1:30  | It looked wrong
+37    | 1:30  | 1:32  | It behaved wrong
+38    | 1:32  | 1:35  | It felt wrong
+39    | 1:35  | 1:37  | What these ancient people did not know
+40    | 1:37  | 1:40  | what no one on earth knew for thousands of years
+41    | 1:40  | 1:42  | is that the children they were looking at were not demons
+42    | 1:42  | 1:45  | They were children born with conditions
+43    | 1:45  | 1:47  | that medicine had no language for yet
+44    | 1:47  | 1:50  | And those conditions what they looked like
+45    | 1:50  | 1:52  | what they did to a human body
+46    | 1:52  | 1:55  | will make you understand exactly why ancient people reacted the way they did
+47    | 1:55  | 1:57  | And then it will make you question
+48    | 1:57  | 2:00  | whether that understanding makes what they did forgivable
+49    | 2:00  | 2:02  | The first condition that triggered this terror
+50    | 2:02  | 2:05  | was found not in the behavior of the child but in its skin
+51    | 2:05  | 2:07  | The midwife would notice it immediately
+52    | 2:07  | 2:09  | The skin was not soft. It was not pink
+53    | 2:09  | 2:12  | It was hard cracked and split into thick diamond-shaped plates
+54    | 2:12  | 2:14  | pressing outward from beneath
+55    | 2:14  | 2:17  | deep red raw flesh bleeding through every gap
+56    | 2:17  | 2:19  | pulling the infant's face into a permanent expression of frozen agony
+57    | 2:19  | 2:22  | The eyelids were forced open
+58    | 2:22  | 2:24  | The lips were stretched back. The ears were sealed shut
+59    | 2:24  | 2:27  | This is called Harlequin Ichthyosis
+60    | 2:27  | 2:29  | In simple terms the body produces skin so fast and so thick
+61    | 2:29  | 2:32  | before birth that it builds up like armor
+62    | 2:32  | 2:34  | and the moment that armor hits open air it cracks and splits open
+63    | 2:34  | 2:37  | The baby is essentially encased in a shell
+64    | 2:37  | 2:39  | Every movement tears it further
+65    | 2:39  | 2:42  | Every breath is a battle against a body that is crushing itself
+66    | 2:42  | 2:44  | To a Roman midwife in 200 AD this was not a sick child
+67    | 2:44  | 2:47  | This was a demon that had tried to wear a human skin
+68    | 2:47  | 2:49  | and chosen one that did not fit
+69    | 2:49  | 2:52  | The village elders were called
+70    | 2:52  | 2:54  | The priests were called
+71    | 2:54  | 2:57  | And before sunrise
+72    | 2:57  | 2:59  | the child was carried back into the forest
+73    | 2:59  | 3:02  | and left there
+74    | 3:02  | 3:04  | Another condition that shook ancient communities to their core
+75    | 3:04  | 3:07  | was one that attacked not the skin
+76    | 3:07  | 3:09  | but the shape of the child entirely
+77    | 3:09  | 3:12  | There were births where the legs never separated
+78    | 3:12  | 3:14  | From the waist down fused one single limb
+79    | 3:14  | 3:16  | the feet sometimes splayed outward at the base like a tail fin
+80    | 3:16  | 3:18  | The child would move this single fused limb slowly rhythmically
+81    | 3:18  | 3:21  | like something that belonged to the water and not the land
+82    | 3:21  | 3:23  | This is called Sirenomelia Mermaid Syndrome
+83    | 3:23  | 3:26  | In simple terms during development in the womb
+84    | 3:26  | 3:28  | the blood supply meant to feed both legs comes from a single vessel
+85    | 3:28  | 3:31  | that starves the lower body and fuses everything together
+86    | 3:31  | 3:33  | two legs that never became two
+87    | 3:33  | 3:36  | Ancient coastal communities knew exactly what this looked like
+88    | 3:36  | 3:38  | It looked like the sea had sent something back
+89    | 3:38  | 3:41  | Celtic legend said water spirits would occasionally place one of their own
+90    | 3:41  | 3:43  | in a human cradle a scout a spy to live among people
+91    | 3:43  | 3:46  | The child with fused legs was not raised
+92    | 3:46  | 3:48  | It was returned to the water
+93    | 3:48  | 3:51  | whether gently or not depended on the village
+94    | 3:51  | 3:53  | Another condition that sent ancient Rome into a state of complete panic
+95    | 3:53  | 3:56  | was one they had no category for at all
+96    | 3:56  | 3:58  | Not a child with two heads
+97    | 3:58  | 4:01  | one head one skull
+98    | 4:01  | 4:03  | but across the front of that skull two complete faces
+99    | 4:03  | 4:06  | four eyes two noses two mouths
+100   | 4:06  | 4:08  | Sometimes both sets of features moved together
+101   | 4:08  | 4:11  | Sometimes they moved independently of each other
+102   | 4:11  | 4:13  | one face calm one face crying
+103   | 4:13  | 4:16  | At the same time this is called Diprosopus
+104   | 4:16  | 4:18  | craniofacial duplication
+105   | 4:18  | 4:20  | In simple terms a single protein in the embryo misfires
+106   | 4:20  | 4:23  | during development and begins duplicating facial structures
+107   | 4:23  | 4:25  | essentially attempting to build two faces in the space where one was meant to go
+108   | 4:25  | 4:28  | Roman priests had a specific word for this birth
+109   | 4:28  | 4:30  | They called it an ostentum
+110   | 4:30  | 4:33  | an omen delivered directly from the gods to warn of catastrophic events
+111   | 4:33  | 4:35  | The birth of a two-faced child in Rome was documented
+112   | 4:35  | 4:38  | as a signal of coming war
+113   | 4:38  | 4:40  | incoming plague
+114   | 4:40  | 4:43  | or the collapse of leadership
+115   | 4:43  | 4:45  | The senate was notified
+116   | 4:45  | 4:48  | Sacrifices were performed
+117   | 4:48  | 4:50  | The child did not survive the first day
+118   | 4:50  | 4:53  | Another condition that haunted ancient civilizations
+119   | 4:53  | 4:55  | was one that seemed to defy everything they understood
+120   | 4:55  | 4:58  | about where life lived inside a human body
+121   | 4:58  | 5:00  | Some children were born with their hearts on the outside
+122   | 5:00  | 5:03  | not inside the chest where it belongs
+123   | 5:03  | 5:05  | But sitting fully exposed on the surface of the skin beating visibly
+124   | 5:05  | 5:08  | covered only by a thin translucent membrane you could see through
+125   | 5:08  | 5:10  | You could watch every pulse every contraction
+126   | 5:10  | 5:13  | a heart beating in open air
+127   | 5:13  | 5:15  | This is called Ectopia Cordis
+128   | 5:15  | 5:18  | In simple terms the chest wall does not close fully during development
+129   | 5:18  | 5:20  | and the heart migrates outward before birth
+130   | 5:20  | 5:23  | sitting outside the body it was meant to be sealed inside forever
+131   | 5:23  | 5:25  | Ancient priests across multiple civilizations interpreted this the same way
+132   | 5:25  | 5:28  | The heart was the seat of the soul
+133   | 5:28  | 5:30  | If a child was born with its heart exposed offered outward on display
+134   | 5:30  | 5:32  | it meant one thing
+135   | 5:32  | 5:35  | This child had been sent back from death
+136   | 5:35  | 5:37  | rejected by the underworld
+137   | 5:37  | 5:40  | returned with its soul visible as proof it did not belong among the living
+138   | 5:40  | 5:42  | These children were taken to the temple
+139   | 5:42  | 5:45  | What happened there was never written down
+140   | 5:45  | 5:47  | Another condition was one that did not reveal itself immediately
+141   | 5:47  | 5:50  | which made it the most unsettling of all
+142   | 5:50  | 5:52  | The baby looked almost normal at birth
+143   | 5:52  | 5:55  | almost except the toes
+144   | 5:55  | 5:57  | slightly shortened bent inward at a strange angle
+145   | 5:57  | 6:00  | easy to overlook easy to dismiss
+146   | 6:00  | 6:02  | But as the months passed as the child grew
+147   | 6:02  | 6:05  | something began happening beneath the skin
+148   | 6:05  | 6:07  | hard dense immovable lumps forming along the neck the shoulders the spine
+149   | 6:07  | 6:10  | The child would cry when touched
+150   | 6:10  | 6:12  | The parents would press their fingers into their child's back
+151   | 6:12  | 6:15  | and feel not flesh but stone
+152   | 6:15  | 6:17  | This is called Fibrodysplasia Ossificans Progressiva
+153   | 6:17  | 6:20  | In simple terms the body's repair system breaks down completely
+154   | 6:20  | 6:22  | and begins replacing muscle tendons and soft tissue with solid bone
+155   | 6:22  | 6:25  | The child slowly petrifies from the outside in
+156   | 6:25  | 6:27  | A second skeleton grows inside the first
+157   | 6:27  | 6:30  | The person becomes locked frozen in whatever position they last held
+158   | 6:30  | 6:32  | eventually unable to open their mouth
+159   | 6:32  | 6:35  | unable to breathe
+160   | 6:35  | 6:37  | Ancient forest communities watched this happen over months and years
+161   | 6:37  | 6:40  | and reached one conclusion
+162   | 6:40  | 6:42  | The forest was reclaiming one of its own
+163   | 6:42  | 6:45  | This child was not human
+164   | 6:45  | 6:47  | It had been placed among them as something sent to take root
+165   | 6:47  | 6:50  | and now it was becoming what it truly was wood and bark and bone
+166   | 6:50  | 6:52  | They did not wait for it to finish
+167   | 6:52  | 6:55  | Another condition that crossed the line from fear into mythology
+168   | 6:55  | 6:57  | was one that built an entire legend that survived for centuries
+169   | 6:57  | 7:00  | Every culture on earth has a werewolf story every single one
+170   | 7:00  | 7:02  | and every werewolf story traces back to the same place
+171   | 7:02  | 7:05  | to a child born covered in hair
+172   | 7:05  | 7:07  | Not a little hair
+173   | 7:07  | 7:10  | Thick dark dense hair covering the entire face
+174   | 7:10  | 7:12  | the ears the neck the hands
+175   | 7:12  | 7:15  | A perfectly human child crying breathing feeding
+176   | 7:15  | 7:17  | beneath a full coat of fur that did not stop growing
+177   | 7:17  | 7:20  | This is called Hypertrichosis werewolf syndrome
+178   | 7:20  | 7:22  | In simple terms a gene that normally switches off hair growth
+179   | 7:22  | 7:25  | across the face and body before birth simply fails to switch off
+180   | 7:25  | 7:27  | The child is born with the hair pattern of an animal
+181   | 7:27  | 7:30  | growing from entirely human skin
+182   | 7:30  | 7:32  | In medieval Europe in Celtic Britain
+183   | 7:32  | 7:35  | in the forests of ancient Scandinavia
+184   | 7:35  | 7:37  | these children were not always abandoned
+185   | 7:37  | 7:40  | Sometimes they were kept
+186   | 7:40  | 7:42  | paraded through villages as living proof
+187   | 7:42  | 7:45  | that humans and animals were not as separate as people wanted to believe
+188   | 7:45  | 7:47  | That something in the blood could cross over
+189   | 7:47  | 7:50  | Being kept was not mercy
+190   | 7:50  | 7:52  | Being displayed was not safety
+191   | 7:52  | 7:55  | It was a different kind of fate entirely
+192   | 7:55  | 7:57  | And then there was another condition
+193   | 7:57  | 8:00  | the one that disturbed people most deeply
+194   | 8:00  | 8:02  | precisely because the child looked completely normal
+195   | 8:02  | 8:05  | It arrived in the world the right size the right color the right shape
+196   | 8:05  | 8:07  | Parents held it and felt relief
+197   | 8:07  | 8:10  | This one is fine
+198   | 8:10  | 8:12  | This one is healthy
+199   | 8:12  | 8:15  | But somewhere in the first year something changed
+200   | 8:15  | 8:17  | The child who had been responding smiling reaching
+201   | 8:17  | 8:20  | went somewhere still breathing still in the room
+202   | 8:20  | 8:22  | but looking through people instead of at them
+203   | 8:22  | 8:25  | not answering to its own name
+204   | 8:25  | 8:27  | repeating movements that had no end
+205   | 8:27  | 8:30  | screaming at sounds no one else could hear
+206   | 8:30  | 8:32  | unreachable
+207   | 8:32  | 8:35  | This is what we now call Autism Spectrum Disorder
+208   | 8:35  | 8:37  | In simple terms the brain is wired to process the world differently
+209   | 8:37  | 8:40  | Sensory information arrives louder harder more overwhelming
+210   | 8:40  | 8:42  | Social instincts that most brains develop automatically
+211   | 8:42  | 8:45  | do not wire the same way
+212   | 8:45  | 8:47  | The child is completely present
+213   | 8:47  | 8:50  | experiencing a version of reality no one around them can access or see
+214   | 8:50  | 8:52  | The Celtic people had the most complete explanation for this
+215   | 8:52  | 8:55  | They said the fairies came in the night and took the real child
+216   | 8:55  | 8:57  | the one that had been there before
+217   | 8:57  | 9:00  | and left this hollow replica in its place
+218   | 9:00  | 9:02  | breathing but unreachable
+219   | 9:02  | 9:05  | present but gone
+220   | 9:05  | 9:07  | eyes open but looking at something no one else in the room could see
+221   | 9:07  | 9:10  | These were the children they feared the most
+222   | 9:10  | 9:12  | because they had seemed human first
+223   | 9:12  | 9:15  | The prescribed ritual for recovering your real child from the fairies
+224   | 9:15  | 9:17  | was to place the changeling on a hot shovel over an open fire
+225   | 9:17  | 9:20  | or leave it on a hillside through the night
+226   | 9:20  | 9:22  | or hold it over a river and threaten to let go
+227   | 9:22  | 9:25  | The logic was absolute
+228   | 9:25  | 9:27  | Hurt the changeling enough
+229   | 9:27  | 9:30  | and the fairies will come to retrieve their own
+230   | 9:30  | 9:32  | and return what was taken from you
+231   | 9:32  | 9:35  | The children who died in these rituals were not recorded as murdered
+232   | 9:35  | 9:37  | They were recorded as returned
+233   | 9:37  | 9:40  | Eight conditions
+234   | 9:40  | 9:42  | Eight children
+235   | 9:42  | 9:45  | Eight different faces of the same moment
+236   | 9:45  | 9:47  | A parent holding something they did not understand
+237   | 9:47  | 9:50  | Inside a world with no science
+238   | 9:50  | 9:52  | no medicine no language for what they were looking at
+239   | 9:52  | 9:55  | Only fear and faith
+240   | 9:55  | 9:57  | and the absolute certainty that whatever this was it was not theirs
+241   | 9:57  | 10:00 | Historians have found the remains of these children buried across Europe
+242   | 10:00 | 10:02 | outside the boundaries of cemeteries
+243   | 10:02 | 10:05 | facedown in the soil
+244   | 10:05 | 10:07 | with large stones placed on top of their bodies to prevent them from rising
+245   | 10:07 | 10:10 | Not buried in grief
+246   | 10:10 | 10:12 | buried in precaution
+247   | 10:12 | 10:15 | Here is the question history will not let you escape
+248   | 10:15 | 10:17 | Were these people monsters
+249   | 10:17 | 10:20 | or were they simply human
+250   | 10:20 | 10:22 | operating at the very edge of what a human mind can accept
+251   | 10:22 | 10:25 | when something it loves stops making sense
+252   | 10:25 | 10:27 | Because here is the part that should sit with you the longest
+253   | 10:27 | 10:30 | These were not cruel people by nature
+254   | 10:30 | 10:32 | These were parents
+255   | 10:32 | 10:35 | People who built homes and cooked food
+256   | 10:35 | 10:37 | and protected their other children with their lives
+257   | 10:37 | 10:40 | And they still did this
+258   | 10:40 | 10:42 | So the question is not whether they were capable of it
+259   | 10:42 | 10:45 | The question the one no one wants to answer honestly
+260   | 10:45 | 10:47 | is this
+261   | 10:47 | 10:50 | Under the right fear with the right pressure
+262   | 10:50 | 10:52 | with no information
+263   | 10:52 | 10:55 | and an entire community standing behind you demanding something be done
+264   | 10:55 | 10:57 | what would you have done
+265   | 10:57 | 11:00 | [PAUSE / HARD SILENCE]
+266   | 11:00 | 11:02 | [PAUSE / HARD SILENCE]
+267   | 11:02 | 11:05 | [PAUSE / HARD SILENCE]
+268   | 11:05 | 11:07 | [PAUSE / HARD SILENCE]
+269   | 11:07 | 11:11 | [PAUSE / HARD SILENCE]
+270   | 11:11 | 11:13 | Eight conditions eight children eight different faces of the same moment
+271   | 11:13 | 11:16 | A parent holding something they did not understand
+272   | 11:16 | 11:18 | Inside a world with no science
+273   | 11:18 | 11:21 | no medicine no language for what they were looking at
+274   | 11:21 | 11:23 | Only fear and faith
+275   | 11:23 | 11:26 | and the absolute certainty that whatever this was it was not theirs
+276   | 11:26 | 11:28 | Historians have found the remains of these children buried across Europe
+277   | 11:28 | 11:31 | outside the boundaries of cemeteries facedown in the soil
+278   | 11:31 | 11:33 | with large stones placed on top of their bodies
+279   | 11:33 | 11:36 | to prevent them from rising
+280   | 11:36 | 11:38 | Not buried in grief
+281   | 11:38 | 11:41 | buried in precaution
+282   | 11:41 | 11:43 | Here is the question history will not let you escape
+283   | 11:43 | 11:46 | Were these people monsters
+284   | 11:46 | 11:48 | or were they simply human
+285   | 11:48 | 11:51 | operating at the very edge of what a human mind can accept
+286   | 11:51 | 11:53 | when something it loves stops making sense
+287   | 11:53 | 11:56 | Because here is the part that should sit with you the longest
+288   | 11:56 | 11:58 | These were not cruel people by nature
+289   | 11:58 | 12:01 | These were parents
+290   | 12:01 | 12:03 | People who built homes and cooked food
+291   | 12:03 | 12:06 | and protected their other children with their lives
+292   | 12:06 | 12:08 | And they still did this
+293   | 12:08 | 12:11 | So the question is not whether they were capable of it
+294   | 12:11 | 12:13 | The question the one no one wants to answer honestly is this
+295   | 12:13 | 12:16 | Under the right fear with the right pressure
+296   | 12:16 | 12:18 | with no information
+297   | 12:18 | 12:21 | and an entire community standing behind you
+298   | 12:21 | 12:23 | demanding something be done
+299   | 12:23 | 12:26 | what would you have done
+300   | 12:26 | 12:29 | [HARD CUT TO BLACK]
