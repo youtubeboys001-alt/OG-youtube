@@ -1,0 +1,254 @@
+# VIDEO 5 – AUTO FLOW PACKET (State 13)
+# Title: "The Dark Isn't What You're Afraid Of"
+# Runtime: 8:00 (480 seconds) | Total Prompts: 115 | Pacing: ~4.2s per image (motion baked in per beat)
+# Visual Style: Flat 2D stick-figure cartoon, deep navy background, bold black outlines flat color fills no gradients no textures
+
+---
+
+# CHARACTER PROMPTS
+
+@avatar = Viewer-narrator proxy, simple white-outlined stick figure standing upright with a faint inner glow, round head with dot eyes, represents the viewer, consistent across all videos, do not alter the white-outline appearance
+
+@ancestor = Prehistoric human, rough earth-tone tunic reaching the knees, dark jagged flat hair shape on round head, bare feet, simple dot eyes, usually near amber firelight
+
+@child = Small short stick figure child, round head with large dot eyes, often in or beside a simple flat bed shape, smaller than @avatar
+
+@predator = Predator presence in the dark, low crouched big-cat or hyena silhouette or coiled snake shape, often shown only as two flat glowing eye-shapes floating in blackness, pure menace, no detail
+
+@brain = Simplified flat brain cross-section diagram, amygdala region highlightable in a separate flat color, neural pulse lines, clinical flat style
+
+@modern = Contemporary adult stick figure in a plain room, round head dot eyes, often reaching toward a flat wall light-switch shape
+
+---
+
+# IMAGE PROMPTS
+
+1. Flat 2D stick-figure cartoon, deep navy background, @avatar standing alone and calm facing the viewer in an almost empty frame with a faint white glow around the body, the only figure in a vast flat dark void with no walls and no floor line, bold black outlines flat color fills no gradients no textures
+
+2. Flat 2D stick-figure cartoon, deep navy background, the word DARKNESS in flat white block letters at center with a flat red strike-line drawn through a small wound or cut icon beside it showing darkness as harmless, minimal, bold black outlines flat color fills no gradients no textures
+
+3. Flat 2D stick-figure cartoon, deep navy background, three flat icons in a horizontal row each marked with a red X, a weighing scale shape, a thermometer shape, and a reaching hand shape, showing darkness has no weight no temperature and cannot touch, bold black outlines flat color fills no gradients no textures
+
+4. Flat 2D stick-figure cartoon, deep navy background, @avatar reaching one hand out into the surrounding blackness with fingers open and finding no substance, the dark pressing in at the frame edges, bold black outlines flat color fills no gradients no textures
+
+5. Flat 2D stick-figure cartoon, deep navy background, a flat sun and light-bulb icon switching off with its amber light collapsing inward to a single vanishing point leaving flat black, darkness defined as pure absence of light, bold black outlines flat color fills no gradients no textures
+
+6. Flat 2D stick-figure cartoon, deep navy background, close on @avatar's chest with a faint amber-red tightening glow at the center of the chest, the figure partly in shadow, the first physical signal of fear, bold black outlines flat color fills no gradients no textures
+
+7. Flat 2D stick-figure cartoon, deep navy background, @avatar with the surrounding room swept into total black, only the white outline of @avatar remaining visible as the light leaves, bold black outlines flat color fills no gradients no textures
+
+8. Flat 2D stick-figure cartoon, deep navy background, @avatar with one hand near a flat wall light-switch shape but frozen and unable to fully calm down, a small faint amber unease-glow in the chest, something not switching off, dark room, bold black outlines flat color fills no gradients no textures
+
+9. Flat 2D stick-figure cartoon, deep navy background, @avatar at center with a flat label THE TRUTH appearing above the figure, the frame clean and direct as the core thesis arrives, bold black outlines flat color fills no gradients no textures
+
+10. Flat 2D stick-figure cartoon, deep navy background, @avatar's round head shown with a @brain visible inside it, the two eye-shapes going dark and blank as vision cuts out while the brain lights up with an alarm glow at the loss of input, brain glow the only light, bold black outlines flat color fills no gradients no textures
+
+11. Flat 2D stick-figure cartoon, deep navy background, @avatar with a flat dark blindfold band across the eyes while the rest of the frame stays normal, the dark reframed as a blindfold rather than a monster, bold black outlines flat color fills no gradients no textures
+
+12. Flat 2D stick-figure cartoon, deep navy background, a @brain with a black empty rectangular hole torn at its center, the brain outline straining and cracking at the edges as it refuses to accept the empty space, bold black outlines flat color fills no gradients no textures
+
+13. Flat 2D stick-figure cartoon, deep navy background, a @brain with the black empty hole at its center being flooded with faint imagined dark shapes, a predator silhouette and claws and eyes bleeding into the hole as the brain fills the void with a threat, bold black outlines flat color fills no gradients no textures
+
+14. Flat 2D stick-figure cartoon, deep navy background, a flat horizontal timeline stretching back labeled 2 MILLION YEARS with the same small amber fear-glow echoing at every point along it, deep-time visualization, bold black outlines flat color fills no gradients no textures
+
+15. Flat 2D stick-figure cartoon, deep navy background, @avatar tilting the head with a flat glowing question mark drifting up beside them, considering how strange the fear is, bold black outlines flat color fills no gradients no textures
+
+16. Flat 2D stick-figure cartoon, deep navy background, the word HARMLESS in large flat white letters at center with darkness swirling harmlessly around it unable to affect the word, bold black outlines flat color fills no gradients no textures
+
+17. Flat 2D stick-figure cartoon, deep navy background, two flat icons each marked with a red X, a knife or blade shape and a poison-drop shape, showing darkness can neither cut nor poison, bold black outlines flat color fills no gradients no textures
+
+18. Flat 2D stick-figure cartoon, deep navy background, @avatar stepping mid-stride through a flat doorway shape into a dark room beyond, bold black outlines flat color fills no gradients no textures
+
+19. Flat 2D stick-figure cartoon, deep navy background, the same simple room shown twice side by side, once in amber light with furniture and walls clearly visible and once in dark with the identical layout merely unconfirmed, nothing has actually moved, bold black outlines flat color fills no gradients no textures
+
+20. Flat 2D stick-figure cartoon, deep navy background, @avatar alone in a dark room with a flat glowing arrow pointing back at the figure and the label YOU, the only thing that changed, everything else dimmed, bold black outlines flat color fills no gradients no textures
+
+21. Flat 2D stick-figure cartoon, deep navy background, a flat bold STOP label with a small pause icon at center, flagging an important point, minimal, bold black outlines flat color fills no gradients no textures
+
+22. Flat 2D stick-figure cartoon, deep navy background, a simplified flat world map with small amber fear-glow dots appearing on every continent at once showing the fear is universal, bold black outlines flat color fills no gradients no textures
+
+23. Flat 2D stick-figure cartoon, deep navy background, a single very small newborn-sized @child figure with the amber fear-glow already present and no teacher figure anywhere near, the fear arriving built-in, bold black outlines flat color fills no gradients no textures
+
+24. Flat 2D stick-figure cartoon, deep navy background, an adult @avatar crouched beside a @child with hands open in a no-explanation-needed gesture while the child is already wide-eyed staring at the dark, dim room, bold black outlines flat color fills no gradients no textures
+
+25. Flat 2D stick-figure cartoon, deep navy background, a @child staring tense into a dark open doorway or closet, already knowing fear before any words exist for it, child's room, bold black outlines flat color fills no gradients no textures
+
+26. Flat 2D stick-figure cartoon, deep navy background, many small @child silhouettes spread across the frame each with the same amber fear-glow showing total consistency across every human, bold black outlines flat color fills no gradients no textures
+
+27. Flat 2D stick-figure cartoon, deep navy background, the word LEARNED crossed out and replaced by the bold flat word INSTALLED with a small circuit and wiring motif behind it suggesting built-in hardware, bold black outlines flat color fills no gradients no textures
+
+28. Flat 2D stick-figure cartoon, deep navy background, a @brain shown whole and active with faint pulses moving through it, introduced as the engine of all this, bold black outlines flat color fills no gradients no textures
+
+29. Flat 2D stick-figure cartoon, deep navy background, @avatar awake with eyes open and faint data-lines streaming into the head from the surroundings showing the brain always working, bold black outlines flat color fills no gradients no textures
+
+30. Flat 2D stick-figure cartoon, deep navy background, a @brain with a flat label PREDICTION MACHINE and gears and forward-pointing prediction arrows radiating out from it, bold black outlines flat color fills no gradients no textures
+
+31. Flat 2D stick-figure cartoon, deep navy background, a @brain building a flat wireframe model of a simple room around itself, assembling the world from data, bold black outlines flat color fills no gradients no textures
+
+32. Flat 2D stick-figure cartoon, deep navy background, a flat wireframe model at center with three flat labels orbiting it reading WHAT'S THERE and WHAT'S COMING and WHAT'S SAFE, bold black outlines flat color fills no gradients no textures
+
+33. Flat 2D stick-figure cartoon, deep navy background, a flat fuel-pipe labeled INFORMATION feeding into a @brain that glows brighter as it fills, information shown as fuel, bold black outlines flat color fills no gradients no textures
+
+34. Flat 2D stick-figure cartoon, warm amber daylit scene fully detailed with objects movement lines and shadows all visible and accounted for, drifting dust motes in the light, abundance and safety, bold black outlines flat color fills no gradients no textures
+
+35. Flat 2D stick-figure cartoon, amber daylit scene where each object is tagged with a small flat green check-mark and a HARMLESS label as the brain files everything as safe, bold black outlines flat color fills no gradients no textures
+
+36. Flat 2D stick-figure cartoon, deep navy background, a previously detailed amber scene collapsing to flat black as the light cuts out and all the check-marks vanish, the flood of data stopping, bold black outlines flat color fills no gradients no textures
+
+37. Flat 2D stick-figure cartoon, deep navy background, a @brain whose wireframe world-model now has a ragged black hole torn through its center where the data used to be, bold black outlines flat color fills no gradients no textures
+
+38. Flat 2D stick-figure cartoon, deep navy background, a @brain with the black hole in its model pulsing while data-streams reach the edge of the hole and find nothing to fill it, bold black outlines flat color fills no gradients no textures
+
+39. Flat 2D stick-figure cartoon, deep navy background, the black hole in a @brain labeled INTOLERABLE with the brain outline stressed and vibrating around it, bold black outlines flat color fills no gradients no textures
+
+40. Flat 2D stick-figure cartoon, deep navy background, an empty black space with the flat thought NOTHING IS THERE crossed out, rejecting the comforting interpretation, bold black outlines flat color fills no gradients no textures
+
+41. Flat 2D stick-figure cartoon, deep navy background, the same black space now labeled SOMETHING IS THERE AND I CAN'T SEE IT with two faint predator eye-shapes hinted deep in the black, bold black outlines flat color fills no gradients no textures
+
+42. Flat 2D stick-figure cartoon, deep navy background, a @brain making a deliberate choice shown as a flat forking branch icon, selecting the worst path, bold black outlines flat color fills no gradients no textures
+
+43. Flat 2D stick-figure cartoon, deep navy background, a @predator silhouette materializing out of a black hole with claws and a low crouched form, just enough to read as danger, the monster the brain built, bold black outlines flat color fills no gradients no textures
+
+44. Flat 2D stick-figure cartoon, deep navy background, a featureless human-intruder silhouette shape standing in a dark doorway, threatening and without detail, bold black outlines flat color fills no gradients no textures
+
+45. Flat 2D stick-figure cartoon, deep navy background, a dark amorphous shape crouched at the foot and edge of a simple flat bed shape, the classic childhood terror, dark bedroom, bold black outlines flat color fills no gradients no textures
+
+46. Flat 2D stick-figure cartoon, deep navy background, @avatar with arms slightly raised in a wait-hear-me-out gesture and a flat label THE MATH appearing, defending the fear as rational, bold black outlines flat color fills no gradients no textures
+
+47. Flat 2D stick-figure cartoon, deep navy background, an @ancestor sitting by an amber fire at night with the head turned toward a dark bush that has a small motion-line indicating a rustle, flickering firelight, dark wilderness edge, bold black outlines flat color fills no gradients no textures
+
+48. Flat 2D stick-figure cartoon, deep navy background, an @ancestor relaxing by the fire with a small thought-bubble of harmless wind and leaves, assuming it was nothing and being right, amber firelight, bold black outlines flat color fills no gradients no textures
+
+49. Flat 2D stick-figure cartoon, deep navy background, an @ancestor by the fire in the same relaxed assumption while two faint @predator eyes open in the dark bush behind them, prehistoric night, bold black outlines flat color fills no gradients no textures
+
+50. Flat 2D stick-figure cartoon, deep navy background, a @predator silhouette lunging from the dark with a strike-motion line while an @ancestor figure is caught, rendered as flat shapes and motion not gore, prehistoric night, bold black outlines flat color fills no gradients no textures
+
+51. Flat 2D stick-figure cartoon, deep navy background, a flat lineage and family-tree diagram with one branch abruptly ending in a clean cut, removed from the gene pool, bold black outlines flat color fills no gradients no textures
+
+52. Flat 2D stick-figure cartoon, deep navy background, an @ancestor flinching hard at a rustle and bracing for a predator that turns out to be only wind, looking mildly foolish but alive, amber firelight, bold black outlines flat color fills no gradients no textures
+
+53. Flat 2D stick-figure cartoon, deep navy background, an older @ancestor surrounded by several offspring figures around a larger amber fire, having survived to be wrong many times with the lineage thriving, bold black outlines flat color fills no gradients no textures
+
+54. Flat 2D stick-figure cartoon, deep navy background, a @brain labeled THE PARANOID ONE glowing, marked as the survivor model that became ours, bold black outlines flat color fills no gradients no textures
+
+55. Flat 2D stick-figure cartoon, deep navy background, a @brain projecting small monster silhouettes outward into the surrounding dark, actively populating the dark with threats, bold black outlines flat color fills no gradients no textures
+
+56. Flat 2D stick-figure cartoon, deep navy background, a long row of @ancestor figures receding into depth each one alert and scanning the dark, a lineage of vigilance shown in perspective, bold black outlines flat color fills no gradients no textures
+
+57. Flat 2D stick-figure cartoon, deep navy background, the phrase AFRAID OF NOTHING in flat letters with the word NOTHING glowing, the irony that fear of the empty dark kept them alive, bold black outlines flat color fills no gradients no textures
+
+58. Flat 2D stick-figure cartoon, deep navy background, a flat label STRANGEST PART AHEAD with a forward arrow, a curiosity-gap teaser pulling the viewer onward, bold black outlines flat color fills no gradients no textures
+
+59. Flat 2D stick-figure cartoon, deep navy background, @avatar standing tense beside a few calm animal silhouettes such as an owl and a cat that are at ease in the dark, humans uniquely bad at this, bold black outlines flat color fills no gradients no textures
+
+60. Flat 2D stick-figure cartoon, deep navy background, extreme close on @avatar's two dot-eyes with a flat label THE ANSWER pointing to them, bold black outlines flat color fills no gradients no textures
+
+61. Flat 2D stick-figure cartoon, warm amber daylight, @avatar standing fully confident and capable built for the sun, drifting dust motes in the light, bold black outlines flat color fills no gradients no textures
+
+62. Flat 2D stick-figure cartoon, amber light, close on @avatar's eye with rich amber detail-rays labeled color depth and fine detail, vision at its peak in light, bold black outlines flat color fills no gradients no textures
+
+63. Flat 2D stick-figure cartoon, deep navy background, the same @avatar eye as the amber drains away to flat grey with the detail-rays gone, vision near-useless without light, bold black outlines flat color fills no gradients no textures
+
+64. Flat 2D stick-figure cartoon, deep navy background, @avatar squinting blindly in the dark while faint @predator eyes watch easily nearby, they see and we do not, bold black outlines flat color fills no gradients no textures
+
+65. Flat 2D stick-figure cartoon, deep navy background, two flat crossed-out icons of an ear and a nose showing humans never gained sharp night hearing or smell, bold black outlines flat color fills no gradients no textures
+
+66. Flat 2D stick-figure cartoon, dusk landscape with a flat sun sinking below a horizon line and the land darkening with long stretching shadows, the vulnerable hour arriving, bold black outlines flat color fills no gradients no textures
+
+67. Flat 2D stick-figure cartoon, deep navy background, @avatar with a vision-cone snapping shut to black and the flat word VANISHED, total loss of sight, bold black outlines flat color fills no gradients no textures
+
+68. Flat 2D stick-figure cartoon, dark wilderness, many pairs of @predator eyes opening across the landscape at once as the night wakes up, bold black outlines flat color fills no gradients no textures
+
+69. Flat 2D stick-figure cartoon, dark wilderness, a single @predator leopard silhouette prowling low and tuned to the dark, bold black outlines flat color fills no gradients no textures
+
+70. Flat 2D stick-figure cartoon, dark wilderness, three @predator silhouettes in a row, a lion a hyena and a coiled snake, each a flat distinct shape, the roster of night hunters, bold black outlines flat color fills no gradients no textures
+
+71. Flat 2D stick-figure cartoon, dark background, close on a single @predator eye glowing, a body built for the exact dark we fail in, bold black outlines flat color fills no gradients no textures
+
+72. Flat 2D stick-figure cartoon, deep navy background, a small huddle of @ancestor figures at an amber fire ringed by darkness with @predator eyes all around, not the top of the food chain, bold black outlines flat color fills no gradients no textures
+
+73. Flat 2D stick-figure cartoon, deep navy background, a huddle of @ancestor figures with the bold label PREY stamped over them, slow soft and night-blind, prehistoric night, bold black outlines flat color fills no gradients no textures
+
+74. Flat 2D stick-figure cartoon, deep navy background, a flat label THE BONES PROVE IT with a bone and fossil icon, evidence incoming, bold black outlines flat color fills no gradients no textures
+
+75. Flat 2D stick-figure cartoon, deep navy background, a cross-section of a big-cat den or cave with small hominid bone shapes inside among the predator's lair, dark, bold black outlines flat color fills no gradients no textures
+
+76. Flat 2D stick-figure cartoon, dark cave mouth at night, a flat @predator silhouette dragging a small hominid shape into the dark cave, implied not graphic, bold black outlines flat color fills no gradients no textures
+
+77. Flat 2D stick-figure cartoon, prehistoric night, several @ancestor figures watching from a distance with grave faces, this fear was earned not invented, bold black outlines flat color fills no gradients no textures
+
+78. Flat 2D stick-figure cartoon, deep navy background, a flat tally of accumulating body-count marks beside a night and moon icon, the night literally had a death toll, bold black outlines flat color fills no gradients no textures
+
+79. Flat 2D stick-figure cartoon, deep navy background, an evolution diagram with an arrow wiring the trigger directly to a moon icon representing DARKNESS itself rather than to the predator, with a leopard shape crossed out as too-late-to-see, bold black outlines flat color fills no gradients no textures
+
+80. Flat 2D stick-figure cartoon, dark background, a @predator leopard almost invisible in the black revealed only at the last instant, too late to react if you waited to see it, bold black outlines flat color fills no gradients no textures
+
+81. Flat 2D stick-figure cartoon, dusk-to-dark setting, an @ancestor bracing and tensing the moment darkness falls before any threat appears, fearing the condition itself, bold black outlines flat color fills no gradients no textures
+
+82. Flat 2D stick-figure cartoon, deep navy background, the ancient wiring shown still glowing inside a modern @avatar's head with the flat label STILL RUNNING, the past alive in the present, bold black outlines flat color fills no gradients no textures
+
+83. Flat 2D stick-figure cartoon, clean clinical lab in low light, a person wired to a flat brain-monitor while a researcher figure observes, shift from ancient to modern science, bold black outlines flat color fills no gradients no textures
+
+84. Flat 2D stick-figure cartoon, clinical navy setting, a @brain cross-section with the amygdala region lighting up bright and labeled THE ALARM CENTER, bold black outlines flat color fills no gradients no textures
+
+85. Flat 2D stick-figure cartoon, low light, @avatar mid-startle with the body jolting and a flat STARTLE motion-burst around them, the sharpened startle reflex, bold black outlines flat color fills no gradients no textures
+
+86. Flat 2D stick-figure cartoon, clinical navy setting, an ambiguous flat blob shape on a card that is genuinely unreadable and could be harmless or a threat, the test stimulus, bold black outlines flat color fills no gradients no textures
+
+87. Flat 2D stick-figure cartoon, dark setting, the same ambiguous blob shape now reading clearly as a menacing form because the dark biased the read toward danger, bold black outlines flat color fills no gradients no textures
+
+88. Flat 2D stick-figure cartoon, split light and dark frame, two identical shapes side by side labeled SAME SHAPE and SAME PERSON with only the light-versus-dark difference between the panels, bold black outlines flat color fills no gradients no textures
+
+89. Flat 2D stick-figure cartoon, deep navy background, @avatar with the @brain visible and a flat label MEASURABLE SHIFT, the nervous-system diagram stepping down into a red survival-mode state, bold black outlines flat color fills no gradients no textures
+
+90. Flat 2D stick-figure cartoon, dark hallway, @avatar alert with a survival-mode red tint on the body as the corridor stretches into black, the everyday version everyone knows, bold black outlines flat color fills no gradients no textures
+
+91. Flat 2D stick-figure cartoon, deep navy background, the flat label NOT WEAKNESS over an alert @avatar with a @brain beside it marked DOING ITS JOB, reframing the fear as competence, bold black outlines flat color fills no gradients no textures
+
+92. Flat 2D stick-figure cartoon, deep navy background, a flat label THE EMBARRASSING PART with a small downward arrow, setting up the childhood turn, bold black outlines flat color fills no gradients no textures
+
+93. Flat 2D stick-figure cartoon, child's dark bedroom, a @child sitting up in bed with eyes wide at the dark room and a strong amber fear-glow, peak childhood fear, bold black outlines flat color fills no gradients no textures
+
+94. Flat 2D stick-figure cartoon, deep navy background into a prehistoric night, the flat question WHO DIED IN THE NIGHT hanging over a dim ancestral scene, reframing the childhood fear as adaptive, bold black outlines flat color fills no gradients no textures
+
+95. Flat 2D stick-figure cartoon, prehistoric night with a fire's amber ring, a small ancestral @child a few steps from the firelight edging toward the dark as the most vulnerable one, bold black outlines flat color fills no gradients no textures
+
+96. Flat 2D stick-figure cartoon, edge of firelight, a small ancestral @child just outside the amber ring with dark all around and faint @predator eyes in the black, the single most dangerous place, bold black outlines flat color fills no gradients no textures
+
+97. Flat 2D stick-figure cartoon, deep navy background, a flat volume and intensity meter beside a small @child figure with the fear-signal cranked to maximum because the body is smallest, bold black outlines flat color fills no gradients no textures
+
+98. Flat 2D stick-figure cartoon, modern child's bedroom, a @child with a glowing nightlight whose small amber circle holds back the dark of the room, the modern symptom of the ancient system, bold black outlines flat color fills no gradients no textures
+
+99. Flat 2D stick-figure cartoon, modern bedroom, a @child peering into a checked closet on one side and a blanket pulled up to the eyes on the other, the rituals of the bedtime fear, bold black outlines flat color fills no gradients no textures
+
+100. Flat 2D stick-figure cartoon, modern bedroom with an ancient schematic overlay, a small @child with a flat schematic of a two-million-year-old PROTECTION SYSTEM overlaid on the figure firing at full strength, not silliness but deep machinery, bold black outlines flat color fills no gradients no textures
+
+101. Flat 2D stick-figure cartoon, safe modern home interior, the same @child shown perfectly safe with a locked house and parents near while the protection system still fires at full strength, a safe child and an ancient alarm, bold black outlines flat color fills no gradients no textures
+
+102. Flat 2D stick-figure cartoon, deep navy background, a @brain shown unable to read a SAFE versus DANGER switch because it has no such dial only an ON state, the system can't tell the difference, bold black outlines flat color fills no gradients no textures
+
+103. Flat 2D stick-figure cartoon, deep navy background, a flat ledger with thousands of small FALSE ALARM marks beside a single TRUE alarm circled, wrong ten thousand times to be right once, bold black outlines flat color fills no gradients no textures
+
+104. Flat 2D stick-figure cartoon, time-progression from dark to lit, a sequence of light sources igniting in order, a fire then a candle then an electric bulb, humans pushing back the dark over time, bold black outlines flat color fills no gradients no textures
+
+105. Flat 2D stick-figure cartoon, bright modern night interior with artificial light everywhere, a @modern figure still carrying a faint amber fear-glow in the chest, light won but the fear stayed, bold black outlines flat color fills no gradients no textures
+
+106. Flat 2D stick-figure cartoon, deep navy background, a flat scale tipped fully to a @predator's side with the human side empty, total disadvantage in the condition of dark, bold black outlines flat color fills no gradients no textures
+
+107. Flat 2D stick-figure cartoon, dark room, @avatar standing oblivious while a featureless @predator shape stands perfectly still just a few feet away unnoticed, the unseen threat at arm's length, bold black outlines flat color fills no gradients no textures
+
+108. Flat 2D stick-figure cartoon, deep navy background, a @brain bracing against the dark with the flat label NOT THE DARK THE THING IT COULD BE HIDING, the thesis restated at full clarity, bold black outlines flat color fills no gradients no textures
+
+109. Flat 2D stick-figure cartoon, deep navy background, the word INHERITANCE with a flat lineage line of @ancestor figures feeding forward into a single modern figure, the fear handed down rather than a defect, bold black outlines flat color fills no gradients no textures
+
+110. Flat 2D stick-figure cartoon, prehistoric night, several alert @ancestor figures who survived by assuming the worst, scanning and alive and glowing faintly as the line that continued, bold black outlines flat color fills no gradients no textures
+
+111. Flat 2D stick-figure cartoon, edge of a dark wilderness, a calm unafraid @ancestor walking out into the black and dissolving into the dark, the brave one who did not come back, bold black outlines flat color fills no gradients no textures
+
+112. Flat 2D stick-figure cartoon, deep navy background, a single modern @avatar standing in the present and faintly glowing as the end-point of the frightened survivors, bold black outlines flat color fills no gradients no textures
+
+113. Flat 2D stick-figure cartoon, ordinary room at night, a @modern figure reaching toward a flat wall light-switch shape before the room goes dark with the hand hovering, the universal small ritual, bold black outlines flat color fills no gradients no textures
+
+114. Flat 2D stick-figure cartoon, dim room with a dark corner behind, a @modern figure hesitating to turn their back on the dark part of the room, a quiet part resisting, bold black outlines flat color fills no gradients no textures
+
+115. Flat 2D stick-figure cartoon, deep navy background, final frame of @avatar standing steady facing the dark with a faint protective glow around the body holding the dark at bay, clean and resonant minimal composition with space for end-screen cards, bold black outlines flat color fills no gradients no textures
