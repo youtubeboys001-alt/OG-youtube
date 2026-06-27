@@ -1,254 +1,256 @@
-# VIDEO 5 – AUTO FLOW PACKET (State 13)
+# VIDEO 5 – AUTO FLOW PACKET (State 13) — CINEMATIC PALETTE
 # Title: "The Dark Isn't What You're Afraid Of"
 # Runtime: 8:00 (480 seconds) | Total Prompts: 115 | Pacing: ~4.2s per image (motion baked in per beat)
-# Visual Style: Flat 2D stick-figure cartoon, deep navy background, bold black outlines flat color fills no gradients no textures
+# Visual Style: Moody atmospheric 2D illustration. Deep dark teal-green and olive palette, layered silhouette depth,
+#   soft warm pale light-pool spotlighting the subject in muted earth tones, cinematic vignette, soft glowing eyes,
+#   faint pairs of glowing eyes hidden in the surrounding shadows. Characters kept as the established stick-figure forms.
 
 ---
 
 # CHARACTER PROMPTS
 
-@avatar = Viewer-narrator proxy, simple white-outlined stick figure standing upright with a faint inner glow, round head with dot eyes, represents the viewer, consistent across all videos, do not alter the white-outline appearance
+@avatar = Viewer-narrator proxy, simple stick figure standing upright with a soft warm rim-light glow, round head with dot eyes, lit in muted earth tones, represents the viewer, consistent across all videos
 
-@ancestor = Prehistoric human, rough earth-tone tunic reaching the knees, dark jagged flat hair shape on round head, bare feet, simple dot eyes, usually near amber firelight
+@ancestor = Prehistoric human, rough earth-tone tunic reaching the knees, dark jagged flat hair shape on round head, bare feet, simple dot eyes, warmly lit by nearby firelight against teal-green shadow
 
-@child = Small short stick figure child, round head with large dot eyes, often in or beside a simple flat bed shape, smaller than @avatar
+@child = Small short stick figure child, round head with large dot eyes, often in or beside a simple flat bed shape, softly lit in muted warm tones, smaller than @avatar
 
-@predator = Predator presence in the dark, low crouched big-cat or hyena silhouette or coiled snake shape, often shown only as two flat glowing eye-shapes floating in blackness, pure menace, no detail
+@predator = Predator presence in the dark, low crouched big-cat or hyena silhouette or coiled snake shape, often shown only as two soft glowing eye-shapes floating in the teal-green blackness, pure menace, no detail
 
-@brain = Simplified flat brain cross-section diagram, amygdala region highlightable in a separate flat color, neural pulse lines, clinical flat style
+@brain = Simplified 2D brain cross-section diagram, amygdala region highlightable in a separate muted color, neural pulse lines, lit by a soft light-pool against dark teal depth
 
-@modern = Contemporary adult stick figure in a plain room, round head dot eyes, often reaching toward a flat wall light-switch shape
+@modern = Contemporary adult stick figure in a plain room, round head dot eyes, softly lit in muted earth tones, often reaching toward a wall light-switch shape
 
 ---
 
 # IMAGE PROMPTS
 
-1. Flat 2D stick-figure cartoon, deep navy background, @avatar standing alone and calm facing the viewer in an almost empty frame with a faint white glow around the body, the only figure in a vast flat dark void with no walls and no floor line, bold black outlines flat color fills no gradients no textures
+1. Moody atmospheric 2D illustration, deep dark teal-green and olive palette with layered silhouette depth, @avatar standing alone and calm centered in a vast dark void with a soft warm light-pool from above spotlighting the figure in muted earth tones, faint pairs of glowing eyes hidden in the surrounding shadows, cinematic vignette, atmospheric depth and soft gradient lighting
 
-2. Flat 2D stick-figure cartoon, deep navy background, the word DARKNESS in flat white block letters at center with a flat red strike-line drawn through a small wound or cut icon beside it showing darkness as harmless, minimal, bold black outlines flat color fills no gradients no textures
+2. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the word DARKNESS in soft glowing letters centered under a warm light-pool with a faint red strike-line through a small wound icon beside it showing darkness as harmless, layered shadow depth, cinematic vignette, atmospheric depth and soft gradient lighting
 
-3. Flat 2D stick-figure cartoon, deep navy background, three flat icons in a horizontal row each marked with a red X, a weighing scale shape, a thermometer shape, and a reaching hand shape, showing darkness has no weight no temperature and cannot touch, bold black outlines flat color fills no gradients no textures
+3. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, three icons stacked under a soft warm light-pool each marked with a faint red X, a weighing scale shape a thermometer shape and a reaching hand shape, darkness has no weight no temperature and cannot touch, layered shadow depth, cinematic vignette, atmospheric depth and soft gradient lighting
 
-4. Flat 2D stick-figure cartoon, deep navy background, @avatar reaching one hand out into the surrounding blackness with fingers open and finding no substance, the dark pressing in at the frame edges, bold black outlines flat color fills no gradients no textures
+4. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a warm glowing light-bulb and sun icon switching off with its light collapsing inward to a vanishing point leaving teal-black, darkness as pure absence of light, cinematic vignette, atmospheric depth and soft gradient lighting
 
-5. Flat 2D stick-figure cartoon, deep navy background, a flat sun and light-bulb icon switching off with its amber light collapsing inward to a single vanishing point leaving flat black, darkness defined as pure absence of light, bold black outlines flat color fills no gradients no textures
+5. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, centered close on @avatar's chest with a soft warm amber tightening glow at the center forming a small light-pool, the figure half in teal shadow, the first physical signal of fear, cinematic vignette, atmospheric depth and soft gradient lighting
 
-6. Flat 2D stick-figure cartoon, deep navy background, close on @avatar's chest with a faint amber-red tightening glow at the center of the chest, the figure partly in shadow, the first physical signal of fear, bold black outlines flat color fills no gradients no textures
+6. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar centered under a soft warm light-pool with a glowing label THE TRUTH above the figure, layered shadow depth around, cinematic vignette, atmospheric depth and soft gradient lighting
 
-7. Flat 2D stick-figure cartoon, deep navy background, @avatar with the surrounding room swept into total black, only the white outline of @avatar remaining visible as the light leaves, bold black outlines flat color fills no gradients no textures
+7. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar's round head shown with a @brain visible inside it lit by a soft light-pool, the two eye-shapes going dark as vision cuts out while the brain glows with an alarm light at the loss of input, cinematic vignette, atmospheric depth and soft gradient lighting
 
-8. Flat 2D stick-figure cartoon, deep navy background, @avatar with one hand near a flat wall light-switch shape but frozen and unable to fully calm down, a small faint amber unease-glow in the chest, something not switching off, dark room, bold black outlines flat color fills no gradients no textures
+8. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar centered under a soft warm light-pool with a dark blindfold band across the eyes while the rest stays lit, the dark reframed as a blindfold, faint glowing eyes in the surrounding shadows, cinematic vignette, atmospheric depth and soft gradient lighting
 
-9. Flat 2D stick-figure cartoon, deep navy background, @avatar at center with a flat label THE TRUTH appearing above the figure, the frame clean and direct as the core thesis arrives, bold black outlines flat color fills no gradients no textures
+9. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain centered under a soft light-pool with a dark empty hole torn at its center, the brain outline straining and cracking at the edges refusing the empty space, cinematic vignette, atmospheric depth and soft gradient lighting
 
-10. Flat 2D stick-figure cartoon, deep navy background, @avatar's round head shown with a @brain visible inside it, the two eye-shapes going dark and blank as vision cuts out while the brain lights up with an alarm glow at the loss of input, brain glow the only light, bold black outlines flat color fills no gradients no textures
+10. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain centered with its dark hole flooded by faint imagined shapes, a predator silhouette and claws and soft glowing eyes bleeding into the hole as the brain fills the void with a threat, cinematic vignette, atmospheric depth and soft gradient lighting
 
-11. Flat 2D stick-figure cartoon, deep navy background, @avatar with a flat dark blindfold band across the eyes while the rest of the frame stays normal, the dark reframed as a blindfold rather than a monster, bold black outlines flat color fills no gradients no textures
+11. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a horizontal timeline receding into shadow labeled 2 MILLION YEARS with the same small warm fear-glow echoing at every point along it, layered depth, cinematic vignette, atmospheric depth and soft gradient lighting
 
-12. Flat 2D stick-figure cartoon, deep navy background, a @brain with a black empty rectangular hole torn at its center, the brain outline straining and cracking at the edges as it refuses to accept the empty space, bold black outlines flat color fills no gradients no textures
+12. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar tilting the head under a soft light-pool with a softly glowing question mark drifting up beside them, considering how strange the fear is, cinematic vignette, atmospheric depth and soft gradient lighting
 
-13. Flat 2D stick-figure cartoon, deep navy background, a @brain with the black empty hole at its center being flooded with faint imagined dark shapes, a predator silhouette and claws and eyes bleeding into the hole as the brain fills the void with a threat, bold black outlines flat color fills no gradients no textures
+13. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the word HARMLESS in soft glowing letters at center under a warm light-pool with teal darkness swirling harmlessly around it unable to affect the word, cinematic vignette, atmospheric depth and soft gradient lighting
 
-14. Flat 2D stick-figure cartoon, deep navy background, a flat horizontal timeline stretching back labeled 2 MILLION YEARS with the same small amber fear-glow echoing at every point along it, deep-time visualization, bold black outlines flat color fills no gradients no textures
+14. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, two icons under a soft light-pool each marked with a faint red X, a knife or blade shape and a poison-drop shape, darkness can neither cut nor poison, cinematic vignette, atmospheric depth and soft gradient lighting
 
-15. Flat 2D stick-figure cartoon, deep navy background, @avatar tilting the head with a flat glowing question mark drifting up beside them, considering how strange the fear is, bold black outlines flat color fills no gradients no textures
+15. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar stepping mid-stride through a doorway shape into a dark room beyond where faint glowing eyes wait in the shadow, a warm light-pool behind them, cinematic vignette, atmospheric depth and soft gradient lighting
 
-16. Flat 2D stick-figure cartoon, deep navy background, the word HARMLESS in large flat white letters at center with darkness swirling harmlessly around it unable to affect the word, bold black outlines flat color fills no gradients no textures
+16. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the same room shown twice side by side, once warmly lit with furniture and walls visible and once in teal-dark with the identical layout merely unconfirmed, nothing has actually moved, cinematic vignette, atmospheric depth and soft gradient lighting
 
-17. Flat 2D stick-figure cartoon, deep navy background, two flat icons each marked with a red X, a knife or blade shape and a poison-drop shape, showing darkness can neither cut nor poison, bold black outlines flat color fills no gradients no textures
+17. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar alone in a dark room under a fading light-pool with a softly glowing arrow pointing back at the figure and the label YOU, the only thing that changed, cinematic vignette, atmospheric depth and soft gradient lighting
 
-18. Flat 2D stick-figure cartoon, deep navy background, @avatar stepping mid-stride through a flat doorway shape into a dark room beyond, bold black outlines flat color fills no gradients no textures
+18. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing STOP label with a pause icon centered under a warm light-pool flagging an important point, layered shadow depth, cinematic vignette, atmospheric depth and soft gradient lighting
 
-19. Flat 2D stick-figure cartoon, deep navy background, the same simple room shown twice side by side, once in amber light with furniture and walls clearly visible and once in dark with the identical layout merely unconfirmed, nothing has actually moved, bold black outlines flat color fills no gradients no textures
+19. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a simplified world map under a soft light-pool with small warm fear-glow dots appearing on every continent at once showing the fear is universal, cinematic vignette, atmospheric depth and soft gradient lighting
 
-20. Flat 2D stick-figure cartoon, deep navy background, @avatar alone in a dark room with a flat glowing arrow pointing back at the figure and the label YOU, the only thing that changed, everything else dimmed, bold black outlines flat color fills no gradients no textures
+20. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a single very small @child figure under a soft warm light-pool with a faint fear-glow already present and no teacher figure near, the fear arriving built-in, faint glowing eyes in the surrounding shadows, cinematic vignette, atmospheric depth and soft gradient lighting
 
-21. Flat 2D stick-figure cartoon, deep navy background, a flat bold STOP label with a small pause icon at center, flagging an important point, minimal, bold black outlines flat color fills no gradients no textures
+21. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an adult @avatar crouched beside a @child under a soft light-pool with hands open in a no-explanation-needed gesture while the child stares wide-eyed at the dark, cinematic vignette, atmospheric depth and soft gradient lighting
 
-22. Flat 2D stick-figure cartoon, deep navy background, a simplified flat world map with small amber fear-glow dots appearing on every continent at once showing the fear is universal, bold black outlines flat color fills no gradients no textures
+22. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @child staring tense into a dark open doorway lit only at the edges, already knowing fear before any words exist, faint glowing eyes deep in the doorway shadow, cinematic vignette, atmospheric depth and soft gradient lighting
 
-23. Flat 2D stick-figure cartoon, deep navy background, a single very small newborn-sized @child figure with the amber fear-glow already present and no teacher figure anywhere near, the fear arriving built-in, bold black outlines flat color fills no gradients no textures
+23. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, many small @child silhouettes across the frame each touched by a small warm fear-glow showing total consistency across every human, layered depth, cinematic vignette, atmospheric depth and soft gradient lighting
 
-24. Flat 2D stick-figure cartoon, deep navy background, an adult @avatar crouched beside a @child with hands open in a no-explanation-needed gesture while the child is already wide-eyed staring at the dark, dim room, bold black outlines flat color fills no gradients no textures
+24. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the word LEARNED crossed out and replaced by the glowing word INSTALLED under a soft light-pool with a faint circuit motif behind it suggesting built-in hardware, cinematic vignette, atmospheric depth and soft gradient lighting
 
-25. Flat 2D stick-figure cartoon, deep navy background, a @child staring tense into a dark open doorway or closet, already knowing fear before any words exist for it, child's room, bold black outlines flat color fills no gradients no textures
+25. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain shown whole and active under a soft light-pool with faint warm pulses moving through it, introduced as the engine of all this, cinematic vignette, atmospheric depth and soft gradient lighting
 
-26. Flat 2D stick-figure cartoon, deep navy background, many small @child silhouettes spread across the frame each with the same amber fear-glow showing total consistency across every human, bold black outlines flat color fills no gradients no textures
+26. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar awake under a soft light-pool with faint data-lines streaming into the head from the surrounding shadow showing the brain always working, cinematic vignette, atmospheric depth and soft gradient lighting
 
-27. Flat 2D stick-figure cartoon, deep navy background, the word LEARNED crossed out and replaced by the bold flat word INSTALLED with a small circuit and wiring motif behind it suggesting built-in hardware, bold black outlines flat color fills no gradients no textures
+27. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain centered under a warm light-pool with a glowing label PREDICTION MACHINE and forward-pointing prediction arrows radiating out from it, cinematic vignette, atmospheric depth and soft gradient lighting
 
-28. Flat 2D stick-figure cartoon, deep navy background, a @brain shown whole and active with faint pulses moving through it, introduced as the engine of all this, bold black outlines flat color fills no gradients no textures
+28. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain building a faint wireframe model of a simple room around itself under a soft light-pool, assembling the world from data, cinematic vignette, atmospheric depth and soft gradient lighting
 
-29. Flat 2D stick-figure cartoon, deep navy background, @avatar awake with eyes open and faint data-lines streaming into the head from the surroundings showing the brain always working, bold black outlines flat color fills no gradients no textures
+29. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a wireframe model at center under a light-pool with three glowing labels orbiting it reading WHAT'S THERE and WHAT'S COMING and WHAT'S SAFE, cinematic vignette, atmospheric depth and soft gradient lighting
 
-30. Flat 2D stick-figure cartoon, deep navy background, a @brain with a flat label PREDICTION MACHINE and gears and forward-pointing prediction arrows radiating out from it, bold black outlines flat color fills no gradients no textures
+30. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing fuel-pipe labeled INFORMATION feeding into a @brain that glows warmer as it fills, information shown as fuel, cinematic vignette, atmospheric depth and soft gradient lighting
 
-31. Flat 2D stick-figure cartoon, deep navy background, a @brain building a flat wireframe model of a simple room around itself, assembling the world from data, bold black outlines flat color fills no gradients no textures
+31. Moody atmospheric 2D illustration, warm-lit daytime scene in muted earth tones against soft teal-green edges, a fully detailed clearing with objects and shadows all visible and accounted for, drifting dust motes in the warm light, abundance and safety, cinematic vignette, atmospheric depth and soft gradient lighting
 
-32. Flat 2D stick-figure cartoon, deep navy background, a flat wireframe model at center with three flat labels orbiting it reading WHAT'S THERE and WHAT'S COMING and WHAT'S SAFE, bold black outlines flat color fills no gradients no textures
+32. Moody atmospheric 2D illustration, warm-lit daytime scene in muted earth tones, each object tagged with a soft glowing check-mark and a HARMLESS label as the brain files everything as safe, gentle teal shadows at the edges, cinematic vignette, atmospheric depth and soft gradient lighting
 
-33. Flat 2D stick-figure cartoon, deep navy background, a flat fuel-pipe labeled INFORMATION feeding into a @brain that glows brighter as it fills, information shown as fuel, bold black outlines flat color fills no gradients no textures
+33. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a previously warm detailed scene collapsing into teal-black as the light cuts out and all the check-marks vanish, the data flood stopping, cinematic vignette, atmospheric depth and soft gradient lighting
 
-34. Flat 2D stick-figure cartoon, warm amber daylit scene fully detailed with objects movement lines and shadows all visible and accounted for, drifting dust motes in the light, abundance and safety, bold black outlines flat color fills no gradients no textures
+34. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain under a fading light-pool whose wireframe model now has a ragged dark hole torn through its center where the data used to be, cinematic vignette, atmospheric depth and soft gradient lighting
 
-35. Flat 2D stick-figure cartoon, amber daylit scene where each object is tagged with a small flat green check-mark and a HARMLESS label as the brain files everything as safe, bold black outlines flat color fills no gradients no textures
+35. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain with the dark hole in its model pulsing while data-streams reach the edge and find nothing to fill it, faint glowing eyes hinted in the hole, cinematic vignette, atmospheric depth and soft gradient lighting
 
-36. Flat 2D stick-figure cartoon, deep navy background, a previously detailed amber scene collapsing to flat black as the light cuts out and all the check-marks vanish, the flood of data stopping, bold black outlines flat color fills no gradients no textures
+36. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the dark hole in a @brain labeled INTOLERABLE with the brain outline stressed and vibrating around it, cinematic vignette, atmospheric depth and soft gradient lighting
 
-37. Flat 2D stick-figure cartoon, deep navy background, a @brain whose wireframe world-model now has a ragged black hole torn through its center where the data used to be, bold black outlines flat color fills no gradients no textures
+37. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a centered dark empty space with the glowing thought NOTHING IS THERE crossed out, rejecting the comforting interpretation, cinematic vignette, atmospheric depth and soft gradient lighting
 
-38. Flat 2D stick-figure cartoon, deep navy background, a @brain with the black hole in its model pulsing while data-streams reach the edge of the hole and find nothing to fill it, bold black outlines flat color fills no gradients no textures
+38. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the same dark space labeled SOMETHING IS THERE AND I CAN'T SEE IT with two soft glowing predator eyes hinted deep in the teal black, cinematic vignette, atmospheric depth and soft gradient lighting
 
-39. Flat 2D stick-figure cartoon, deep navy background, the black hole in a @brain labeled INTOLERABLE with the brain outline stressed and vibrating around it, bold black outlines flat color fills no gradients no textures
+39. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain under a light-pool making a deliberate choice shown as a glowing forking branch icon, selecting the worst path, cinematic vignette, atmospheric depth and soft gradient lighting
 
-40. Flat 2D stick-figure cartoon, deep navy background, an empty black space with the flat thought NOTHING IS THERE crossed out, rejecting the comforting interpretation, bold black outlines flat color fills no gradients no textures
+40. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @predator silhouette centered materializing out of a dark hole with claws and a low crouched form and soft glowing eyes, just enough to read as danger, cinematic vignette, atmospheric depth and soft gradient lighting
 
-41. Flat 2D stick-figure cartoon, deep navy background, the same black space now labeled SOMETHING IS THERE AND I CAN'T SEE IT with two faint predator eye-shapes hinted deep in the black, bold black outlines flat color fills no gradients no textures
+41. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a featureless human-intruder silhouette standing in a dark doorway with faint glowing eyes, threatening and without detail, a sliver of warm light at the doorframe, cinematic vignette, atmospheric depth and soft gradient lighting
 
-42. Flat 2D stick-figure cartoon, deep navy background, a @brain making a deliberate choice shown as a flat forking branch icon, selecting the worst path, bold black outlines flat color fills no gradients no textures
+42. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a dark amorphous shape with faint glowing eyes crouched at the foot and edge of a simple bed shape under a weak nightlight pool, the classic childhood terror, cinematic vignette, atmospheric depth and soft gradient lighting
 
-43. Flat 2D stick-figure cartoon, deep navy background, a @predator silhouette materializing out of a black hole with claws and a low crouched form, just enough to read as danger, the monster the brain built, bold black outlines flat color fills no gradients no textures
+43. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar centered under a soft light-pool with arms slightly raised in a wait-hear-me-out gesture and a glowing label THE MATH, defending the fear as rational, cinematic vignette, atmospheric depth and soft gradient lighting
 
-44. Flat 2D stick-figure cartoon, deep navy background, a featureless human-intruder silhouette shape standing in a dark doorway, threatening and without detail, bold black outlines flat color fills no gradients no textures
+44. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an @ancestor sitting by a warm fire whose glow forms a soft light-pool, the head turned toward a dark bush with a faint rustle motion-line, faint glowing eyes hidden in the surrounding shadows, cinematic vignette, atmospheric depth and soft gradient lighting
 
-45. Flat 2D stick-figure cartoon, deep navy background, a dark amorphous shape crouched at the foot and edge of a simple flat bed shape, the classic childhood terror, dark bedroom, bold black outlines flat color fills no gradients no textures
+45. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an @ancestor relaxing in the warm firelight pool with a small thought-bubble of harmless wind and leaves, assuming it was nothing and being right, cinematic vignette, atmospheric depth and soft gradient lighting
 
-46. Flat 2D stick-figure cartoon, deep navy background, @avatar with arms slightly raised in a wait-hear-me-out gesture and a flat label THE MATH appearing, defending the fear as rational, bold black outlines flat color fills no gradients no textures
+46. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an @ancestor in the firelight pool in the same relaxed assumption while two soft glowing @predator eyes open in the dark bush behind them, cinematic vignette, atmospheric depth and soft gradient lighting
 
-47. Flat 2D stick-figure cartoon, deep navy background, an @ancestor sitting by an amber fire at night with the head turned toward a dark bush that has a small motion-line indicating a rustle, flickering firelight, dark wilderness edge, bold black outlines flat color fills no gradients no textures
+47. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @predator silhouette lunging from the dark with a strike-motion line while an @ancestor figure is caught in the firelight pool, rendered as flat shapes and motion not gore, cinematic vignette, atmospheric depth and soft gradient lighting
 
-48. Flat 2D stick-figure cartoon, deep navy background, an @ancestor relaxing by the fire with a small thought-bubble of harmless wind and leaves, assuming it was nothing and being right, amber firelight, bold black outlines flat color fills no gradients no textures
+48. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing lineage and family-tree line under a soft light-pool with one branch abruptly ending in a clean cut, removed from the gene pool, cinematic vignette, atmospheric depth and soft gradient lighting
 
-49. Flat 2D stick-figure cartoon, deep navy background, an @ancestor by the fire in the same relaxed assumption while two faint @predator eyes open in the dark bush behind them, prehistoric night, bold black outlines flat color fills no gradients no textures
+49. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an @ancestor flinching hard at a rustle in the firelight pool bracing for a predator that turns out to be only wind, mildly foolish but alive, cinematic vignette, atmospheric depth and soft gradient lighting
 
-50. Flat 2D stick-figure cartoon, deep navy background, a @predator silhouette lunging from the dark with a strike-motion line while an @ancestor figure is caught, rendered as flat shapes and motion not gore, prehistoric night, bold black outlines flat color fills no gradients no textures
+50. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an older @ancestor surrounded by several offspring figures around a larger warm fire forming a wide light-pool, having survived to be wrong many times with the lineage thriving, cinematic vignette, atmospheric depth and soft gradient lighting
 
-51. Flat 2D stick-figure cartoon, deep navy background, a flat lineage and family-tree diagram with one branch abruptly ending in a clean cut, removed from the gene pool, bold black outlines flat color fills no gradients no textures
+51. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain labeled THE PARANOID ONE glowing under a light-pool, marked as the survivor model that became ours, cinematic vignette, atmospheric depth and soft gradient lighting
 
-52. Flat 2D stick-figure cartoon, deep navy background, an @ancestor flinching hard at a rustle and bracing for a predator that turns out to be only wind, looking mildly foolish but alive, amber firelight, bold black outlines flat color fills no gradients no textures
+52. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain projecting small monster silhouettes with glowing eyes outward into the surrounding teal dark, actively populating the dark with threats, cinematic vignette, atmospheric depth and soft gradient lighting
 
-53. Flat 2D stick-figure cartoon, deep navy background, an older @ancestor surrounded by several offspring figures around a larger amber fire, having survived to be wrong many times with the lineage thriving, bold black outlines flat color fills no gradients no textures
+53. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a long row of @ancestor figures receding into shadow each alert and scanning the dark, faint glowing eyes in the depth around them, a lineage of vigilance, cinematic vignette, atmospheric depth and soft gradient lighting
 
-54. Flat 2D stick-figure cartoon, deep navy background, a @brain labeled THE PARANOID ONE glowing, marked as the survivor model that became ours, bold black outlines flat color fills no gradients no textures
+54. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the phrase AFRAID OF NOTHING in soft glowing letters with the word NOTHING glowing brightest, the irony that fear of the empty dark kept them alive, cinematic vignette, atmospheric depth and soft gradient lighting
 
-55. Flat 2D stick-figure cartoon, deep navy background, a @brain projecting small monster silhouettes outward into the surrounding dark, actively populating the dark with threats, bold black outlines flat color fills no gradients no textures
+55. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing label STRANGEST PART AHEAD with a forward arrow under a light-pool, a curiosity-gap teaser pulling the viewer onward, cinematic vignette, atmospheric depth and soft gradient lighting
 
-56. Flat 2D stick-figure cartoon, deep navy background, a long row of @ancestor figures receding into depth each one alert and scanning the dark, a lineage of vigilance shown in perspective, bold black outlines flat color fills no gradients no textures
+56. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar standing tense beside a few calm animal silhouettes such as an owl and a cat with soft glowing eyes that are at ease in the dark, humans uniquely bad at this, cinematic vignette, atmospheric depth and soft gradient lighting
 
-57. Flat 2D stick-figure cartoon, deep navy background, the phrase AFRAID OF NOTHING in flat letters with the word NOTHING glowing, the irony that fear of the empty dark kept them alive, bold black outlines flat color fills no gradients no textures
+57. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, extreme close on @avatar's two dot-eyes under a soft light-pool with a glowing label THE ANSWER pointing to them, cinematic vignette, atmospheric depth and soft gradient lighting
 
-58. Flat 2D stick-figure cartoon, deep navy background, a flat label STRANGEST PART AHEAD with a forward arrow, a curiosity-gap teaser pulling the viewer onward, bold black outlines flat color fills no gradients no textures
+58. Moody atmospheric 2D illustration, warm-lit daytime scene in muted earth tones against soft teal edges, @avatar standing fully confident and capable built for the sun, drifting dust motes in the warm light, cinematic vignette, atmospheric depth and soft gradient lighting
 
-59. Flat 2D stick-figure cartoon, deep navy background, @avatar standing tense beside a few calm animal silhouettes such as an owl and a cat that are at ease in the dark, humans uniquely bad at this, bold black outlines flat color fills no gradients no textures
+59. Moody atmospheric 2D illustration, warm earth-tone lighting, close on @avatar's eye with rich warm detail-rays labeled color depth and fine detail, vision at its peak in light, soft teal shadow at the edges, cinematic vignette, atmospheric depth and soft gradient lighting
 
-60. Flat 2D stick-figure cartoon, deep navy background, extreme close on @avatar's two dot-eyes with a flat label THE ANSWER pointing to them, bold black outlines flat color fills no gradients no textures
+60. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the same @avatar eye as the warm light drains away to dull teal-grey with the detail-rays gone, vision near-useless without light, cinematic vignette, atmospheric depth and soft gradient lighting
 
-61. Flat 2D stick-figure cartoon, warm amber daylight, @avatar standing fully confident and capable built for the sun, drifting dust motes in the light, bold black outlines flat color fills no gradients no textures
+61. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar squinting blindly in the dark while faint @predator eyes watch easily nearby in the shadows, they see and we do not, cinematic vignette, atmospheric depth and soft gradient lighting
 
-62. Flat 2D stick-figure cartoon, amber light, close on @avatar's eye with rich amber detail-rays labeled color depth and fine detail, vision at its peak in light, bold black outlines flat color fills no gradients no textures
+62. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, two crossed-out icons of an ear and a nose under a soft light-pool showing humans never gained sharp night hearing or smell, cinematic vignette, atmospheric depth and soft gradient lighting
 
-63. Flat 2D stick-figure cartoon, deep navy background, the same @avatar eye as the amber drains away to flat grey with the detail-rays gone, vision near-useless without light, bold black outlines flat color fills no gradients no textures
+63. Moody atmospheric 2D illustration, dusk landscape in deep teal-green with a warm sun sinking below a horizon line and the land darkening with long stretching shadows, the vulnerable hour arriving, cinematic vignette, atmospheric depth and soft gradient lighting
 
-64. Flat 2D stick-figure cartoon, deep navy background, @avatar squinting blindly in the dark while faint @predator eyes watch easily nearby, they see and we do not, bold black outlines flat color fills no gradients no textures
+64. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar with a warm vision-cone snapping shut to teal-black and the glowing word VANISHED, total loss of sight, cinematic vignette, atmospheric depth and soft gradient lighting
 
-65. Flat 2D stick-figure cartoon, deep navy background, two flat crossed-out icons of an ear and a nose showing humans never gained sharp night hearing or smell, bold black outlines flat color fills no gradients no textures
+65. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a dark wilderness of layered silhouette trees where many pairs of soft glowing @predator eyes open across the landscape at once as the night wakes up, cinematic vignette, atmospheric depth and soft gradient lighting
 
-66. Flat 2D stick-figure cartoon, dusk landscape with a flat sun sinking below a horizon line and the land darkening with long stretching shadows, the vulnerable hour arriving, bold black outlines flat color fills no gradients no textures
+66. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a single @predator leopard silhouette prowling low through layered silhouette trees, tuned to the dark with soft glowing eyes, cinematic vignette, atmospheric depth and soft gradient lighting
 
-67. Flat 2D stick-figure cartoon, deep navy background, @avatar with a vision-cone snapping shut to black and the flat word VANISHED, total loss of sight, bold black outlines flat color fills no gradients no textures
+67. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, three @predator silhouettes in a row in the shadow depth, a lion a hyena and a coiled snake each a distinct shape with soft glowing eyes, the roster of night hunters, cinematic vignette, atmospheric depth and soft gradient lighting
 
-68. Flat 2D stick-figure cartoon, dark wilderness, many pairs of @predator eyes opening across the landscape at once as the night wakes up, bold black outlines flat color fills no gradients no textures
+68. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, close on a single @predator eye glowing softly in the dark, a body built for the exact dark we fail in, cinematic vignette, atmospheric depth and soft gradient lighting
 
-69. Flat 2D stick-figure cartoon, dark wilderness, a single @predator leopard silhouette prowling low and tuned to the dark, bold black outlines flat color fills no gradients no textures
+69. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a small huddle of @ancestor figures around a warm fire light-pool ringed by darkness with @predator glowing eyes all around in the layered shadow, not the top of the food chain, cinematic vignette, atmospheric depth and soft gradient lighting
 
-70. Flat 2D stick-figure cartoon, dark wilderness, three @predator silhouettes in a row, a lion a hyena and a coiled snake, each a flat distinct shape, the roster of night hunters, bold black outlines flat color fills no gradients no textures
+70. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a huddle of @ancestor figures in the firelight pool with the glowing label PREY above them, slow soft and night-blind, faint predator eyes in the shadows, cinematic vignette, atmospheric depth and soft gradient lighting
 
-71. Flat 2D stick-figure cartoon, dark background, close on a single @predator eye glowing, a body built for the exact dark we fail in, bold black outlines flat color fills no gradients no textures
+71. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing label THE BONES PROVE IT with a bone and fossil icon under a soft light-pool, evidence incoming, cinematic vignette, atmospheric depth and soft gradient lighting
 
-72. Flat 2D stick-figure cartoon, deep navy background, a small huddle of @ancestor figures at an amber fire ringed by darkness with @predator eyes all around, not the top of the food chain, bold black outlines flat color fills no gradients no textures
+72. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a cross-section of a big-cat den or cave lit by a faint cold light-pool with small hominid bone shapes inside among the predator's lair, cinematic vignette, atmospheric depth and soft gradient lighting
 
-73. Flat 2D stick-figure cartoon, deep navy background, a huddle of @ancestor figures with the bold label PREY stamped over them, slow soft and night-blind, prehistoric night, bold black outlines flat color fills no gradients no textures
+73. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a dark cave mouth at night with a @predator silhouette dragging a small hominid shape into the dark, implied not graphic, a sliver of cold light at the cave edge, cinematic vignette, atmospheric depth and soft gradient lighting
 
-74. Flat 2D stick-figure cartoon, deep navy background, a flat label THE BONES PROVE IT with a bone and fossil icon, evidence incoming, bold black outlines flat color fills no gradients no textures
+74. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, several @ancestor figures watching from a distance in faint firelight with grave faces, this fear was earned not invented, faint eyes in the shadows, cinematic vignette, atmospheric depth and soft gradient lighting
 
-75. Flat 2D stick-figure cartoon, deep navy background, a cross-section of a big-cat den or cave with small hominid bone shapes inside among the predator's lair, dark, bold black outlines flat color fills no gradients no textures
+75. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a tally of accumulating body-count marks beside a glowing moon icon under a soft light-pool, the night literally had a death toll, cinematic vignette, atmospheric depth and soft gradient lighting
 
-76. Flat 2D stick-figure cartoon, dark cave mouth at night, a flat @predator silhouette dragging a small hominid shape into the dark cave, implied not graphic, bold black outlines flat color fills no gradients no textures
+76. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an evolution diagram under a light-pool with a glowing arrow wiring the trigger directly to a moon icon representing DARKNESS itself rather than to the predator, a leopard shape crossed out as too-late-to-see, cinematic vignette, atmospheric depth and soft gradient lighting
 
-77. Flat 2D stick-figure cartoon, prehistoric night, several @ancestor figures watching from a distance with grave faces, this fear was earned not invented, bold black outlines flat color fills no gradients no textures
+77. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @predator leopard almost invisible in the teal-black revealed only at the last instant by a faint glint of glowing eyes, too late to react, cinematic vignette, atmospheric depth and soft gradient lighting
 
-78. Flat 2D stick-figure cartoon, deep navy background, a flat tally of accumulating body-count marks beside a night and moon icon, the night literally had a death toll, bold black outlines flat color fills no gradients no textures
+78. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an @ancestor bracing and tensing at the edge of a dying firelight pool the moment darkness falls before any threat appears, fearing the condition itself, faint eyes in the shadows, cinematic vignette, atmospheric depth and soft gradient lighting
 
-79. Flat 2D stick-figure cartoon, deep navy background, an evolution diagram with an arrow wiring the trigger directly to a moon icon representing DARKNESS itself rather than to the predator, with a leopard shape crossed out as too-late-to-see, bold black outlines flat color fills no gradients no textures
+79. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the ancient wiring shown still glowing warmly inside a modern @avatar's head with the glowing label STILL RUNNING, the past alive in the present, cinematic vignette, atmospheric depth and soft gradient lighting
 
-80. Flat 2D stick-figure cartoon, dark background, a @predator leopard almost invisible in the black revealed only at the last instant, too late to react if you waited to see it, bold black outlines flat color fills no gradients no textures
+80. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a clinical lab in low light lit by a cool light-pool, a person wired to a brain-monitor while a researcher figure observes, shift from ancient to modern science, cinematic vignette, atmospheric depth and soft gradient lighting
 
-81. Flat 2D stick-figure cartoon, dusk-to-dark setting, an @ancestor bracing and tensing the moment darkness falls before any threat appears, fearing the condition itself, bold black outlines flat color fills no gradients no textures
+81. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain cross-section under a soft light-pool with the amygdala region lighting up warm and labeled THE ALARM CENTER, cinematic vignette, atmospheric depth and soft gradient lighting
 
-82. Flat 2D stick-figure cartoon, deep navy background, the ancient wiring shown still glowing inside a modern @avatar's head with the flat label STILL RUNNING, the past alive in the present, bold black outlines flat color fills no gradients no textures
+82. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar mid-startle in a cool light-pool with the body jolting and a STARTLE motion-burst around them, the sharpened startle reflex, cinematic vignette, atmospheric depth and soft gradient lighting
 
-83. Flat 2D stick-figure cartoon, clean clinical lab in low light, a person wired to a flat brain-monitor while a researcher figure observes, shift from ancient to modern science, bold black outlines flat color fills no gradients no textures
+83. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an ambiguous blob shape on a card under a soft light-pool that is genuinely unreadable and could be harmless or a threat, the test stimulus, cinematic vignette, atmospheric depth and soft gradient lighting
 
-84. Flat 2D stick-figure cartoon, clinical navy setting, a @brain cross-section with the amygdala region lighting up bright and labeled THE ALARM CENTER, bold black outlines flat color fills no gradients no textures
+84. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the same ambiguous blob shape now reading clearly as a menacing form with faint glowing eyes because the dark biased the read toward danger, cinematic vignette, atmospheric depth and soft gradient lighting
 
-85. Flat 2D stick-figure cartoon, low light, @avatar mid-startle with the body jolting and a flat STARTLE motion-burst around them, the sharpened startle reflex, bold black outlines flat color fills no gradients no textures
+85. Moody atmospheric 2D illustration, split light and dark frame, two identical shapes side by side labeled SAME SHAPE and SAME PERSON, one in a warm light-pool and one in teal-dark, only the light-versus-dark difference between them, cinematic vignette, atmospheric depth and soft gradient lighting
 
-86. Flat 2D stick-figure cartoon, clinical navy setting, an ambiguous flat blob shape on a card that is genuinely unreadable and could be harmless or a threat, the test stimulus, bold black outlines flat color fills no gradients no textures
+86. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar with the @brain visible under a light-pool and a glowing label MEASURABLE SHIFT, the nervous-system diagram stepping down into a warm survival-mode state, cinematic vignette, atmospheric depth and soft gradient lighting
 
-87. Flat 2D stick-figure cartoon, dark setting, the same ambiguous blob shape now reading clearly as a menacing form because the dark biased the read toward danger, bold black outlines flat color fills no gradients no textures
+87. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar alert in a dark hallway with a faint survival-mode glow as the corridor stretches into layered shadow with faint eyes in the depth, cinematic vignette, atmospheric depth and soft gradient lighting
 
-88. Flat 2D stick-figure cartoon, split light and dark frame, two identical shapes side by side labeled SAME SHAPE and SAME PERSON with only the light-versus-dark difference between the panels, bold black outlines flat color fills no gradients no textures
+88. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the glowing label NOT WEAKNESS over an alert @avatar under a soft light-pool with a @brain beside it marked DOING ITS JOB, reframing the fear as competence, cinematic vignette, atmospheric depth and soft gradient lighting
 
-89. Flat 2D stick-figure cartoon, deep navy background, @avatar with the @brain visible and a flat label MEASURABLE SHIFT, the nervous-system diagram stepping down into a red survival-mode state, bold black outlines flat color fills no gradients no textures
+89. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing label THE EMBARRASSING PART with a downward arrow under a light-pool, setting up the childhood turn, cinematic vignette, atmospheric depth and soft gradient lighting
 
-90. Flat 2D stick-figure cartoon, dark hallway, @avatar alert with a survival-mode red tint on the body as the corridor stretches into black, the everyday version everyone knows, bold black outlines flat color fills no gradients no textures
+90. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @child sitting up in bed under a weak warm nightlight pool with eyes wide at the dark room and a soft fear-glow, faint glowing eyes in the surrounding shadow, peak childhood fear, cinematic vignette, atmospheric depth and soft gradient lighting
 
-91. Flat 2D stick-figure cartoon, deep navy background, the flat label NOT WEAKNESS over an alert @avatar with a @brain beside it marked DOING ITS JOB, reframing the fear as competence, bold black outlines flat color fills no gradients no textures
+91. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the glowing question WHO DIED IN THE NIGHT hanging over a dim prehistoric scene in firelight, reframing the childhood fear as adaptive, cinematic vignette, atmospheric depth and soft gradient lighting
 
-92. Flat 2D stick-figure cartoon, deep navy background, a flat label THE EMBARRASSING PART with a small downward arrow, setting up the childhood turn, bold black outlines flat color fills no gradients no textures
+92. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a small ancestral @child a few steps from a warm fire light-pool edging toward the dark as the most vulnerable one, faint predator eyes in the shadow, cinematic vignette, atmospheric depth and soft gradient lighting
 
-93. Flat 2D stick-figure cartoon, child's dark bedroom, a @child sitting up in bed with eyes wide at the dark room and a strong amber fear-glow, peak childhood fear, bold black outlines flat color fills no gradients no textures
+93. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a small ancestral @child just outside the warm fire pool with dark all around and several soft glowing @predator eyes in the teal black, the single most dangerous place, cinematic vignette, atmospheric depth and soft gradient lighting
 
-94. Flat 2D stick-figure cartoon, deep navy background into a prehistoric night, the flat question WHO DIED IN THE NIGHT hanging over a dim ancestral scene, reframing the childhood fear as adaptive, bold black outlines flat color fills no gradients no textures
+94. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing volume and intensity meter beside a small @child figure under a light-pool with the fear-signal cranked to maximum because the body is smallest, cinematic vignette, atmospheric depth and soft gradient lighting
 
-95. Flat 2D stick-figure cartoon, prehistoric night with a fire's amber ring, a small ancestral @child a few steps from the firelight edging toward the dark as the most vulnerable one, bold black outlines flat color fills no gradients no textures
+95. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @child with a warm glowing nightlight whose small light-pool holds back the dark of the room, the modern symptom of the ancient system, faint eyes at the edge of the dark, cinematic vignette, atmospheric depth and soft gradient lighting
 
-96. Flat 2D stick-figure cartoon, edge of firelight, a small ancestral @child just outside the amber ring with dark all around and faint @predator eyes in the black, the single most dangerous place, bold black outlines flat color fills no gradients no textures
+96. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @child peering into a checked closet on one side and a blanket pulled to the eyes on the other under a weak nightlight pool, the rituals of the bedtime fear, cinematic vignette, atmospheric depth and soft gradient lighting
 
-97. Flat 2D stick-figure cartoon, deep navy background, a flat volume and intensity meter beside a small @child figure with the fear-signal cranked to maximum because the body is smallest, bold black outlines flat color fills no gradients no textures
+97. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a small @child with a glowing schematic of a two-million-year-old PROTECTION SYSTEM overlaid on the figure firing at full strength under a soft light-pool, not silliness but deep machinery, cinematic vignette, atmospheric depth and soft gradient lighting
 
-98. Flat 2D stick-figure cartoon, modern child's bedroom, a @child with a glowing nightlight whose small amber circle holds back the dark of the room, the modern symptom of the ancient system, bold black outlines flat color fills no gradients no textures
+98. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the same @child shown safe in a warmly lit home with a locked house and parents near while the protection system still fires, a safe child and an ancient alarm, cinematic vignette, atmospheric depth and soft gradient lighting
 
-99. Flat 2D stick-figure cartoon, modern bedroom, a @child peering into a checked closet on one side and a blanket pulled up to the eyes on the other, the rituals of the bedtime fear, bold black outlines flat color fills no gradients no textures
+99. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain under a light-pool shown unable to read a SAFE versus DANGER switch because it has no such dial only an ON state, the system can't tell the difference, cinematic vignette, atmospheric depth and soft gradient lighting
 
-100. Flat 2D stick-figure cartoon, modern bedroom with an ancient schematic overlay, a small @child with a flat schematic of a two-million-year-old PROTECTION SYSTEM overlaid on the figure firing at full strength, not silliness but deep machinery, bold black outlines flat color fills no gradients no textures
+100. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing ledger under a soft light-pool with thousands of small FALSE ALARM marks beside a single TRUE alarm circled, wrong ten thousand times to be right once, cinematic vignette, atmospheric depth and soft gradient lighting
 
-101. Flat 2D stick-figure cartoon, safe modern home interior, the same @child shown perfectly safe with a locked house and parents near while the protection system still fires at full strength, a safe child and an ancient alarm, bold black outlines flat color fills no gradients no textures
+101. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a sequence of warm light sources igniting in order against the teal dark, a fire then a candle then an electric bulb, humans pushing back the dark over time, cinematic vignette, atmospheric depth and soft gradient lighting
 
-102. Flat 2D stick-figure cartoon, deep navy background, a @brain shown unable to read a SAFE versus DANGER switch because it has no such dial only an ON state, the system can't tell the difference, bold black outlines flat color fills no gradients no textures
+102. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a bright modern night interior with warm artificial light everywhere yet a @modern figure still carrying a faint fear-glow in the chest, light won but the fear stayed, faint eyes at the window dark, cinematic vignette, atmospheric depth and soft gradient lighting
 
-103. Flat 2D stick-figure cartoon, deep navy background, a flat ledger with thousands of small FALSE ALARM marks beside a single TRUE alarm circled, wrong ten thousand times to be right once, bold black outlines flat color fills no gradients no textures
+103. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a glowing scale tipped fully to a @predator's side with the human side empty, total disadvantage in the condition of dark, cinematic vignette, atmospheric depth and soft gradient lighting
 
-104. Flat 2D stick-figure cartoon, time-progression from dark to lit, a sequence of light sources igniting in order, a fire then a candle then an electric bulb, humans pushing back the dark over time, bold black outlines flat color fills no gradients no textures
+104. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a dark room where @avatar stands oblivious in a faint light-pool while a featureless @predator shape with soft glowing eyes stands perfectly still just a few feet away unnoticed, the unseen threat at arm's length, cinematic vignette, atmospheric depth and soft gradient lighting
 
-105. Flat 2D stick-figure cartoon, bright modern night interior with artificial light everywhere, a @modern figure still carrying a faint amber fear-glow in the chest, light won but the fear stayed, bold black outlines flat color fills no gradients no textures
+105. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a @brain bracing against the dark under a light-pool with the glowing label NOT THE DARK THE THING IT COULD BE HIDING, the thesis restated, cinematic vignette, atmospheric depth and soft gradient lighting
 
-106. Flat 2D stick-figure cartoon, deep navy background, a flat scale tipped fully to a @predator's side with the human side empty, total disadvantage in the condition of dark, bold black outlines flat color fills no gradients no textures
+106. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, the glowing word INHERITANCE with a lineage line of @ancestor figures feeding forward into a single modern figure, the fear handed down rather than a defect, cinematic vignette, atmospheric depth and soft gradient lighting
 
-107. Flat 2D stick-figure cartoon, dark room, @avatar standing oblivious while a featureless @predator shape stands perfectly still just a few feet away unnoticed, the unseen threat at arm's length, bold black outlines flat color fills no gradients no textures
+107. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, several alert @ancestor figures in faint firelight who survived by assuming the worst, scanning and alive and softly glowing as the line that continued, cinematic vignette, atmospheric depth and soft gradient lighting
 
-108. Flat 2D stick-figure cartoon, deep navy background, a @brain bracing against the dark with the flat label NOT THE DARK THE THING IT COULD BE HIDING, the thesis restated at full clarity, bold black outlines flat color fills no gradients no textures
+108. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a calm unafraid @ancestor walking out of the firelight pool into the black and dissolving into the dark, the brave one who did not come back, faint predator eyes ahead, cinematic vignette, atmospheric depth and soft gradient lighting
 
-109. Flat 2D stick-figure cartoon, deep navy background, the word INHERITANCE with a flat lineage line of @ancestor figures feeding forward into a single modern figure, the fear handed down rather than a defect, bold black outlines flat color fills no gradients no textures
+109. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a single modern @avatar standing in the present under a soft warm light-pool and faintly glowing as the end-point of the frightened survivors, cinematic vignette, atmospheric depth and soft gradient lighting
 
-110. Flat 2D stick-figure cartoon, prehistoric night, several alert @ancestor figures who survived by assuming the worst, scanning and alive and glowing faintly as the line that continued, bold black outlines flat color fills no gradients no textures
+110. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, an ordinary room at night where a @modern figure reaches toward a wall light-switch shape before the room goes dark, the hand hovering in a faint light-pool, the universal small ritual, cinematic vignette, atmospheric depth and soft gradient lighting
 
-111. Flat 2D stick-figure cartoon, edge of a dark wilderness, a calm unafraid @ancestor walking out into the black and dissolving into the dark, the brave one who did not come back, bold black outlines flat color fills no gradients no textures
+111. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a dim room with a dark corner behind where a @modern figure hesitates to turn their back on the dark, a quiet part resisting, faint glowing eyes in the corner shadow, cinematic vignette, atmospheric depth and soft gradient lighting
 
-112. Flat 2D stick-figure cartoon, deep navy background, a single modern @avatar standing in the present and faintly glowing as the end-point of the frightened survivors, bold black outlines flat color fills no gradients no textures
+112. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, final frame of @avatar standing steady facing the dark under a soft warm protective light-pool holding the dark at bay, clean and resonant with space for end-screen cards, cinematic vignette, atmospheric depth and soft gradient lighting
 
-113. Flat 2D stick-figure cartoon, ordinary room at night, a @modern figure reaching toward a flat wall light-switch shape before the room goes dark with the hand hovering, the universal small ritual, bold black outlines flat color fills no gradients no textures
+113. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, a wide reflective frame of @avatar small against the vast layered dark with a single soft light-pool and faint distant glowing eyes, the wondering beginning, cinematic vignette, atmospheric depth and soft gradient lighting
 
-114. Flat 2D stick-figure cartoon, dim room with a dark corner behind, a @modern figure hesitating to turn their back on the dark part of the room, a quiet part resisting, bold black outlines flat color fills no gradients no textures
+114. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, @avatar turning slightly back toward the viewer in a fading light-pool as the dark settles around them, quiet and resonant, cinematic vignette, atmospheric depth and soft gradient lighting
 
-115. Flat 2D stick-figure cartoon, deep navy background, final frame of @avatar standing steady facing the dark with a faint protective glow around the body holding the dark at bay, clean and resonant minimal composition with space for end-screen cards, bold black outlines flat color fills no gradients no textures
+115. Moody atmospheric 2D illustration, deep dark teal-green and olive palette, closing frame with a single soft warm light-pool dissolving into the layered teal dark leaving room for end-screen cards, faint glowing eyes fading last, cinematic vignette, atmospheric depth and soft gradient lighting
