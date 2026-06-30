@@ -1,4 +1,4 @@
-[whispering] A man fell asleep walking down the street.
+A man fell asleep walking down the street.
 
 Not fainted. Not collapsed from exhaustion. He simply stopped, lay down, and didn't wake up for three days.
 
@@ -26,7 +26,7 @@ Kids described flying horses. Worms crawling out of their hands. Light snakes. T
 
 And it was spreading.
 
-This wasn't one unlucky person. Over the span of the outbreak, roughly **one in seven** people in the village were affected — and many of them more than once. The same person could go down two, three, four separate times. There was no pattern anyone could find. No warning sign. No common meal, no shared illness, no age group. You could be perfectly fine one moment, and wake up days later with a hole in your life where that time used to be.
+This wasn't one unlucky person. Over the span of the outbreak, roughly one in seven people in the village were affected — and many of them more than once. The same person could go down two, three, four separate times. There was no pattern anyone could find. No warning sign. No common meal, no shared illness, no age group. You could be perfectly fine one moment, and wake up days later with a hole in your life where that time used to be.
 
 So people stopped trusting sleep itself. They were terrified to close their eyes. Imagine living somewhere where lying down at night carried a real chance you'd lose the next three days — or simply not understand the world when you came back. The village was quietly coming apart.
 
@@ -40,7 +40,7 @@ A virus, then? Some unknown infection? They tested for everything they could nam
 
 And then there was the obvious suspect. The one everybody had been thinking about from the very beginning. Because Kalachi has a neighbor.
 
-Right next to the village sit the remains of an abandoned **Soviet uranium mine.** A whole secret town, Krasnogorsk, built to work it — now a ghost town, its mines shut down and left to rot when the Soviet Union collapsed. A sleeping sickness next to an abandoned uranium mine. The answer seemed almost too obvious. **Radiation.**
+Right next to the village sit the remains of an abandoned Soviet uranium mine. A whole secret town, Krasnogorsk, built to work it — now a ghost town, its mines shut down and left to rot when the Soviet Union collapsed. A sleeping sickness next to an abandoned uranium mine. The answer seemed almost too obvious. Radiation.
 
 They tested for it. Relentlessly. Every home, every sleeper, the soil, the water, the air. If radiation were doing this, it would have shown up screaming.
 
@@ -48,9 +48,9 @@ It came back clean.
 
 The radiation levels weren't dangerous. The obvious answer — the one that had haunted the whole investigation — was wrong. And now they were out of theories. Every lead had died. Which meant the real cause was something nobody had thought to look for.
 
-[whispering] It wasn't radiation. It was the air.
+It wasn't radiation. It was the air.
 
-The mines next door had been abandoned, and over the years they had **flooded.** And a flooded, sealed mine is not a dead thing. Underground, in the dark, chemistry keeps happening. Those mines were slowly **consuming the oxygen** in the air and releasing **carbon monoxide** and other gases in its place.
+The mines next door had been abandoned, and over the years they had flooded. And a flooded, sealed mine is not a dead thing. Underground, in the dark, chemistry keeps happening. Those mines were slowly consuming the oxygen in the air and releasing carbon monoxide and other gases in its place.
 
 That mixture — invisible, odorless, heavier in some conditions — was seeping up out of the ground and pooling over the village. On certain days, with the right wind, the right pressure, the oxygen in Kalachi's air quietly dropped, and the carbon monoxide quietly rose.
 
@@ -58,7 +58,7 @@ And that is exactly what does this to a human brain. Starve it of oxygen, feed i
 
 The thing putting an entire town to sleep was the ground itself, exhaling what the Soviets had buried and walked away from decades earlier.
 
-There was no cure for that. You can't treat the air. So in 2015, the authorities did the only thing left to do. They **relocated the village.** Moved the people out, resettled them elsewhere, and effectively closed Kalachi down.
+There was no cure for that. You can't treat the air. So in 2015, the authorities did the only thing left to do. They relocated the village. Moved the people out, resettled them elsewhere, and effectively closed Kalachi down.
 
 It sits mostly empty now. Houses still standing, some still furnished, doors left open. A town emptied not by a war, not by a flood, not by a disease you could name — but by something invisible leaking up through the floor of the world. A place its own air made uninhabitable.
 
@@ -66,4 +66,4 @@ And that's the part that stays with you. The danger here was never dramatic. It 
 
 We bury things and we move on. Mines, chemicals, waste, whole industries — sealed up, forgotten, paved over. Kalachi is one place where what we buried decided to come back up.
 
-[whispering] The question is how many others are still waiting.
+The question is how many others are still waiting.
