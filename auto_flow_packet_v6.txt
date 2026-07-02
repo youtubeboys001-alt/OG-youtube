@@ -1,0 +1,242 @@
+# VIDEO 6 – AUTO FLOW PACKET (State 13) — CINEMATIC PALETTE (VARIED)
+# Title: "The Village Where Everyone Kept Falling Asleep"
+# Runtime: 7:43 (463 seconds) | Total Prompts: 110 | Pacing: ~4.2s per image (motion baked in)
+# Visual treatment (constant): flat 2D stick-figure cartoon (simple stick figures + flat silhouettes) in cinematic style,
+#   soft light-pool on the subject in muted earth tones, layered silhouette depth, cinematic vignette, soft gradient lighting.
+# Palette flexes by emotion: dusty ochre = ordinary village/steppe; desaturated grey-teal = the wrongness/the sleep;
+#   cool clinical blue-grey = doctors/brain/investigation; near-monochrome+red = ruled-out theories;
+#   sickly toxic green-yellow = radiation suspicion & the gas; melancholy dusk = the emptied town.
+
+---
+
+# CHARACTER PROMPTS
+
+@sleeper = A person collapsed in unnatural sleep lying where they fell, muted earth tones, softly lit
+@villager = Kalachi villager stick figure in simple work clothes, muted ochre tones
+@child = Small stick-figure child, round head, large dot eyes
+@doctor = Investigator or doctor stick figure with a coat shape and clipboard, cool clinical light
+@brain = 2D brain cross-section, oxygen and carbon-monoxide effects highlightable, cool clinical light-pool
+
+---
+
+# IMAGE PROMPTS
+
+1. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a @villager mid-stride on an empty dusty street folding down to the ground at the moment of collapse, no one else around, cinematic vignette, atmospheric depth and soft gradient lighting
+
+2. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, two crossed-out ghost icons beside a fallen figure, a fainting swirl and an exhaustion droop both negated, cinematic vignette, atmospheric depth and soft gradient lighting
+
+3. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a man lying peacefully on the pavement as if placed there, utterly still, soft light-pool, cinematic vignette, atmospheric depth and soft gradient lighting
+
+4. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a calendar motif ticking three full days over an unmoving figure, cinematic vignette, atmospheric depth and soft gradient lighting
+
+5. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, more figures appearing collapsed at intervals down an empty street, cinematic vignette, atmospheric depth and soft gradient lighting
+
+6. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a wide of a small village with tiny collapsed figures scattered across it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+7. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, the scattered-sleepers village repeated over faint calendar pages suggesting years, cinematic vignette, atmospheric depth and soft gradient lighting
+
+8. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a figure asleep mid-step and another slumped at a table mid-meal, two vignettes, cinematic vignette, atmospheric depth and soft gradient lighting
+
+9. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a figure collapsed mid-gesture mid-sentence with a speech bubble trailing off, cinematic vignette, atmospheric depth and soft gradient lighting
+
+10. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a cluster of baffled @doctor figures around a @sleeper with question marks and raised helpless hands, cinematic vignette, atmospheric depth and soft gradient lighting
+
+11. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a glowing label ONE OF THE STRANGEST MEDICAL MYSTERIES OF THE DECADE over a dim map dot, cinematic vignette, atmospheric depth and soft gradient lighting
+
+12. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a village silhouette with a faint dark shape hidden directly beneath it underground, cinematic vignette, atmospheric depth and soft gradient lighting
+
+13. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, the hidden underground shape pulsing faintly, present the whole time and unseen, cinematic vignette, atmospheric depth and soft gradient lighting
+
+14. Dusty warm ochre flat 2D stick-figure cartoon in cinematic style, the word KALACHI in clean text over a dusty steppe horizon at flat daylight, cinematic vignette, atmospheric depth and soft gradient lighting
+
+15. Dusty warm ochre flat 2D stick-figure cartoon in cinematic style, a wide dusty steppe with a small cluster of low buildings and a map-pin of northern Kazakhstan, cinematic vignette, atmospheric depth and soft gradient lighting
+
+16. Dusty warm ochre flat 2D stick-figure cartoon in cinematic style, dusty roads and a few Soviet-era block buildings with a lone figure, cinematic vignette, atmospheric depth and soft gradient lighting
+
+17. Dusty warm ochre flat 2D stick-figure cartoon in cinematic style, endless flat steppe in every direction under a wide empty sky with the village a distant speck, cinematic vignette, atmospheric depth and soft gradient lighting
+
+18. Dusty warm ochre flat 2D stick-figure cartoon in cinematic style, a road stretching past the village into the steppe with a faint car receding, cinematic vignette, atmospheric depth and soft gradient lighting
+
+19. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a 2013 label as the first @villager begins to sway and sink, the ordinary breaking, cinematic vignette, atmospheric depth and soft gradient lighting
+
+20. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a red accent, crossed labels NOT TIRED and NOT DROWSY then the stark word SWITCHED OFF glowing, cinematic vignette, atmospheric depth and soft gradient lighting
+
+21. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a woman beside a cow slumping mid-milking with the pail tipping and the cow unbothered, cinematic vignette, atmospheric depth and soft gradient lighting
+
+22. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a @child lying down in the middle of the road with a backpack still on, cinematic vignette, atmospheric depth and soft gradient lighting
+
+23. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, several figures dropped exactly where they stood across an ordinary daytime scene, cinematic vignette, atmospheric depth and soft gradient lighting
+
+24. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a figure trying to shake and shout at a @sleeper who does not stir at all, cinematic vignette, atmospheric depth and soft gradient lighting
+
+25. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a stark label THE SLEEP ITSELF WAS WRONG over an unnaturally still @sleeper, cinematic vignette, atmospheric depth and soft gradient lighting
+
+26. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a @doctor lifting a @sleeper's eyelid with a light across it and no reaction, cinematic vignette, atmospheric depth and soft gradient lighting
+
+27. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a chart of days two three seven beside the sleeping figure, cinematic vignette, atmospheric depth and soft gradient lighting
+
+28. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, doctors trying every trick with instruments around a @sleeper who won't surface, an hourglass draining, cinematic vignette, atmospheric depth and soft gradient lighting
+
+29. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the @sleeper unchanged as the hourglass empties, the body deciding its own time, cinematic vignette, atmospheric depth and soft gradient lighting
+
+30. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a tonal-shift label STRANGE to FRIGHTENING with a door opening into a darker register, cinematic vignette, atmospheric depth and soft gradient lighting
+
+31. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a silhouette on the threshold of waking with the frame darkening around them, cinematic vignette, atmospheric depth and soft gradient lighting
+
+32. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a figure sitting up drawn wrong with off-kilter posture and a glowing CAME BACK WRONG label, cinematic vignette, atmospheric depth and soft gradient lighting
+
+33. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, memory shown as a filmstrip with whole frames blacked out and missing, cinematic vignette, atmospheric depth and soft gradient lighting
+
+34. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a figure clutching its head with symptom icons headache burst nausea dizziness spiral and limp limbs, cinematic vignette, atmospheric depth and soft gradient lighting
+
+35. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a figure looking at family with no recognition and question marks where faces register, cinematic vignette, atmospheric depth and soft gradient lighting
+
+36. Dreamlike surreal flat 2D stick-figure cartoon in cinematic style with a muted accent glow, a small @child with wide unsettled eyes and a label THE STRANGEST DETAIL OF ALL, cinematic vignette, atmospheric depth and soft gradient lighting
+
+37. Dreamlike surreal flat 2D stick-figure cartoon in cinematic style with a muted accent glow, the @child surrounded by faint surreal dream-shapes beginning to bloom, cinematic vignette, atmospheric depth and soft gradient lighting
+
+38. Dreamlike surreal flat 2D stick-figure cartoon in cinematic style with a muted accent glow, a surreal flying horse shape drifting above the @child rendered dreamlike and wrong, cinematic vignette, atmospheric depth and soft gradient lighting
+
+39. Dreamlike surreal flat 2D stick-figure cartoon in cinematic style with a muted accent glow, worms crawling from small hands and faint light-snakes coiling, cinematic vignette, atmospheric depth and soft gradient lighting
+
+40. Dreamlike surreal flat 2D stick-figure cartoon in cinematic style with a muted accent glow, a mother's face melting and multiplying into overlapping faces, cinematic vignette, atmospheric depth and soft gradient lighting
+
+41. Dreamlike surreal flat 2D stick-figure cartoon in cinematic style with a muted accent glow, separate children in separate homes each surrounded by the same dream-shapes with faint threads linking them, cinematic vignette, atmospheric depth and soft gradient lighting
+
+42. Dreamlike surreal flat 2D stick-figure cartoon in cinematic style with a muted accent glow, the same impossible shapes echoed identically in each child's dream bubble, cinematic vignette, atmospheric depth and soft gradient lighting
+
+43. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a dark presence-shape reaching past a body toward a glowing @brain, cinematic vignette, atmospheric depth and soft gradient lighting
+
+44. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the dark shape sinking into the glowing @brain, getting inside the head, cinematic vignette, atmospheric depth and soft gradient lighting
+
+45. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a spreading dark stain creeping across a village map with a label AND IT WAS SPREADING, cinematic vignette, atmospheric depth and soft gradient lighting
+
+46. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a row of village figures with roughly one in seven darkened, the fraction made visual, cinematic vignette, atmospheric depth and soft gradient lighting
+
+47. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a single figure marked with repeated tally strikes down two three four times, cinematic vignette, atmospheric depth and soft gradient lighting
+
+48. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, an investigation board with strings connecting nothing, tangled and blank at the center, cinematic vignette, atmospheric depth and soft gradient lighting
+
+49. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, crossed-out cause icons a shared meal and a shared illness negated, cinematic vignette, atmospheric depth and soft gradient lighting
+
+50. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, an age-range bar with every age equally struck through, cinematic vignette, atmospheric depth and soft gradient lighting
+
+51. Desaturated grey-teal flat 2D stick-figure cartoon in cinematic style, a figure fine then the same figure waking with a literal hole cut through its personal timeline, cinematic vignette, atmospheric depth and soft gradient lighting
+
+52. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a @villager sitting up in bed at night with eyes wide open refusing to sleep, cinematic vignette, atmospheric depth and soft gradient lighting
+
+53. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a bed drawn like a trap with a figure hesitating above it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+54. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a figure waking confused with the world around it unfamiliar and tilted, cinematic vignette, atmospheric depth and soft gradient lighting
+
+55. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, the village silhouette with thin cracks running through it quietly coming apart, cinematic vignette, atmospheric depth and soft gradient lighting
+
+56. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a glowing label ALMOST UNBELIEVABLE with a forward arrow, cinematic vignette, atmospheric depth and soft gradient lighting
+
+57. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a WRONG ANSWERS list with several blank slots waiting to be struck out, cinematic vignette, atmospheric depth and soft gradient lighting
+
+58. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a THEORY 1 MASS HYSTERIA label with figures mirroring each other's collapse like dominoes, cinematic vignette, atmospheric depth and soft gradient lighting
+
+59. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, figures unconsciously copying each other, plausible on a remote community, cinematic vignette, atmospheric depth and soft gradient lighting
+
+60. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, the hysteria theory on paper with a crack forming across it, falling apart fast, cinematic vignette, atmospheric depth and soft gradient lighting
+
+61. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a brain scan showing real fluid buildup glowing, undeniable physical evidence, cinematic vignette, atmospheric depth and soft gradient lighting
+
+62. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the swelling region of the @brain glowing brighter, actual physical change, cinematic vignette, atmospheric depth and soft gradient lighting
+
+63. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a red accent, the MASS HYSTERIA label stamped with a red X and NOT IN THEIR HEADS, cinematic vignette, atmospheric depth and soft gradient lighting
+
+64. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a dark presence physically pressing on the @brain, something real happening to them, cinematic vignette, atmospheric depth and soft gradient lighting
+
+65. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a THEORY 2 ALCOHOL label with a vodka bottle and moonshine jar, cinematic vignette, atmospheric depth and soft gradient lighting
+
+66. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, investigators seriously testing the bottles, a grim cliché taken seriously, cinematic vignette, atmospheric depth and soft gradient lighting
+
+67. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a tiny toddler @child asleep beside the bottles, the theory failing, cinematic vignette, atmospheric depth and soft gradient lighting
+
+68. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a red accent, the ALCOHOL label stamped with a red X, cinematic vignette, atmospheric depth and soft gradient lighting
+
+69. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a THEORY 3 VIRUS label with a magnified pathogen shape being hunted and samples everywhere, cinematic vignette, atmospheric depth and soft gradient lighting
+
+70. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a red accent, empty petri dishes with no pathogen and the VIRUS label stamped with a red X, cinematic vignette, atmospheric depth and soft gradient lighting
+
+71. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a glowing THE OBVIOUS SUSPECT label with a heavy shadow, cinematic vignette, atmospheric depth and soft gradient lighting
+
+72. Desaturated decaying grey flat 2D stick-figure cartoon in cinematic style, the village with a looming abandoned mine headframe silhouette right beside it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+73. Desaturated decaying grey flat 2D stick-figure cartoon in cinematic style, the abandoned Soviet uranium mine headframe close and rusting against the sky, cinematic vignette, atmospheric depth and soft gradient lighting
+
+74. Desaturated decaying grey flat 2D stick-figure cartoon in cinematic style, Krasnogorsk a whole abandoned secret town of empty blocks and a rusting headframe, cinematic vignette, atmospheric depth and soft gradient lighting
+
+75. Desaturated decaying grey flat 2D stick-figure cartoon in cinematic style, mine shafts sealed and left to rot with a broken Soviet emblem, cinematic vignette, atmospheric depth and soft gradient lighting
+
+76. Sickly toxic green-yellow accent flat 2D stick-figure cartoon in cinematic style over dark grey, a @sleeper and a uranium radiation trefoil side by side, cinematic vignette, atmospheric depth and soft gradient lighting
+
+77. Sickly toxic green-yellow accent flat 2D stick-figure cartoon in cinematic style over dark grey, the word RADIATION glowing sickly green, the too-obvious answer, cinematic vignette, atmospheric depth and soft gradient lighting
+
+78. Sickly toxic green-yellow accent flat 2D stick-figure cartoon in cinematic style over dark grey, investigators with radiation detectors sweeping relentlessly, the trefoil looming, cinematic vignette, atmospheric depth and soft gradient lighting
+
+79. Sickly toxic green-yellow accent flat 2D stick-figure cartoon in cinematic style over dark grey, rapid icons a home a sleeper soil water air each swept by a detector, cinematic vignette, atmospheric depth and soft gradient lighting
+
+80. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a detector needle expected to spike but staying flat, the sickly green glow draining, cinematic vignette, atmospheric depth and soft gradient lighting
+
+81. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the detector reading clean with the green glow gone entirely, cinematic vignette, atmospheric depth and soft gradient lighting
+
+82. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a red accent, the RADIATION label stamped with a red X, the haunting obvious answer now wrong, cinematic vignette, atmospheric depth and soft gradient lighting
+
+83. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a wall of crossed-out theories with every lead dead and one blank glowing slot remaining, cinematic vignette, atmospheric depth and soft gradient lighting
+
+84. Deep dark reveal flat 2D stick-figure cartoon in cinematic style, NOT RADIATION crossed out then IT WAS THE AIR glowing plainly with a wisp of invisible gas, cinematic vignette, atmospheric depth and soft gradient lighting
+
+85. Deep dark underground flat 2D stick-figure cartoon in cinematic style, the abandoned mine shafts filling with dark water over the years, flooding underground, cinematic vignette, atmospheric depth and soft gradient lighting
+
+86. Deep dark underground flat 2D stick-figure cartoon in cinematic style, the flooded sealed mine alive with faint chemical reactions glowing in dark water, cinematic vignette, atmospheric depth and soft gradient lighting
+
+87. Deep dark underground flat 2D stick-figure cartoon in cinematic style, a cross-section with O2 icons vanishing into the mine as CO wisps begin to rise, cinematic vignette, atmospheric depth and soft gradient lighting
+
+88. Sickly toxic green-yellow accent flat 2D stick-figure cartoon in cinematic style over dark, carbon monoxide wisps rising out of the shaft in place of the lost oxygen, cinematic vignette, atmospheric depth and soft gradient lighting
+
+89. Sickly toxic green-yellow accent flat 2D stick-figure cartoon in cinematic style over dark, invisible faint gas seeping up out of the ground around the village, cinematic vignette, atmospheric depth and soft gradient lighting
+
+90. Sickly toxic green-yellow accent flat 2D stick-figure cartoon in cinematic style over dark, the gas pooling low over the sleeping village like an unseen tide, cinematic vignette, atmospheric depth and soft gradient lighting
+
+91. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, wind and pressure arrows over the village as an oxygen bar drops and a carbon-monoxide bar rises, cinematic vignette, atmospheric depth and soft gradient lighting
+
+92. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a @brain cross-section as oxygen drains from it and carbon monoxide fills it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+93. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the @brain going quiet with no alarm, an eerie calm, cinematic vignette, atmospheric depth and soft gradient lighting
+
+94. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a chilling label THAT'S THE HORROR OF IT over the calmly dimming @brain, cinematic vignette, atmospheric depth and soft gradient lighting
+
+95. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, crossed-out warning senses no smell no taste no gasping breath, cinematic vignette, atmospheric depth and soft gradient lighting
+
+96. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the @brain's glow dimming step by step to dark then switched off, cinematic vignette, atmospheric depth and soft gradient lighting
+
+97. Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the swelling memory gaps and hallucinations shown as one signature radiating from an oxygen-starved @brain, cinematic vignette, atmospheric depth and soft gradient lighting
+
+98. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, the ground beneath the village exhaling a slow breath of gas up into the sleeping town, cinematic vignette, atmospheric depth and soft gradient lighting
+
+99. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, the old Soviet mine below, what was buried decades earlier now leaking back up, cinematic vignette, atmospheric depth and soft gradient lighting
+
+100. Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a crossed-out cure icon NO CURE with a hand reaching for nothing, cinematic vignette, atmospheric depth and soft gradient lighting
+
+101. Melancholy muted dusk flat 2D stick-figure cartoon in cinematic style, a 2015 label as officials face the only option left, cinematic vignette, atmospheric depth and soft gradient lighting
+
+102. Melancholy muted dusk flat 2D stick-figure cartoon in cinematic style, lines of @villager figures with belongings leaving and trucks on the steppe road, cinematic vignette, atmospheric depth and soft gradient lighting
+
+103. Melancholy muted dusk flat 2D stick-figure cartoon in cinematic style, the emptied village with houses still standing some still furnished and a door swinging open, cinematic vignette, atmospheric depth and soft gradient lighting
+
+104. Melancholy muted dusk flat 2D stick-figure cartoon in cinematic style, the town labeled not war not flood not a named disease with three crossed icons, cinematic vignette, atmospheric depth and soft gradient lighting
+
+105. Sickly toxic green-yellow accent flat 2D stick-figure cartoon in cinematic style over melancholy dusk, faint invisible gas still wisping up through the floorboards of an empty house, cinematic vignette, atmospheric depth and soft gradient lighting
+
+106. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a label THE DANGER WAS NEVER DRAMATIC over a quiet flat calm with no explosion, cinematic vignette, atmospheric depth and soft gradient lighting
+
+107. Muted flat 2D stick-figure cartoon in cinematic style, villagers going about ordinary life milking and walking children to school while faint gas pools unseen at their feet, cinematic vignette, atmospheric depth and soft gradient lighting
+
+108. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, the ground beneath the everyday scene breathing figures slowly to sleep as they begin to slump unaware, cinematic vignette, atmospheric depth and soft gradient lighting
+
+109. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a montage of buried things mines chemical drums waste and industry sealed up and paved over beneath cities, cinematic vignette, atmospheric depth and soft gradient lighting
+
+110. Deep dark ominous flat 2D stick-figure cartoon in cinematic style, a final wide of an ordinary modern town at dusk with faint unseen gas wisps at its edges, the unanswered question hanging, clean composition with room for end-screen cards, cinematic vignette, atmospheric depth and soft gradient lighting
