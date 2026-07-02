@@ -30,10 +30,14 @@ The green is the ownable, brand-memorable accent.
 - Bold condensed uppercase, top-left, tight leading.
 
 ## Video 6 locked concept — "The Sleeper in the Street"
-Lone villager asleep in an empty street, pinned in an amber streetlight pool; toxic-green
-gas curls up from the ground toward the body; mine headframe bleeding green in the back.
+Lone flat 2D STICK-FIGURE villager asleep in an empty street (round head, dot eyes closed),
+pinned in an amber streetlight pool; toxic-green gas curls up from the ground toward the body;
+mine headframe bleeding green in the back. Cinematic lighting/palette, flat stick-figure subject.
 Text: "A WHOLE VILLAGE FELL ASLEEP" / "AND THE AIR DID IT"
 (alt: "IT WASN'T A DISEASE." / "IT WAS THE AIR.")
+
+NOTE: subjects stay flat 2D stick-figure across ALL thumbnails (matches the videos); the
+"cinematic" part is only the lighting, palette, depth and vignette — never realistic rendering.
 
 ## Palette-swap notes for future videos
 Keep the SYSTEM (cold base + comfort-color vs threat-color + white/yellow text). Swap the two
