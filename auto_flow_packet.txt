@@ -1,0 +1,565 @@
+AUTO FLOW PACKET — IMAGE ONLY
+Video: What Did Ancient Humans Do When They Couldn't Sleep?
+Beats: 106 | Runtime: 0:00–6:52
+
+================================================================================
+# CHARACTER PROMPTS
+================================================================================
+
+@avatar — flat 2D stick figure; clean round white head; large circular eyes; neat short brown hair flat on head; simple thin limbs; no clothing detail; modern clean appearance; bold black outlines; flat fills only
+
+@ancient_human — flat 2D stick figure; round white head; large circular eyes; wild messy brown hair; slightly hunched posture; minimal rough dark wrap cloth on body; primitive pre-modern look; bold black outlines; flat fills only
+
+@historian_aldric — flat 2D stick figure; round white head; circular eyes; neat short dark hair; dark flat vest over white shirt; holding flat open rectangle (book/document); composed academic look; bold black outlines; flat fills only
+
+@lab_researcher — flat 2D stick figure; round white head; circular eyes; neat short dark hair; white flat rectangular lab coat; holding clipboard shape; clean clinical look; bold black outlines; flat fills only
+
+@medieval_scribe — flat 2D stick figure; round white head; circular eyes; dark flat long robe to floor; simple belt line at waist; period historical look; bold black outlines; flat fills only
+
+@hadza_watcher — flat 2D stick figure; round white head; circular eyes; wild unruly dark hair; no clothing (bare upper body flat skin fill); natural primitive look; bold black outlines; flat fills only
+
+@hominid_elder — flat 2D stick figure; round white head with heavier black outline on brow (pronounced brow ridge); wild dark tangled hair; bulkier body proportions; slightly forward-stooped posture; most primitive look; bold black outlines; flat fills only
+
+================================================================================
+# IMAGE PROMPTS
+================================================================================
+
+BEAT 1 | [0:00–0:04]
+@avatar lies flat on back on flat brown ground line; pure deep navy background; large circular eyes wide open staring upward; neat short brown hair; thin limbs at sides; no lamp, no clock, no objects anywhere in frame; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 2 | [0:04–0:08]
+@avatar stands small at center of vast deep navy space; no light source of any kind; faint flat brown ground line; circular eyes visible against the dark; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 3 | [0:08–0:13]
+@avatar sits cross-legged beside a tiny flat orange triangle ember shape on flat brown earth; deep navy sky above; ember is the only light in the frame; @avatar's eyes watch the fading glow; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 4 | [0:13–0:17]
+@avatar sits cross-legged on flat amber ground; hands resting on knees; eyes open and relaxed; no phone; no clock; empty open space around the figure; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 5 | [0:17–0:21]
+@avatar lies flat on back against flat amber background; eyes open and calm; no clock; no numbers; nothing above them but empty space; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 6 | [0:21–0:25]
+@avatar stands looking upward; deep navy background; flat brown ground; single flat question mark shape floating in the sky where a clock would be; no digits, no time indicator; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 7 | [0:25–0:27]
+@avatar stands at center of flat cream background; arms gently open at sides in a calm welcoming gesture; expression settled and open; clean empty frame around the figure; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 8 | [0:27–0:31]
+@avatar in mid-sit-up position; half-risen from flat ground; one arm bracing flat brown earth; eyes fully open and calm; flat crescent moon shape in deep navy sky above; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 9 | [0:31–0:35]
+row of @ancient_human silhouettes stretching left across the flat horizon; five or six figures each progressively smaller; all looking upward; wild messy brown hair visible on each; deep navy sky; flat crescent moon; flat brown earth; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 10 | [0:35–0:39]
+frame split at center; left half: @ancient_human standing on dark open land (deep navy background); right half: @avatar in identical posture against flat amber interior wall; same body position on both sides; different worlds; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 11 | [0:39–0:43]
+@avatar stands beside two flat diagrams on flat cream background; left diagram: one long solid bar labeled "NOW"; right diagram: two shorter bars with a gap between them labeled "THEN"; @avatar's arm extended pointing at the comparison; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 12 | [0:43–0:48]
+@avatar looks at a flat outlined lightbulb shape; beside it a flat "8h" sleep bar with a bold X through it; flat amber/cream background; @avatar's wide eyes show mild skepticism; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 13 | [0:48–0:51]
+large flat yellow electric beam triangle dominates the frame; tiny flat orange candle flame at its base completely dwarfed; deep navy background; small @avatar silhouette at lower edge; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 14 | [0:51–0:55]
+two @ancient_human silhouettes lying horizontally on deep navy; separated by a clear dark gap; flat arc label "FIRST" above the left figure; flat arc label "SECOND" above the right; wild messy hair shapes visible on each silhouette; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 15 | [0:55–0:59]
+@historian_aldric stands beside tall stacked flat rectangle book shapes on flat amber background; holding one open flat rectangle book; bold flat "16" text floating beside the figure; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 16 | [0:59–1:04]
+@historian_aldric stands with both arms reaching outward toward three floating flat rectangle document shapes; one angled (court record); one with small cross mark (medical); one open (literary); flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 17 | [1:04–1:08]
+@historian_aldric holds an open flat book; head tilted slightly in recognition; inside the book pages: a repeating zigzag/wave pattern visible; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 18 | [1:08–1:13]
+flat horizontal timeline strip on deep navy background; "FIRST SLEEP" bar on left; dark gap in center; "SECOND SLEEP" bar on right; two @ancient_human silhouettes lying beneath each bar; wild messy hair shapes; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 19 | [1:13–1:17]
+flat clock circle outline with "9 PM" text beside it; flat "4 HRS" sleep bar below; one @ancient_human silhouette lying asleep beneath the bar; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 20 | [1:17–1:20]
+@lab_researcher stands with arms crossed; white flat lab coat; curved stethoscope line on chest; flat medical cross symbol floating nearby; flat question mark above head; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 21 | [1:20–1:22]
+@avatar and @lab_researcher stand side by side; both with wide surprised expressions; shared "?!" flat symbol floating above both figures; flat cream/amber background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 22 | [1:22–1:25] (split A)
+@ancient_human mid-sit-up from lying; one arm bracing flat brown ground; eyes wide open; wild messy brown hair; flat crescent moon in deep navy sky; small upward motion arrow above head; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 23 | [1:25–1:28] (split B)
+@ancient_human fully seated on flat brown ground; arms relaxed at sides; circular eyes calm and open; wild messy brown hair; deep navy background; completely empty calm space around the figure; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 24 | [1:28–1:32]
+smooth arc line rising from low-left to calm mid-right on flat cream background; @ancient_human seated at the high plateau of the arc; wild messy brown hair; slight hunch; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 25 | [1:32–1:35]
+@historian_aldric at center with arms spread wide; flat cultural symbols at four corners: flat Greek column (top-left); flat African hut shape (top-right); flat fleur-de-lis (bottom-left); flat open book (bottom-right); flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 26 | [1:35–1:40]
+frame divided into four equal panels on flat cream background; panel 1: @medieval_scribe in flat toga-robe beside flat Greek column; panel 2: @hadza_watcher with wild dark hair beside flat hut shape; panel 3: @medieval_scribe in dark flat long robe beside flat stone arch; panel 4: flat open book floating alone; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 27 | [1:40–1:44]
+@medieval_scribe stands holding large open flat rectangle (medical text); flat medical cross symbol above; quill pen shape in other hand; flat stone arch shape behind; flat amber background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 28 | [1:44–1:49]
+two @medieval_scribe figures side by side; left: X-marked "BEFORE BED" arrow pointing to a sleeping figure symbol; right: checkmark "WATCHING HOUR" arrow; both @medieval_scribe figures turned slightly toward the checkmark side; flat amber background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 29 | [1:49–1:53]
+two @medieval_scribe figures seated together inside a flat arch/window frame; eyes open; expressions calm; small flat star shapes outside the arch in deep navy sky; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 30 | [1:53–1:58]
+bold flat text "THE WATCHING HOUR" centered on deep navy background; two small @medieval_scribe silhouettes at bottom of frame looking up at the text; dark flat robes; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 31 | [1:58–2:01] (split A)
+@ancient_human sits at left end of a flat horizontal timeline bar; wild messy brown hair; bold "30 MIN — 2 HRS" bracket label above the bar; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 32 | [2:01–2:04] (split B)
+@avatar leans slightly forward; deep navy background; large bold flat question mark shape directly in front of the figure; wide eyes; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 33 | [2:04–2:09]
+@ancient_human kneeling with hands clasped together in prayer position; wild messy brown hair; rough wrap cloth; thought-bubble shape above head containing small tangled line shapes; deep navy background; flat brown ground; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 34 | [2:09–2:14]
+three @ancient_human figures; one mid-walk toward the other two with flat motion lines at feet; all with wild messy brown hair and rough wrap cloth; small flat triangular hut silhouettes in deep navy background; flat brown ground; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 35 | [2:14–2:19]
+@medieval_scribe seated at flat table edge; quill pen shape in hand over flat parchment rectangle; tiny flat orange candle flame on the table; small glowing flat idea-bulb shape above the figure's head; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 36 | [2:19–2:22]
+@avatar with one arm reaching upward toward floating flat star/idea shapes; deep navy background; small flat X-sun symbol in upper corner (daylight = inaccessible); idea shapes float within reach in the dark; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 37 | [2:22–2:26]
+@ancient_human seated cross-legged in the right half of the frame; left half filled with flat jagged zigzag noise shapes; right half filled with smooth flat horizontal calm lines; @ancient_human seated entirely in the calm half; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 38 | [2:26–2:29]
+@ancient_human lying on back on flat brown ground; eyes shown as two small curved closed lines; wild messy brown hair; faint flat orange sunrise arc beginning at the far flat horizon; deep navy sky transitioning to faint orange at the edge; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 39 | [2:29–2:33]
+@lab_researcher standing at center in presenting posture; flat brain outline shape floating above; bold "NEUROSCIENCE" text on flat banner shape behind; flat cream/white background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 40 | [2:33–2:36]
+flat brain outline at center of frame; small flat spark/lightning bolt shapes inside it; "NOT IDLE" label text beside it; flat cream background; no character; flat 2D style; bold black outlines; flat fills only
+
+---
+
+BEAT 41 | [2:36–2:39]
+@lab_researcher pointing at a flat brain outline beside them; smooth calm horizontal wave lines inside the brain; "RELAXED WAKEFULNESS" flat text label; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 42 | [2:39–2:41]
+concept card on flat cream/white background; "THETA WAVES" in bold flat text at center; single smooth undulating flat wave line below it spanning the full frame width; no character; flat 2D style; bold black outlines; flat fills only
+
+---
+
+BEAT 43 | [2:41–2:46]
+@ancient_human sitting perfectly upright in cross-legged position; wild messy brown hair; smooth theta wave lines radiating outward from the figure's head in expanding rings; small flat idea-bulb shape beside the outgoing waves; flat amber background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 44 | [2:46–2:50]
+@avatar standing beside a flat brain outline; front lobe section of the brain highlighted in flat amber/orange fill; small arrow shape pointing to the highlighted front section; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 45 | [2:50–2:55]
+flat brain outline; front section filled flat grey (dimmed/goes quiet); rear section filled with small flat spark shapes (stays active); downward arrow beside front section; upward arrow beside rear section; no character; flat cream background; flat 2D style; bold black outlines; flat fills only
+
+---
+
+BEAT 46 | [2:55–2:58] (split A)
+@lab_researcher standing at flat table edge; arms forward gesturing at a small flat seedling/sprout shape growing from flat soil on the table; flat brain outline above the figure with growing spark lines inside; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 47 | [2:58–3:01] (split B)
+@avatar standing and looking upward; flat brain outline directly above the figure's head; brain completely filled with flat star/spark shapes radiating outward in all directions; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 48 | [3:01–3:06]
+three @ancient_human figures in various relaxed positions; all with wild messy brown hair and rough wrap cloth; smooth theta wave lines above each figure's head; small flat crescent moon and flat star shapes; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 49 | [3:06–3:09] (split A)
+three @lab_researcher figures standing in a neat row; white flat lab coats; clipboards; bold "2017" flat text above them; flat university arch/building silhouette shape behind; flat cream/white background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 50 | [3:09–3:12] (split B)
+two @lab_researcher figures pointing at a simplified flat African continent outline; small location dot marking Tanzania; connecting arrow from figures to the map; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 51 | [3:12–3:17]
+two @hadza_watcher figures standing in wide open flat landscape; wild unruly dark hair; bare upper body flat fill; flat acacia tree silhouette behind them; distant flat horizon; flat amber/warm background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 52 | [3:17–3:20]
+@lab_researcher holding clipboard with a simple flat diagram on it; expression confident and expectant; white flat lab coat; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 53 | [3:20–3:25]
+cluster of @hadza_watcher figures in varied states; some sitting upright with wide open eyes; some lying with closed-eye lines; wild unruly dark hair on all; bare upper body flat fill; small flat campfire ember glow; flat star shapes; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 54 | [3:25–3:30]
+two @hadza_watcher figures lying flat with closed-eye curved lines; one @hadza_watcher sitting fully upright with wide circular eyes facing the dark; wild unruly dark hair; bare body flat fill on all three; deep navy background; flat brown ground; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 55 | [3:30–3:34]
+four @hadza_watcher silhouettes below four staggered flat horizontal bars; each bar offset from the others in phase; wild dark hair shapes; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 56 | [3:34–3:39]
+@lab_researcher pointing at a flat circular rotation diagram; below the diagram: @hadza_watcher silhouettes arranged in a ring with one figure facing outward (the watchman); flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 57 | [3:39–3:44]
+one @hadza_watcher at the camp perimeter; back to the camp; wide open circular eyes facing vast deep navy darkness; wild unruly dark hair; bare body; small flat campfire ember glow behind them; faint dark flat shapes on far horizon; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 58 | [3:44–3:47] (split A)
+@avatar standing on flat brown ground; deep navy background; flat "MALFUNCTION" text label beside the figure with a bold X struck through it; arms relaxed at sides; confident posture; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 59 | [3:47–3:50] (split B)
+@avatar standing upright; flat gear/cog shapes orbiting calmly around the figure; deep navy background; the gears positioned in a smooth circular path around @avatar; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 60 | [3:50–3:55]
+@avatar standing inside a flat rectangle room outline; heavy flat rectangular curtain shapes on the walls; flat bed shape; flat amber background; slightly constrained posture; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 61 | [3:55–3:58] (split A)
+@avatar beside a long solid flat bar labeled "8 HRS"; slightly resigned posture; flat cream background; the bar is rigid and unbroken; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 62 | [3:58–4:01] (split B)
+@ancient_human silhouette standing alone in total deep navy darkness; flat brown ground; wild messy brown hair; no fire anywhere; vast empty prehistoric space; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 63 | [4:01–4:04]
+@hominid_elder stands on open prehistoric flat land; heavy black brow outline; wild dark tangled hair; bulkier body proportions; slightly forward-stooped posture; deep navy sky; no camp; no fire; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 64 | [4:04–4:08]
+@hominid_elder perched in upper branches of a flat dark tree silhouette; arms gripping flat branch lines; heavy brow; wild dark tangled hair; deep navy background; body elevated above the ground; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 65 | [4:08–4:13]
+two @hominid_elder figures: left one perched in flat tree branches; right one lying on flat earth below; flat transition arrow between them; heavy brow on both; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 66 | [4:13–4:16] (split A)
+@hominid_elder lying flat on ground; eyes shown as closed curved lines; bulkier body; wild dark tangled hair; heavy brow; deep navy sky above; flat brown earth; small flat star shapes in sky; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 67 | [4:16–4:19] (split B)
+@avatar standing with wide eyes of realization; flat glowing lightbulb shape above their head at full brightness; flat cream/amber background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 68 | [4:19–4:24]
+@hominid_elder lying flat on ground; large flat brain outline above the figure; bold deep wave lines inside the brain; flat "REM" text beside the brain; deep navy background; flat brown earth; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 69 | [4:24–4:29]
+two @hominid_elder figures side by side on flat cream background; left figure has a slightly smaller head circle; right figure has a noticeably larger head circle; flat arrow pointing from left to right; bold "100,000 YRS" text above the arrow; heavy brow and wild dark hair on both; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 70 | [4:29–4:33]
+@hominid_elder lying asleep on flat ground; flat brain outline above the figure; radial restoration lines spreading outward from the center of the brain in expanding rings; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 71 | [4:33–4:36] (split A)
+@hominid_elder lying asleep; flat brain outline above; front lobe highlighted in flat amber; small flat dot shapes moving along connecting pathways inside the brain (memory consolidation); deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 72 | [4:36–4:40] (split B)
+@hominid_elder half-risen from flat ground; eyes just opening (halfway between closed curve and full circle); wild dark tangled hair; flat star/spark shape glowing above the head; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 73 | [4:40–4:44]
+@ancient_human standing fully upright; wild messy brown hair; rough wrap cloth; large flat brain outline above the head (larger than before); flat "GROUND" arrow pointing downward to the figure's feet; flat amber background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 74 | [4:44–4:49]
+@ancient_human lying on flat earth; wild messy brown hair; rough wrap cloth; one eye fractionally open (not fully closed); one ear shape slightly raised; distant dark flat silhouette on the far horizon (vague indistinct shape); deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 75 | [4:49–4:54]
+@avatar lying asleep; neat brown hair; flat ear shape on the head glowing flat amber; eyes shown as fully closed curved lines; outward sound wave ripple lines extending from the ear shape; flat amber background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 76 | [4:54–4:58]
+@lab_researcher holding clipboard; on the clipboard: simple flat bar chart with "SOUND" bar significantly taller than "LIGHT" bar; white flat lab coat; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 77 | [4:58–5:03]
+@avatar standing inside flat rectangle room outline; flat brainstem cross-section shape highlighted at the base of the figure's head; flat amber background; the brainstem glows as distinct from the modern room around it; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 78 | [5:03–5:08]
+@avatar lying asleep inside flat room outline; deep navy darkness fills everything outside the room walls; flat "OPEN THREAT" bracket label pointing outward from the room toward the dark; flat amber interior; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 79 | [5:08–5:13]
+@avatar standing in deep navy; flat X shapes over the eyes (cannot see); ear shapes on the head glowing amber; sound wave ripple lines advancing from the darkness ahead toward the figure; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 80 | [5:13–5:16]
+@avatar standing in open questioning posture; arms slightly wide; large flat question mark shape beside the figure; flat amber background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 81 | [5:16–5:19]
+@ancient_human seated on flat brown ground; arms completely at sides; hands empty; wild messy brown hair; rough wrap cloth; expression fully calm; deep navy background; nothing else in the frame; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 82 | [5:19–5:23]
+@ancient_human lying on side; wild messy brown hair; rough wrap cloth; eyes open; small flat orange campfire triangle shape nearby; thought-bubble shape above the head containing soft abstract inner line shapes; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 83 | [5:23–5:26]
+two @ancient_human figures lying side by side on flat earth; wild messy brown hair on both; rough wrap cloth; both with eyes open; gentle sound ripple lines between the two figures; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 84 | [5:26–5:31]
+@ancient_human seated; wild messy brown hair; expression serene; flat cloud shape with flat rain lines moving across the sky above; deep navy background; the weather is passing, not threatening; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 85 | [5:31–5:36]
+two @ancient_human figures seated close together; wild messy brown hair on both; rough wrap cloth; heads angled slightly toward each other; small flat oval speech-bubble shapes between them; small flat campfire ember glow nearby; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 86 | [5:36–5:40]
+@medieval_scribe seated at flat table edge; dark flat long robe; quill pen shape in hand over flat parchment rectangle; tiny flat orange candle flame on the table; small flat cross shape in the upper corner of the frame; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 87 | [5:40–5:43]
+@medieval_scribe with quill in hand looking upward; tiny flat orange candle flame below; upper-left corner: flat sun shape with X (not morning); upper-right corner: flat crescent shape with X (not evening); deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 88 | [5:43–5:46]
+@medieval_scribe standing in the gap between a flat FIRST SLEEP bar (left) and a flat SECOND SLEEP bar (right); arms spread wide as if showing the gap's size; flat cream background; gap between bars is the focus; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 89 | [5:46–5:49] (split A)
+@ancient_human kneeling in deliberate ritual posture; hands slightly raised; wild messy brown hair; rough wrap cloth; small flat symbolic mark shapes scattered around the figure; deep navy background; flat ground; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 90 | [5:49–5:52] (split B)
+@ancient_human with one arm raised in a speaking/naming gesture; wild messy brown hair; flat name-plate shape floating above reading "THE WATCHING HOUR" in small bold text; deep navy background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 91 | [5:52–5:55] (split A)
+@ancient_human standing on open flat earth; head tilted fully back; looking straight up at a full scatter of flat star shapes; wild messy brown hair; rough wrap cloth; deep navy sky; full body visible; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 92 | [5:55–5:58] (split B)
+@ancient_human standing; head tilted back; hands completely empty at sides; no tools; no instruments; no objects; flat star shapes above in deep navy sky; pure purposeless looking; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 93 | [5:58–6:02]
+@ancient_human reclining on flat ground; head tilted all the way back facing full flat star field above; wild messy brown hair; deep navy sky; wide open frame; nothing required of the figure; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 94 | [6:02–6:07]
+long horizontal row of @ancient_human silhouettes stretching the full width of the frame; figures growing smaller toward both edges implying infinite depth; all lying or sitting; wild messy hair shape on each; deep navy sky; flat crescent moon; flat star shapes; flat brown earth horizon; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 95 | [6:07–6:11]
+@avatar in foreground looking up at flat star field; small @ancient_human silhouette far in the background on the same flat horizon also looking up at the same stars; deep navy sky; flat star shapes connecting both figures across time; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 96 | [6:11–6:15]
+@avatar lying flat on back on flat ground; eyes wide open looking straight up; neat brown hair; flat star shapes above in deep navy sky; eternal and unchanged; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 97 | [6:15–6:20]
+@avatar standing; one hand on own chest; surrounded on all sides by flat yellow electric light triangles pointing inward from every direction; overwhelming artificial light enclosing the figure; flat background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 98 | [6:20–6:24]
+@avatar standing beside flat "DISORDER" text label with a bold X struck through it; flat open book/history shape beside it with an opposing counter-arrow; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 99 | [6:24–6:28]
+@lab_researcher (left) and @hadza_watcher (right) standing side by side; both with arms extended outward in the same agreement gesture; white flat lab coat on left; bare body flat fill on right; two entirely different character types aligned on the same truth; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 100 | [6:28–6:31]
+@avatar standing; flat brain outline emerging upward from the figure's head — rising above them rather than sinking; deep navy background; the motion is one of surfacing; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 101 | [6:31–6:34]
+@avatar standing firmly; flat "BUG" text label beside the figure with a bold X through it; confident wide stance; flat cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 102 | [6:34–6:37]
+@avatar standing; head slightly tilted upward; expression calm and knowing; flat checkmark shape beside the figure; flat amber/cream background; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 103 | [6:37–6:40]
+@ancient_human and @avatar standing side by side in identical upright alert postures; wild messy brown hair (ancient); neat brown hair (modern); deep navy background; flat star shapes above both figures; two distinct character types in one continuous line of being; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 104 | [6:40–6:43]
+long row of @ancient_human silhouettes receding into the deep background; each figure smaller than the last; all standing under flat star field; wild messy hair shapes; deep navy sky; the line extends to the vanishing point on the flat horizon; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 105 | [6:43–6:47]
+@ancient_human standing fully upright; wide open circular eyes; wild messy brown hair; rough wrap cloth; deep navy background; flat star shapes above; the figure is completely awake, alive, and present in the dark; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+---
+
+BEAT 106 | [6:47–END]
+@avatar standing centered in open deep navy space; neat brown hair; expression calm and settled; flat star shapes above; flat ground below; clean and uncluttered frame with breathable space around the figure; flat 2D stick-figure cartoon; bold black outlines; flat fills only
+
+================================================================================
+# NOTES
+================================================================================
+
+Art direction: Flat 2D stick-figure cartoon throughout. Bold black outlines. Flat fills only. No gradients except sky. No shadows. No textures. No depth shading. Night = deep navy. Day/concept = flat amber or cream. Fire = flat orange triangle shapes. Stars = small flat star shapes.
+
+Character identity rule: @handles appear only where the specific character type matters to the scene. Concept-only beats (brain diagrams, text cards, timeline graphics) use no @handle.
+
+Split notation: Beats labeled (split A) and (split B) come from original audio segments longer than 5 seconds that were divided into two sequential images.
+
+Beat count: 106 total image prompts covering 0:00–6:52 runtime.

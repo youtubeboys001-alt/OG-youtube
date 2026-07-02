@@ -1,0 +1,86 @@
+# VIDEO 4 SHORT – AUTO FLOW PACKET (State 13 / Shorts) — CINEMATIC PALETTE (VARIED)
+# Title: "Do Animals Remember the Humans Who Hurt Them?" (Short)
+# Runtime: ~1:36 (96 seconds) | Total Prompts: 31 | Pacing: ~3.1s per image
+# FORMAT: VERTICAL 9:16 (YouTube Shorts) — keep all key action CENTERED in the middle vertical third
+# Treatment (constant): flat 2D stick-figure cartoon in cinematic style, soft light-pool on the subject in muted earth tones,
+#   layered silhouette depth, cinematic vignette, glowing eyes where a presence watches, soft gradient lighting.
+# Palette flexes by emotion: teal-green = dread/night; overcast green-grey = the study; warm gold = savanna/safety;
+#   cool clinical/aquarium = brain/octopus; near-monochrome+accent = abstract text.
+
+---
+
+# CHARACTER PROMPTS
+
+@crow = Black crow silhouette on a thin wire, head precisely angled, a single soft glowing eye, cool edge light
+@man = Contemporary adult stick figure, unaware, walking to a simple car shape, muted earth tones
+@scientist = Researcher stick figure with a lab-coat shape, in study beats wearing a flat rubber caveman mask
+@matriarch = Large elephant silhouette with curved tusks and raised trunk, warmly lit in golden savanna light
+@brain = 2D brain cross-section, hippocampus and amygdala highlightable, cool clinical light-pool
+@dog = Lean rescue dog silhouette, alert or flinch posture, muted warm-grey shelter
+@octopus = Simplified blob with arms inside a research-tank shape, cool aquarium blue-green water
+
+---
+
+# IMAGE PROMPTS
+
+Vertical 9:16 cool pre-dawn teal-grey flat 2D stick-figure cartoon in cinematic style, @crow centered on a wire under a soft cool light-pool head angled sharply down, a single soft glowing eye, layered building silhouettes and faint warm streetlight pools below, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 cool pre-dawn teal-grey flat 2D stick-figure cartoon in cinematic style, a small @man below walking to a simple car shape oblivious while @crow watches from the wire above in the same frame, warm streetlight pool on the man, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a generic animal centered in a glowing present-moment bubble with no past arrow and no future arrow, soft light-pool, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, an animal scattering in motion-blur away from a looming dark shape, faint glowing eyes in the shadow, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, the animal jerking in reaction then already settling as the event leaves its body, soft light-pool, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a moment dissolving into particles while the animal walks on with a clean empty file behind it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 muted near-monochrome teal flat 2D stick-figure cartoon in cinematic style, three crossed-out glowing icons stacked GRUDGE MEMORY FILE showing nothing retained, single light-pool, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a sharp red accent, the word WRONG stamped large in red over a struck-through assumption, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, a Seattle campus silhouette with @scientist figures and crows in the trees, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, a masked @scientist wearing a flat rubber caveman mask approaching a trap while @crow shapes feed unaware, warm accent on the mask, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, @crow gently held in a net while the masked @scientist crouches banding it, the crow's glowing eye locked on the mask at close range, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, @crow released and lifting away as the @scientist team walks off with equipment, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, close on @crow's eye with a faint glowing file-shape behind it holding the mask-face, the face never forgotten, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, a swirling mob of @crow shapes dive-bombing the masked figure from all directions in dynamic motion, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, split frame a neutral mask with calm crows on one side and the caveman mask with crows in alarm on the other, same person, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style with a sharp accent on the caveman mask, the caveman mask isolated and highlighted with crows in full alarm around it, the label THAT ONE, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a warm accent, a glowing label STRANGER with a forward arrow, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, a @crow with a NEVER THERE label diving at the mask it never directly encountered, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 warm-toned flat 2D stick-figure cartoon in cinematic style over teal shadow, an adult @crow teaching the mask-threat to a young @crow on a branch under a soft warm pool, the young one learning, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 overcast daylight flat 2D stick-figure cartoon in cinematic style in muted greens and grey, a young @crow in a full committed dive at the mask with a label NEVER WRONGED, a grudge inherited, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 warm golden-hour savanna flat 2D stick-figure cartoon in cinematic style in amber and dry-gold tones, @matriarch large at the front of a herd remembering specific humans, Kilimanjaro silhouette in the hazy background, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 warm golden-hour savanna flat 2D stick-figure cartoon in cinematic style in amber and dry-gold tones, @matriarch reading one threatening human group with a faint spear-throw memory icon while another group reads as safe, years later, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 muted warm-grey shelter flat 2D stick-figure cartoon in cinematic style, a rescue @dog flinching at one exact human silhouette while other shapes pass ignored, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 cool aquarium blue-green flat 2D stick-figure cartoon in cinematic style, a research tank where @octopus singles out one rough researcher figure and ignores a gentle one, cool tank light-pool, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 cool aquarium blue-green flat 2D stick-figure cartoon in cinematic style, @octopus firing a precise water-jet at the rough researcher, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a @brain cross-section with the memory-of-threat region glowing, labeled ANCIENT, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 deep-time flat 2D stick-figure cartoon in cinematic style in muted indigo and grey, many species silhouettes a bird an elephant a dog an octopus all carrying the same glowing memory-icon, older than humans and shared, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 deep-time flat 2D stick-figure cartoon in cinematic style in muted indigo and grey, a timeline with a label FORGETTING YOUR ENEMY — A MISTAKE EVOLUTION REFUSED, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, an extreme close on a single animal eye centered filling the frame, not a blank stare, the viewer faintly reflected, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a glowing file opening with a faint @man silhouette inside it, it might be checking a file, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Vertical 9:16 cool pre-dawn teal-grey flat 2D stick-figure cartoon in cinematic style, final centered frame @crow on the wire staring straight at the viewer with a soft glowing eye and a faint file-glow showing a @man silhouette, AND YOU MIGHT BE IN IT, clean composition, cinematic vignette, atmospheric depth and soft gradient lighting

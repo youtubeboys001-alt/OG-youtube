@@ -1,0 +1,80 @@
+# VIDEO 5 SHORT – AUTO FLOW PACKET (State 13 / Shorts) — CINEMATIC PALETTE (VARIED)
+# Title: "The Dark Isn't What You're Afraid Of" (Short)
+# Runtime: ~1:27 (87 seconds) | Total Prompts: 29 | Pacing: ~3.0s per image
+# FORMAT: VERTICAL 9:16 (YouTube Shorts) — keep all key action CENTERED in the middle vertical third
+# Treatment (constant): flat 2D stick-figure cartoon in cinematic style, soft light-pool on the subject in muted earth tones,
+#   layered silhouette depth, cinematic vignette, glowing eyes where a presence watches, soft gradient lighting.
+# Palette flexes by emotion: teal-green = dread/void/night; warm gold = daylight/data; warm amber = firelight/safety;
+#   cool clinical = brain; near-monochrome+accent = abstract text.
+
+---
+
+# CHARACTER PROMPTS
+
+@avatar = Viewer-narrator proxy, simple stick figure standing upright with a soft warm rim-light, round head with dot eyes, lit in muted earth tones
+@ancestor = Prehistoric human stick figure, rough tunic shape, jagged hair, bare feet, warmly lit by firelight against teal shadow
+@predator = Predator presence, low crouched silhouette, often only two soft glowing eyes in the dark, pure menace
+@brain = 2D brain cross-section diagram, lit by a cool clinical light-pool
+@modern = Contemporary adult stick figure in a plain room, often reaching toward a wall light-switch shape
+
+---
+
+# IMAGE PROMPTS
+
+1. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, @avatar standing alone and calm centered under a soft warm light-pool in a vast dark void, faint glowing eyes hidden in the surrounding shadows, cinematic vignette, atmospheric depth and soft gradient lighting
+
+2. Vertical 9:16 muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a sharp red accent, the word DARKNESS in soft glowing letters with a red strike-line through a small wound icon showing darkness as harmless, cinematic vignette, atmospheric depth and soft gradient lighting
+
+3. Vertical 9:16 muted near-monochrome flat 2D stick-figure cartoon in cinematic style, three icons stacked under a soft light-pool each marked with a faint red X, a scale a thermometer and a reaching hand, darkness has no weight no temperature and cannot touch, cinematic vignette, atmospheric depth and soft gradient lighting
+
+4. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a warm glowing light-bulb icon switching off with its light collapsing inward to a vanishing point leaving teal-black, darkness as pure absence, cinematic vignette, atmospheric depth and soft gradient lighting
+
+5. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, centered close on @avatar's chest with a soft warm amber tightening glow forming a small light-pool, the figure half in teal shadow, the first signal of fear, cinematic vignette, atmospheric depth and soft gradient lighting
+
+6. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, @avatar centered under a soft warm light-pool with a glowing label THE TRUTH above the figure, cinematic vignette, atmospheric depth and soft gradient lighting
+
+7. Vertical 9:16 cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, @avatar's round head with a @brain visible inside it, the dot eyes going dark as vision cuts out while the brain glows with an alarm light, cinematic vignette, atmospheric depth and soft gradient lighting
+
+8. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, @avatar centered under a soft light-pool with a dark blindfold band across the eyes, the dark reframed as a blindfold not a monster, cinematic vignette, atmospheric depth and soft gradient lighting
+
+9. Vertical 9:16 cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a @brain centered with a dark empty hole torn at its center, the brain outline straining and cracking at the edges refusing the empty space, cinematic vignette, atmospheric depth and soft gradient lighting
+
+10. Vertical 9:16 cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a @brain centered under a cool pool with a glowing label PREDICTION MACHINE and forward-pointing arrows radiating out, cinematic vignette, atmospheric depth and soft gradient lighting
+
+11. Vertical 9:16 warm golden daylight flat 2D stick-figure cartoon in cinematic style in muted amber and earth tones, a fully detailed clearing with objects tagged by soft glowing check-marks, the brain filling the world with data, drifting dust motes, cinematic vignette, atmospheric depth and soft gradient lighting
+
+12. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a previously warm detailed scene collapsing into teal-black as the light cuts out and the check-marks vanish, the data flood stopping, cinematic vignette, atmospheric depth and soft gradient lighting
+
+13. Vertical 9:16 muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a centered dark empty space with the glowing thought NOTHING IS THERE crossed out, cinematic vignette, atmospheric depth and soft gradient lighting
+
+14. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, the dark space labeled SOMETHING IS THERE AND YOU CAN'T SEE IT with two soft glowing predator eyes hinted deep in the black, cinematic vignette, atmospheric depth and soft gradient lighting
+
+15. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a @brain centered with its dark hole flooded by faint imagined shapes, a predator silhouette and claws bleeding into the hole, the worst thing it can imagine, cinematic vignette, atmospheric depth and soft gradient lighting
+
+16. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a @predator silhouette materializing out of the dark with claws a low crouched form and soft glowing eyes, cinematic vignette, atmospheric depth and soft gradient lighting
+
+17. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a dark amorphous shape with faint glowing eyes crouched at the foot of a simple bed under a weak warm nightlight pool, the shape at the edge of the bed, cinematic vignette, atmospheric depth and soft gradient lighting
+
+18. Vertical 9:16 warm amber firelight flat 2D stick-figure cartoon in cinematic style, an @ancestor by a fire whose glow forms a soft light-pool, head turned toward a dark bush with a faint rustle motion-line, faint glowing eyes in the surrounding shadows, cinematic vignette, atmospheric depth and soft gradient lighting
+
+19. Vertical 9:16 warm amber firelight flat 2D stick-figure cartoon in cinematic style, a @predator silhouette lunging from the dark with a strike-motion line while an @ancestor is caught in the firelight pool, flat shapes and motion not gore, cinematic vignette, atmospheric depth and soft gradient lighting
+
+20. Vertical 9:16 warm amber firelight flat 2D stick-figure cartoon in cinematic style, an @ancestor flinching hard at a rustle in the firelight pool bracing for a predator that was only wind, mildly foolish but alive, cinematic vignette, atmospheric depth and soft gradient lighting
+
+21. Vertical 9:16 warm amber firelight flat 2D stick-figure cartoon in cinematic style, an older @ancestor surrounded by several offspring around a larger warm fire forming a wide light-pool, the line that survived, cinematic vignette, atmospheric depth and soft gradient lighting
+
+22. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a long row of @ancestor figures receding into shadow each alert and scanning, faint glowing eyes in the depth, a lineage of vigilance, cinematic vignette, atmospheric depth and soft gradient lighting
+
+23. Vertical 9:16 dusk flat 2D stick-figure cartoon in cinematic style, a calm @ancestor at the edge of a dying firelight pool about to step into the dark, faint predator eyes ahead, cinematic vignette, atmospheric depth and soft gradient lighting
+
+24. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, a calm @ancestor walking into the black and dissolving into the dark, the brave ones who never came back, faint glowing eyes around, cinematic vignette, atmospheric depth and soft gradient lighting
+
+25. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, an ordinary room at night where a @modern figure reaches toward a wall light-switch shape, the hand hovering in a faint warm pool, cinematic vignette, atmospheric depth and soft gradient lighting
+
+26. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, the @modern figure hesitating with a dark corner behind, a quiet part resisting, faint glowing eyes in the corner shadow, that isn't childish, cinematic vignette, atmospheric depth and soft gradient lighting
+
+27. Vertical 9:16 muted near-monochrome flat 2D stick-figure cartoon in cinematic style with a warm accent, the glowing word INHERITANCE with a lineage line of @ancestor figures feeding forward into a single modern figure, two million years of survival, cinematic vignette, atmospheric depth and soft gradient lighting
+
+28. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, @avatar standing steady facing the dark under a soft warm protective light-pool, still watching the dark, faint glowing eyes held at bay, cinematic vignette, atmospheric depth and soft gradient lighting
+
+29. Vertical 9:16 deep dark teal-green flat 2D stick-figure cartoon in cinematic style, final centered frame of @avatar small but steady against the vast layered dark with a single soft warm light-pool, still keeping you alive, clean composition, cinematic vignette, atmospheric depth and soft gradient lighting
