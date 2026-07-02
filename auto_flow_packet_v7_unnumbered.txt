@@ -1,0 +1,193 @@
+# VIDEO 7 – AUTO FLOW PACKET (State 13) — CINEMATIC PALETTE (VARIED)
+# Title: "How Long Would We Last Without Drugs?"
+# Runtime: 6:58 (418 seconds) | Total Prompts: 85 | Pacing: ~4.9s per image (motion baked in)
+# Visual treatment (constant): flat 2D stick-figure cartoon (simple stick figures + flat silhouettes) in cinematic style,
+#   soft light-pool on the subject in muted earth tones, layered depth, cinematic vignette, soft gradient lighting.
+# Palette flexes: warm ochre = healthy-self illusion / medicine's victories; cool clinical blue-grey = dependency/drugs/hospitals;
+#   sepia = 1941 penicillin story; desaturated melancholy = graveyards/childbirth; sickly green = plague;
+#   near-monochrome + red = natural selection & the crash.
+
+---
+
+# CHARACTER PROMPTS
+
+@person = Modern human stick figure, viewer proxy, softly lit muted earth tones
+@patient = A stick figure dependent on a drug or IV with a faint glowing lifeline attached
+@doctor = Doctor or surgeon stick figure with a coat shape, cool clinical light
+@child = Small stick-figure child
+@mother = Mother stick figure, often cradling a newborn shape
+@bacteria = Simple red-tinted threat blobs and infection shapes
+
+---
+
+# IMAGE PROMPTS
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style with a warm figure, a modern @person standing upright with a faint glowing lattice of pill and molecule shapes woven through the body holding it up, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the word LITERALLY glowing beside a @person as the molecule-lattice inside them pulses, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a vast global shelf of medicines and pills blinking out one by one with a world map dimming behind, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, a dense crowd of @person figures with a large fraction greying and dimming out, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, one figure in the crowd highlighted with a YOU label flickering uncertainly, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm ochre flat 2D stick-figure cartoon in cinematic style, a @person standing confident and robust in warm light with hands on hips looking self-sufficient, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm-to-cool flat 2D stick-figure cartoon in cinematic style, the confident @person with the word ILLUSION appearing and a faint hidden scaffold flickering into view beneath the feet, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a hundred-year timeline with a species figure gradually becoming tethered to medical support along it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted flat 2D stick-figure cartoon in cinematic style, a change happening unnoticed behind a crowd going about its day oblivious, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a stark label THE UNCOMFORTABLE QUESTION under a hard light-pool, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, three icons a pill a vaccine syringe and an antibiotic capsule being swept off a surface, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a glowing HOW LONG question with an hourglass over a crowd of figures, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm ochre flat 2D stick-figure cartoon in cinematic style, a proud strong @person atop a rising health graph, the story we tell ourselves, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm-to-cool flat 2D stick-figure cartoon in cinematic style, a NOT WHAT HAPPENED label as the strong figure is revealed to be propped up by hidden supports, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a vast lattice scaffold of molecules and pills built underneath an entire crowd holding everyone up, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, a giant hand pulling the scaffold away as the figures above begin to wobble and sink, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the word ANTIBIOTICS with a single capsule glowing as a keystone in the scaffold, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted flat 2D stick-figure cartoon in cinematic style with a red accent, a tiny scratch on a hand glowing an ominous red, far too small to seem dangerous, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted flat 2D stick-figure cartoon in cinematic style, a montage of tiny injuries a garden thorn and a dirty blister, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted flat 2D stick-figure cartoon in cinematic style with a red accent, a scraped knee icon glowing faint red, another innocent wound, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, a small break in the skin drawn as a literal door set into the skin, ajar, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style with a red accent, @bacteria threat blobs pouring through the skin-door into a glowing bloodstream, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, a calendar of just a few days as a figure fades, ended in days, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Desaturated melancholy flat 2D stick-figure cartoon in cinematic style, three icons an infected tooth a cut and a sore throat each stamped with a small death mark, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Desaturated melancholy flat 2D stick-figure cartoon in cinematic style, a sore throat icon turning into something worse with a spreading dark bloom, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, an operating table with a heavy skull-shadow looming over it, surgery as suicide, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, a patient recovering on a bed then a calendar plus one week then the bed empty, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style, a thin-line motif and old-film grain transitioning into a historical story, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style, a period stick-figure policeman in Oxford with a 1941 label and film grain, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style, a label HIS CRIME AGAINST NATURE with a question mark, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style with a red accent, a rose with a thorn and a single scratch on the period figure's face glowing faint red, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style with red infection lines, the infection spreading through the period figure's body from the scratch, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style with a warm glow, a warm penicillin glow entering the figure as the red recedes and he recovers, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style, an empty penicillin vial with the warm glow guttering out, so little of it in the world, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style, the red infection returning through the figure then a small sepia gravestone, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sepia aged-film flat 2D stick-figure cartoon in cinematic style, the whole story compressed as a rose thorn and a gravestone side by side, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style with a red accent, back to modern color a rose thorn glowing red threat over a present-day @person, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style with a red accent, a modern figure and a glowing red rose thorn with the label A ROSE THORN CAN KILL YOU, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, a coin flipping over an operating table, heads or tails with a life, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Desaturated melancholy flat 2D stick-figure cartoon in cinematic style, a TWO MOST DANGEROUS MOMENTS label with two icons emerging a newborn and a mother, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Desaturated melancholy flat 2D stick-figure cartoon in cinematic style, a @mother cradling a newborn shape with a soft death-shadow behind them, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Desaturated melancholy flat 2D stick-figure cartoon in cinematic style, a row of @child figures with roughly half greyed out and the giant word HALF, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Desaturated melancholy flat 2D stick-figure cartoon in cinematic style, a family standing at a small child's grave, resigned, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Desaturated melancholy flat 2D stick-figure cartoon in cinematic style, a @mother figure with a coin of death and icons of infection and bleeding, no way to intervene, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm ochre flat 2D stick-figure cartoon in cinematic style, a child-mortality graph plummeting from high to near zero, medicine obliterating it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm ochre flat 2D stick-figure cartoon in cinematic style, a lifespan bar doubling with a magnifier revealing it isn't adults living longer, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm ochre flat 2D stick-figure cartoon in cinematic style, babies and mothers glowing and saved, the real source of the victory, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, the victory resting on a medicine pillar then a graveyard beginning to refill as it is pulled, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sickly green flat 2D stick-figure cartoon in cinematic style, another forgotten door with three plague names MEASLES POLIO SMALLPOX behind it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sickly green flat 2D stick-figure cartoon in cinematic style, a faded historical plague scene terrifying but now forgotten, greyed at the edges, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sickly green flat 2D stick-figure cartoon in cinematic style, a thin glowing wall labeled VACCINES holding back a dark rising plague tide, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Sickly green flat 2D stick-figure cartoon in cinematic style, the wall cracking as the dark tide pours through into a crowd with no immunity, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted flat 2D stick-figure cartoon in cinematic style, a modern @person and an ancestor figure side by side, the modern one more exposed and vulnerable, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted flat 2D stick-figure cartoon in cinematic style, the ancestor with a faint built-in shield of resistance the modern figure lacks, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, the modern figure bare with no shield and a re-hook label GENUINELY DARK ahead with a door opening, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, a mirror turning from the treatments toward the viewer, the subject shifting inward, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Near-monochrome primal flat 2D stick-figure cartoon in cinematic style, a stark law NATURAL SELECTION carved over a deep-time landscape, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Near-monochrome primal flat 2D stick-figure cartoon in cinematic style, vulnerable weak and sick figures being culled from a line before reaching a reproduction gate, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Near-monochrome primal flat 2D stick-figure cartoon in cinematic style, only the hardiest figures passing through a narrow selection funnel, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Near-monochrome primal flat 2D stick-figure cartoon in cinematic style, a great grinding selection engine that built every species with all life feeding through it, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm flat 2D stick-figure cartoon in cinematic style, a hand switching the grinding engine off as a warm merciful light floods in, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm flat 2D stick-figure cartoon in cinematic style, gentle hands catching and saving vulnerable figures that would have been culled, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm flat 2D stick-figure cartoon in cinematic style, the saved figures growing up and having children of their own, a lineage continuing, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm-to-dark flat 2D stick-figure cartoon in cinematic style, a beautiful warm tableau with a subtle shadow creeping in, a consequence unspoken, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, a DNA and gene-pool motif now carrying once-lethal condition markers passed forward, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style with a warm accent, a @patient kept alive by a glowing daily insulin dose with a lifeline attached, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, two @patient figures one with a heart-medication glow and one on a dialysis machine, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, the same figures shown in a bare natural world without the drugs, fading away, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm flat 2D stick-figure cartoon in cinematic style, a figure climbing an ascent with the label THE MEASURE OF HOW FAR WE'VE CLIMBED, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style with a red warning light, the switched-off selection engine suddenly roaring back to life, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style with a red accent, the selection law as a merciless dark sweep moving across figures, fast and indifferent, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, the scaffold collapsing as the oldest law switches on and the figures it held up now fall, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted near-monochrome flat 2D stick-figure cartoon in cinematic style, a HOW LONG label over a world map that thins but doesn't empty, not extinction, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted flat 2D stick-figure cartoon in cinematic style, a scattered spread-out global population too dispersed to vanish entirely, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style with a red accent, a population graph crashing steeply in the first years, a brutal winnowing, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, three dark waves infection childbirth and untreated disease sweeping through an unprepared crowd, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Near-monochrome flat 2D stick-figure cartoon in cinematic style, a smaller harder group of figures emerging from the crash standing changed, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Near-monochrome primal flat 2D stick-figure cartoon in cinematic style, a new tougher species figure, product of the reborn merciless law, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm flat 2D stick-figure cartoon in cinematic style, a modern @person imagining themselves as a self-contained tough survivor, a proud self-image, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Warm-to-cool flat 2D stick-figure cartoon in cinematic style, the self-image flickering as the hidden scaffold and lifelines are revealed around the figure again, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the @person connected by a thin glowing chain leading off-frame, the thing keeping them alive, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the chain traced to factories and supply lines and a tower of accumulated knowledge behind the figure, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Cool clinical blue-grey flat 2D stick-figure cartoon in cinematic style, the entire crowd shown held up by a single fragile glowing chain of knowledge, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Muted flat 2D stick-figure cartoon in cinematic style, a @person walking calmly through an ordinary day with the fragile chain trailing behind unnoticed, cinematic vignette, atmospheric depth and soft gradient lighting
+
+Deep dark flat 2D stick-figure cartoon in cinematic style, final frame the chain thinning to a single fragile thread behind the figure, clean composition with room for end-screen cards, cinematic vignette, atmospheric depth and soft gradient lighting
